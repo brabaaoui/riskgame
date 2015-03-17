@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="1914" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="2035" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Tue Mar 17 10:08:11 2015
+<m key="abiword.date_last_changed">Tue Mar 17 10:43:51 2015
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.creator">KAAN GAUTIER p1422250</m>
@@ -19,10 +19,10 @@
 </metadata>
 <rdf>
 </rdf>
-<history version="26" edit-time="20095" last-saved="1426583291" uid="790457c4-c6f5-11e4-96db-fa95d34236c1">
+<history version="30" edit-time="22235" last-saved="1426585431" uid="790457c4-c6f5-11e4-96db-fa95d34236c1">
 <version id="15" started="1425971883" uid="1ade917c-c714-11e4-96db-fa95d34236c1" auto="0" top-xid="4"/>
 <version id="17" started="1426578837" uid="175640fa-cc7c-11e4-8509-e1645cffeaf7" auto="0" top-xid="1774"/>
-<version id="26" started="1426579650" uid="22a39a1c-cc85-11e4-87ff-967f6baffa58" auto="0" top-xid="1780"/>
+<version id="30" started="1426579650" uid="1e50b77e-cc8a-11e4-87ff-967f6baffa58" auto="0" top-xid="1780"/>
 </history>
 <styles>
 <s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-right:0pt; text-decoration:none; bgcolor:transparent; line-height:1.0; font-size:12pt; margin-bottom:0pt; font-variant:normal; font-weight:normal; text-align:left; font-stretch:normal"/>
@@ -31,6 +31,9 @@
 <l id="1000" parentid="0" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
 <l id="1003" parentid="0" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
 <l id="1005" parentid="1003" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
+<l id="1328" parentid="0" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
+<l id="1331" parentid="0" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
+<l id="1336" parentid="0" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
 </lists>
 <pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
 <section xid="3" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
@@ -250,7 +253,7 @@
 <p level="1" listid="1003" parentid="0" xid="1887" props="margin-top:0.0000in; list-decimal:NULL; margin-left:0.5000in; start-value:0; dom-dir:ltr; text-align:justify; line-height:1.000000; list-delim:%L; margin-right:0.0000in; margin-bottom:0.0000in; text-indent:-0.3000in; list-style:Bullet List; field-font:Liberation Sans"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; list-tag:1004; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><field type="list_label" xid="1888" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Si PrégimentA &gt; PrégimentB, alors le régiment B est vaincu.</c></p>
 <p level="2" listid="1005" parentid="1003" xid="1889" props="default-tab-interval:1.27cm; margin-top:0.0000in; list-decimal:NULL; margin-left:1.0000in; start-value:0; text-indent:-0.3000in; text-align:justify; dom-dir:ltr; list-delim:%L; line-height:1.000000; tabstops: ; list-style:Bullet List; margin-right:0.0000in; margin-bottom:0.0000in; field-font:Liberation Sans"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; list-tag:1001; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><field type="list_label" xid="1885" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Si B ne possède plus d’unités sur le territoire, il est acquis par A qui choisit le nombre de ses unités qu’il veut transférer sur son nouveau territoire.</c></p>
 <p level="2" listid="1005" parentid="1003" xid="1890" props="default-tab-interval:1.27cm; margin-top:0.0000in; list-decimal:NULL; margin-left:1.0000in; start-value:0; text-indent:-0.3000in; text-align:justify; dom-dir:ltr; list-delim:%L; line-height:1.000000; tabstops: ; list-style:Bullet List; margin-right:0.0000in; margin-bottom:0.0000in; field-font:Liberation Sans"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; list-tag:1006; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><field type="list_label" xid="1891" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Si B possède encore des troupes sur ce territoire, A peut décider d’attaquer à nouveau le même territoire avec les troupes qu’il lui reste sur le sien.</c></p>
-<p level="1" listid="1000" xid="1827" props="margin-top:0.0000in; list-decimal:NULL; margin-left:0.5000in; start-value:0; dom-dir:ltr; text-align:justify; line-height:1.000000; list-delim:%L; margin-right:0.0000in; margin-bottom:0.0000in; text-indent:-0.3000in; list-style:Bullet List; field-font:Liberation Sans"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; list-tag:1002; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><field type="list_label" xid="1884" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Si PrégimentA &lt; PrégimentB, alors le régiment A est vaincu et B conserve ses unités.</c></p>
+<p level="1" listid="1000" xid="1827" props="margin-top:0.0000in; list-decimal:NULL; margin-left:0.5000in; start-value:0; dom-dir:ltr; text-align:left; margin-right:0.0000in; list-delim:%L; line-height:1.000000; margin-bottom:0.0000in; text-indent:-0.3000in; list-style:Bullet List; field-font:Liberation Sans"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; list-tag:1002; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><field type="list_label" xid="1884" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Si PrégimentA </c><c props="font-family:Symbol; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">≤</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> PrégimentB, alors le régiment A est vaincu et B conserve ses unités.</c></p>
 <p xid="1892" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:justify; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 <p xid="1895" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:justify; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Règles à retenir :</c></p>
 <p xid="1896" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:justify; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">- Un joueur peut lancer autant d’attaques qu’il le souhaite au cours d’un tour.</c></p>
@@ -287,46 +290,112 @@
 <p style="Normal" xid="1700" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c><c props="text-decoration:underline; font-size:16pt">3) Contraintes</c></p>
 <p style="Normal" xid="9"><c></c><c></c></p>
 <p style="Normal" xid="208">Voici une liste des contraintes associées  au développement du <c props="font-family:Times New Roman; font-size:12pt; color:ff0000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">/*nom du projet*/ </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">:</c></p>
-<p style="Normal" xid="1912">	- Date de livraison : 02 juin 2015<c></c></p>
-<p style="Normal" xid="1913"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">	- Coût : 3 mois de développement par 3 étudiants de l’Université Lyon 1</c></p>
-<p style="Normal" xid="1914">	- Langage utilisé : C<c></c></p>
-<p style="Normal" xid="1736" props="text-align:left; dom-dir:ltr">	- Le code respectera le coding standard suivant : code indenté, variable ayant du sens, etc. </p>
-<p style="Normal" xid="1735">	- La librairie utilisée sera SDL et une première version du jeu sera disponible en version texte.</p>
-<p style="Normal" xid="1745" props="text-align:left; dom-dir:ltr">	- L'équipe de développement utilisera les outils de debug : gdb, valgrind.</p>
-<p style="Normal" xid="211">- Gestion de version faite sur Mercurial</p>
-<p style="Normal" xid="212">- Documentation du code avec Doxygen</p>
-<p style="Normal" xid="1743" props="text-align:left; dom-dir:ltr">- Un diagramme des modules permettra d'avoir une vision de haut niveau de l'implantation. </p>
-<p style="Normal" xid="213"></p>
-<p style="Normal" xid="209"><c></c><c></c></p>
-<p style="Normal" xid="10"><c props="text-decoration:underline; font-size:16pt">4) Déroulement du projet</c><c props="text-decoration:underline; font-size:16pt"></c></p>
+<p style="Normal" xid="1912">  Cadre du projet :	</p>
+<p level="1" listid="1328" parentid="0" style="Normal" xid="1915" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Liberation Sans"><c props="list-tag:1329"></c><field type="list_label" xid="1927" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c>Date de livraison : 02 juin 2015<c></c></p>
+<p level="1" listid="1328" style="Normal" xid="1913" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Liberation Sans"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; list-tag:1330; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c><field type="list_label" xid="1919" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Coût : 3 mois de développement par 3 étudiants de l’Université Lyon 1</c></p>
+<p style="Normal" xid="1916"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">  Programmation :</c></p>
+<p level="1" listid="1331" parentid="0" style="Normal" xid="1914" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Liberation Sans"><c props="list-tag:1332"></c><field type="list_label" xid="1920" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c>Langage utilisé : C<c></c></p>
+<p level="1" listid="1331" style="Normal" xid="1736" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; dom-dir:ltr; text-align:left; field-font:Liberation Sans"><c props="list-tag:1333"></c><field type="list_label" xid="1921" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c>Le code respectera le coding standard suivant : code indenté, variable ayant du sens, etc. </p>
+<p level="1" listid="1331" style="Normal" xid="1735" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Liberation Sans"><c props="list-tag:1334"></c><field type="list_label" xid="1922" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c>La librairie utilisée sera SDL et une première version du jeu sera disponible en version texte.</p>
+<p level="1" listid="1331" style="Normal" xid="1745" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; dom-dir:ltr; text-align:left; field-font:Liberation Sans"><c props="list-tag:1335"></c><field type="list_label" xid="1923" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c>L'équipe de développement utilisera les outils de debug : gdb, valgrind.</p>
+<p style="Normal" xid="1917" props="text-align:left; dom-dir:ltr">  Livrables :</p>
+<p level="1" listid="1336" parentid="0" style="Normal" xid="211" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Liberation Sans"><c props="list-tag:1337"></c><field type="list_label" xid="1924" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c>Gestion de version faite sur Mercurial</p>
+<p level="1" listid="1336" style="Normal" xid="212" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; field-font:Liberation Sans"><c props="list-tag:1338"></c><field type="list_label" xid="1925" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c>Documentation du code avec Doxygen</p>
+<p level="1" listid="1336" style="Normal" xid="1743" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; dom-dir:ltr; text-align:left; field-font:Liberation Sans"><c props="list-tag:1339"></c><field type="list_label" xid="1926" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:fr-FR; text-position:normal; text-transform:none; homogeneous:1; color:000000; font-variant:normal; text-decoration:none; font-size:12pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c>Un diagramme des modules permettra d'avoir une vision de haut niveau de l'implantation. </p>
+<p style="Normal" xid="213"><c props="text-decoration:underline; font-size:16pt">4) Déroulement du projet</c><c props="text-decoration:underline; font-size:16pt"></c></p>
 <p style="Normal" xid="214"><c></c><c></c></p>
 <p style="Normal" xid="215">Liste des tâches :<c></c></p>
-<p style="Normal" xid="219"> 1- Réalisation du cahier des charges<c></c></p>
-<p style="Normal" xid="221"> 2- Conception du diagramme des modules<c></c></p>
-<p style="Normal" xid="222"> 3- Création de la carte de jeu<c></c></p>
-<p style="Normal" xid="223"> 4- Écriture des règles du jeu<c></c></p>
-<p style="Normal" xid="224"> 5- Développement l’IA<c></c></p>
-<p style="Normal" xid="225"> 6- Développement le système de lancer de dés<c></c></p>
-<p style="Normal" xid="226"> 7- Définition des règles de batailles<c></c></p>
-<p style="Normal" xid="238">	7.1- Algorithme de calcul des bonus/malus</p>
-<p style="Normal" xid="239">	7.2- Algorithme de calcul des puissances d’attaque/défense</p>
-<p style="Normal" xid="227"> 8- Programmation des modules de jeu<c></c></p>
-<p style="Normal" xid="230">	8.1- Module Unité<c></c></p>
-<p style="Normal" xid="231">	8.2- Module Terrain<c></c></p>
-<p style="Normal" xid="232" props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal">	8.3- Module Jeu<c></c></p>
-<p style="Normal" xid="233">	8.4- Module SimulationDés<c></c></p>
-<p style="Normal" xid="234">	8.5- Module Bataille<c></c></p>
+<p style="Normal" xid="1930"><c></c></p>
+<p style="Normal" xid="219"> 1 - Réalisation du cahier des charges<c></c></p>
+<p style="Normal" xid="1931">Membres impliqués : Tous</p>
+<p style="Normal" xid="1946">Durée : 2 semaines</p>
+<p style="Normal" xid="1945"><c></c></p>
+<p style="Normal" xid="1983"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> 1.1 - Écriture des règles du jeu</c></p>
+<p style="Normal" xid="1985" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués : Tous</c></p>
+<p style="Normal" xid="1986" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 2 semaines</c></p>
+<p style="Normal" xid="1984" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
+<p style="Normal" xid="221"> 1.2 - Conception du diagramme des modules<c></c></p>
+<p style="Normal" xid="1933"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Membres impliqués : Tous</c></p>
+<p style="Normal" xid="1947" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 2 semaines</c></p>
+<p style="Normal" xid="1948" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="1991" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> 1.3 - Définition des règles de batailles</c></p>
+<p style="Normal" xid="1992" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués : </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Tous</c></p>
+<p style="Normal" xid="1993" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 1 semaine</c></p>
+<p style="Normal" xid="1994" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="1987" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; text-indent:0.0000in; lang:fr-FR; text-position:normal; font-weight:normal; text-align:left; margin-top:0.0000in; color:000000; margin-right:0.0000in; text-decoration:none; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> 1.4 - Développement le système de lancer de dés</c></p>
+<p style="Normal" xid="1989" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués : </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Tous</c></p>
+<p style="Normal" xid="1990" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 2 semaines</c></p>
+<p style="Normal" xid="1988" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; text-indent:0.0000in; lang:fr-FR; text-position:normal; font-weight:normal; text-align:left; margin-top:0.0000in; color:000000; margin-right:0.0000in; text-decoration:none; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="222" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> 2 - Création de la carte de jeu<c></c></p>
+<p style="Normal" xid="1932"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Membres impliqués :</c></p>
+<p style="Normal" xid="1949" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 1 semaine</c></p>
+<p style="Normal" xid="1950" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="223" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> 3 - Programmation des modules de jeu</c></p>
+<p style="Normal" xid="2028" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Membres impliqués : Tous</c></p>
+<p style="Normal" xid="2029" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 9 semaines</c></p>
+<p style="Normal" xid="2030" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="1995" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:fr-FR; text-position:normal; font-weight:normal; text-align:left; line-height:1.000000; margin-top:0.0000in; color:000000; margin-right:0.0000in; text-decoration:none; margin-bottom:0.0000in; text-indent:0.0000in; font-size:12pt"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">	3.1- Module Unité</c></p>
+<p style="Normal" xid="1996" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués :</c></p>
+<p style="Normal" xid="1997" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 1 semaine</c></p>
+<p style="Normal" xid="2031" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="1998" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">	3.2- Module Terrain</c></p>
+<p style="Normal" xid="1999" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués :</c></p>
+<p style="Normal" xid="2000" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 1 semaine</c></p>
+<p style="Normal" xid="2032" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="2001" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">	3.3- Module Jeu</c></p>
+<p style="Normal" xid="2002" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués :</c></p>
+<p style="Normal" xid="2003" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 9 semaines</c></p>
+<p style="Normal" xid="2033" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="2004" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">	3.4- Module SimulationDés</c></p>
+<p style="Normal" xid="2005" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués :</c></p>
+<p style="Normal" xid="2006" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 1 semaine</c></p>
+<p style="Normal" xid="2034" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="2007" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">	3.5- Module Bataille</c></p>
+<p style="Normal" xid="2008" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués :</c></p>
+<p style="Normal" xid="2009" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 2 semaines</c></p>
+<p style="Normal" xid="1952" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; margin-bottom:0.0000in; lang:fr-FR; text-position:normal; text-indent:0.0000in; text-align:left; margin-top:0.0000in; font-weight:normal; line-height:1.000000; text-decoration:none; color:000000; margin-right:0.0000in; font-size:12pt"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="2011" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; margin-bottom:0.0000in; lang:fr-FR; text-position:normal; text-indent:0.0000in; text-align:left; margin-top:0.0000in; font-weight:normal; line-height:1.000000; text-decoration:none; color:000000; margin-right:0.0000in; font-size:12pt"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> 4- Programmation de l’interface de texte</c></p>
+<p style="Normal" xid="2012" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués :</c></p>
+<p style="Normal" xid="2013" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 3 semaines</c></p>
+<p style="Normal" xid="2014" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="2015" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> 5 - Création de l’interface de jeu</c></p>
+<p style="Normal" xid="2016" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués :</c></p>
+<p style="Normal" xid="2017" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 1 semaine</c></p>
+<p style="Normal" xid="2035" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="2018" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> 6 - Test du jeu (version texte)</c></p>
+<p style="Normal" xid="2026" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués : </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Tous</c></p>
+<p style="Normal" xid="2027" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 3 semaines</c></p>
+<p style="Normal" xid="2021" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="224" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> 7 - Développement l’IA<c></c></p>
+<p style="Normal" xid="1935"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Membres impliqués :</c></p>
+<p style="Normal" xid="1953" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 2 semaines</c></p>
+<p style="Normal" xid="1954" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="225" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> 8 - Constitution base de données images/musiques/sons</c></p>
+<p style="Normal" xid="2022" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués :</c></p>
+<p style="Normal" xid="2023" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 1 semaines</c></p>
+<p style="Normal" xid="1956" props="font-family:Times New Roman; dom-dir:ltr; font-style:normal; margin-left:0.0000in; text-indent:0.0000in; lang:fr-FR; text-position:normal; font-weight:normal; text-align:left; margin-top:0.0000in; color:000000; margin-right:0.0000in; text-decoration:none; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 <p style="Normal" xid="228"> 9- Programmation de l’interface graphique SDL<c></c></p>
-<p style="Normal" xid="229"> 10- Constitution base de données images/musiques/sons<c></c></p>
+<p style="Normal" xid="1971"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Membres impliqués :</c></p>
+<p style="Normal" xid="1972" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 6 semaines</c></p>
+<p style="Normal" xid="1939" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
+<p style="Normal" xid="229"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> 10 - Test du jeu (version graphique)</c></p>
+<p style="Normal" xid="2024" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Membres impliqués : </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Tous</c></p>
+<p style="Normal" xid="2025" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 7 semaines</c></p>
+<p style="Normal" xid="1940" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
 <p style="Normal" xid="236"> 11- Préparation soutenance<c></c></p>
-<p style="Normal" xid="240"> 12- Test du jeu</p>
-<p style="Normal" xid="237"> 13- Création de l’interface de jeu<c></c></p>
-<p style="Normal" xid="242"> 14- Programmation de l’interface de texte<c></c></p>
-<p style="Normal" xid="216"><c></c><c></c></p>
+<p style="Normal" xid="1975"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Membres impliqués : Tous</c></p>
+<p style="Normal" xid="1976" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Durée : 1 semaines</c></p>
+<p style="Normal" xid="1941" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
+<p style="Normal" xid="240"></p>
+<p style="Normal" xid="1942" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
+<p style="Normal" xid="237"></p>
+<p style="Normal" xid="1943" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
+<p style="Normal" xid="242"></p>
+<p style="Normal" xid="216" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c><c></c></p>
 <p style="Normal" xid="217"><c></c><c></c></p>
-<p style="Normal" xid="218"><pbr/>Gantt :<c></c></p>
+<p style="Normal" xid="218"><pbr/>Diagramme de Gantt :<c></c></p>
 <p style="Normal" xid="244"><c></c><c></c></p>
-<table xid="246" props="table-column-props:1.25cm/1.25cm/7.49cm/0.75cm/0.75cm/0.62cm/0.62cm/0.75cm/0.62cm/0.75cm/0.62cm/0.75cm/0.87cm/0.87cm/1.62cm/; table-row-heights:0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/1.00cm/1.00cm/0.50cm/0.50cm/0.50cm/0.50cm/0.62cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/1.00cm/1.00cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.62cm/; table-column-leftpos:-2.00cm">
+<table xid="246" props="table-column-props:1.25cm/1.25cm/7.49cm/0.75cm/0.75cm/0.62cm/0.62cm/0.75cm/0.62cm/0.75cm/0.62cm/0.75cm/0.87cm/0.87cm/1.62cm/; table-row-heights:0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/1.00cm/1.00cm/0.50cm/0.50cm/0.50cm/0.50cm/0.62cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/1.00cm/1.00cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.62cm/; table-column-leftpos:-2.00cm; list-tag:1">
 <cell xid="247" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
 <p style="Normal" xid="248">Tâche</p>
 </cell>
@@ -597,1084 +666,994 @@
 <cell xid="514" props="bot-attach:6; left-attach:14; right-attach:15; top-attach:5">
 <p style="Normal" xid="515"><c></c><c></c></p>
 </cell>
-<cell xid="517" props="bot-attach:7; left-attach:0; right-attach:1; top-attach:6">
-<p style="Normal" xid="518">1.3.1</p>
-</cell>
-<cell xid="520" props="bot-attach:7; left-attach:1; right-attach:2; top-attach:6">
-<p style="Normal" xid="521">2</p>
-</cell>
-<cell xid="523" props="bot-attach:7; left-attach:2; right-attach:3; top-attach:6">
-<p style="Normal" xid="524"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Algorithme de calcul des bonus/malus</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
-</cell>
-<cell xid="526" props="bot-attach:7; left-attach:3; right-attach:4; top-attach:6">
-<p style="Normal" xid="527">X</p>
-</cell>
-<cell xid="529" props="bot-attach:7; left-attach:4; right-attach:5; top-attach:6">
-<p style="Normal" xid="530">X</p>
-</cell>
-<cell xid="532" props="bot-attach:7; left-attach:5; right-attach:6; top-attach:6">
-<p style="Normal" xid="533"><c></c><c></c></p>
-</cell>
-<cell xid="535" props="bot-attach:7; left-attach:6; right-attach:7; top-attach:6">
-<p style="Normal" xid="536"><c></c><c></c></p>
-</cell>
-<cell xid="538" props="bot-attach:7; left-attach:7; right-attach:8; top-attach:6">
-<p style="Normal" xid="539"><c></c><c></c></p>
-</cell>
-<cell xid="541" props="bot-attach:7; left-attach:8; right-attach:9; top-attach:6">
-<p style="Normal" xid="542"><c></c><c></c></p>
-</cell>
-<cell xid="544" props="bot-attach:7; left-attach:9; right-attach:10; top-attach:6">
-<p style="Normal" xid="545"><c></c><c></c></p>
-</cell>
-<cell xid="547" props="bot-attach:7; left-attach:10; right-attach:11; top-attach:6">
-<p style="Normal" xid="548"><c></c><c></c></p>
-</cell>
-<cell xid="550" props="bot-attach:7; left-attach:11; right-attach:12; top-attach:6">
-<p style="Normal" xid="551"><c></c><c></c></p>
-</cell>
-<cell xid="553" props="bot-attach:7; left-attach:12; right-attach:13; top-attach:6">
-<p style="Normal" xid="554"><c></c><c></c></p>
-</cell>
-<cell xid="556" props="bot-attach:7; left-attach:13; right-attach:14; top-attach:6">
-<p style="Normal" xid="557"><c></c><c></c></p>
-</cell>
-<cell xid="559" props="bot-attach:7; left-attach:14; right-attach:15; top-attach:6">
-<p style="Normal" xid="560"><c></c><c></c></p>
-</cell>
-<cell xid="562" props="bot-attach:8; left-attach:0; right-attach:1; top-attach:7">
-<p style="Normal" xid="563">1.3.2</p>
-</cell>
-<cell xid="565" props="bot-attach:8; left-attach:1; right-attach:2; top-attach:7">
-<p style="Normal" xid="566">2</p>
-</cell>
-<cell xid="568" props="bot-attach:8; left-attach:2; right-attach:3; top-attach:7">
-<p style="Normal" xid="569"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Algorithme de calcul des puissances d’attaque/défense</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
-</cell>
-<cell xid="571" props="bot-attach:8; left-attach:3; right-attach:4; top-attach:7">
-<p style="Normal" xid="572">X</p>
-</cell>
-<cell xid="574" props="bot-attach:8; left-attach:4; right-attach:5; top-attach:7">
-<p style="Normal" xid="575">X</p>
-</cell>
-<cell xid="577" props="bot-attach:8; left-attach:5; right-attach:6; top-attach:7">
-<p style="Normal" xid="578"><c></c><c></c></p>
-</cell>
-<cell xid="580" props="bot-attach:8; left-attach:6; right-attach:7; top-attach:7">
-<p style="Normal" xid="581"><c></c><c></c></p>
-</cell>
-<cell xid="583" props="bot-attach:8; left-attach:7; right-attach:8; top-attach:7">
-<p style="Normal" xid="584"><c></c><c></c></p>
-</cell>
-<cell xid="586" props="bot-attach:8; left-attach:8; right-attach:9; top-attach:7">
-<p style="Normal" xid="587"><c></c><c></c></p>
-</cell>
-<cell xid="589" props="bot-attach:8; left-attach:9; right-attach:10; top-attach:7">
-<p style="Normal" xid="590"><c></c><c></c></p>
-</cell>
-<cell xid="592" props="bot-attach:8; left-attach:10; right-attach:11; top-attach:7">
-<p style="Normal" xid="593"><c></c><c></c></p>
-</cell>
-<cell xid="595" props="bot-attach:8; left-attach:11; right-attach:12; top-attach:7">
-<p style="Normal" xid="596"><c></c><c></c></p>
-</cell>
-<cell xid="598" props="bot-attach:8; left-attach:12; right-attach:13; top-attach:7">
-<p style="Normal" xid="599"><c></c><c></c></p>
-</cell>
-<cell xid="601" props="bot-attach:8; left-attach:13; right-attach:14; top-attach:7">
-<p style="Normal" xid="602"><c></c><c></c></p>
-</cell>
-<cell xid="604" props="bot-attach:8; left-attach:14; right-attach:15; top-attach:7">
-<p style="Normal" xid="605"><c></c><c></c></p>
-</cell>
-<cell xid="607" props="bot-attach:9; left-attach:0; right-attach:1; top-attach:8">
+<cell xid="607" props="bot-attach:7; left-attach:0; right-attach:1; top-attach:6">
 <p style="Normal" xid="608">1.4</p>
 </cell>
-<cell xid="610" props="bot-attach:9; left-attach:1; right-attach:2; top-attach:8">
+<cell xid="610" props="bot-attach:7; left-attach:1; right-attach:2; top-attach:6">
 <p style="Normal" xid="611">2</p>
 </cell>
-<cell xid="613" props="bot-attach:9; left-attach:2; right-attach:3; top-attach:8">
-<p style="Normal" xid="614"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Développement le système de lancer de dés</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<cell xid="613" props="bot-attach:7; left-attach:2; right-attach:3; top-attach:6">
+<p style="Normal" xid="614"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Développement </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">du</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"> système de lancer de dés</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="616" props="bot-attach:9; left-attach:3; right-attach:4; top-attach:8">
+<cell xid="616" props="bot-attach:7; left-attach:3; right-attach:4; top-attach:6">
 <p style="Normal" xid="617">X</p>
 </cell>
-<cell xid="619" props="bot-attach:9; left-attach:4; right-attach:5; top-attach:8">
+<cell xid="619" props="bot-attach:7; left-attach:4; right-attach:5; top-attach:6">
 <p style="Normal" xid="620">X</p>
 </cell>
-<cell xid="622" props="bot-attach:9; left-attach:5; right-attach:6; top-attach:8">
+<cell xid="622" props="bot-attach:7; left-attach:5; right-attach:6; top-attach:6">
 <p style="Normal" xid="623"><c></c><c></c></p>
 </cell>
-<cell xid="625" props="bot-attach:9; left-attach:6; right-attach:7; top-attach:8">
+<cell xid="625" props="bot-attach:7; left-attach:6; right-attach:7; top-attach:6">
 <p style="Normal" xid="626"><c></c><c></c></p>
 </cell>
-<cell xid="628" props="bot-attach:9; left-attach:7; right-attach:8; top-attach:8">
+<cell xid="628" props="bot-attach:7; left-attach:7; right-attach:8; top-attach:6">
 <p style="Normal" xid="629"><c></c><c></c></p>
 </cell>
-<cell xid="631" props="bot-attach:9; left-attach:8; right-attach:9; top-attach:8">
+<cell xid="631" props="bot-attach:7; left-attach:8; right-attach:9; top-attach:6">
 <p style="Normal" xid="632"><c></c><c></c></p>
 </cell>
-<cell xid="634" props="bot-attach:9; left-attach:9; right-attach:10; top-attach:8">
+<cell xid="634" props="bot-attach:7; left-attach:9; right-attach:10; top-attach:6">
 <p style="Normal" xid="635"><c></c><c></c></p>
 </cell>
-<cell xid="637" props="bot-attach:9; left-attach:10; right-attach:11; top-attach:8">
+<cell xid="637" props="bot-attach:7; left-attach:10; right-attach:11; top-attach:6">
 <p style="Normal" xid="638"><c></c><c></c></p>
 </cell>
-<cell xid="640" props="bot-attach:9; left-attach:11; right-attach:12; top-attach:8">
+<cell xid="640" props="bot-attach:7; left-attach:11; right-attach:12; top-attach:6">
 <p style="Normal" xid="641"><c></c><c></c></p>
 </cell>
-<cell xid="643" props="bot-attach:9; left-attach:12; right-attach:13; top-attach:8">
+<cell xid="643" props="bot-attach:7; left-attach:12; right-attach:13; top-attach:6">
 <p style="Normal" xid="644"><c></c><c></c></p>
 </cell>
-<cell xid="646" props="bot-attach:9; left-attach:13; right-attach:14; top-attach:8">
+<cell xid="646" props="bot-attach:7; left-attach:13; right-attach:14; top-attach:6">
 <p style="Normal" xid="647"><c></c><c></c></p>
 </cell>
-<cell xid="649" props="bot-attach:9; left-attach:14; right-attach:15; top-attach:8">
+<cell xid="649" props="bot-attach:7; left-attach:14; right-attach:15; top-attach:6">
 <p style="Normal" xid="650"><c></c><c></c></p>
 </cell>
-<cell xid="652" props="bot-attach:10; left-attach:0; right-attach:1; top-attach:9">
+<cell xid="652" props="bot-attach:8; left-attach:0; right-attach:1; top-attach:7">
 <p style="Normal" xid="653">3</p>
 </cell>
-<cell xid="655" props="bot-attach:10; left-attach:1; right-attach:2; top-attach:9">
+<cell xid="655" props="bot-attach:8; left-attach:1; right-attach:2; top-attach:7">
 <p style="Normal" xid="656">9</p>
 </cell>
-<cell xid="658" props="bot-attach:10; left-attach:2; right-attach:3; top-attach:9">
+<cell xid="658" props="bot-attach:8; left-attach:2; right-attach:3; top-attach:7">
 <p style="Normal" xid="659" props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Programmation des modules de jeu</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="661" props="bot-attach:10; left-attach:3; right-attach:4; top-attach:9">
+<cell xid="661" props="bot-attach:8; left-attach:3; right-attach:4; top-attach:7">
 <p style="Normal" xid="662"><c></c><c></c></p>
 </cell>
-<cell xid="664" props="bot-attach:10; left-attach:4; right-attach:5; top-attach:9">
+<cell xid="664" props="bot-attach:8; left-attach:4; right-attach:5; top-attach:7">
 <p style="Normal" xid="665"><c></c><c></c></p>
 </cell>
-<cell xid="667" props="bot-attach:10; left-attach:5; right-attach:6; top-attach:9">
+<cell xid="667" props="bot-attach:8; left-attach:5; right-attach:6; top-attach:7">
 <p style="Normal" xid="668">X</p>
 </cell>
-<cell xid="670" props="bot-attach:10; left-attach:6; right-attach:7; top-attach:9">
+<cell xid="670" props="bot-attach:8; left-attach:6; right-attach:7; top-attach:7">
 <p style="Normal" xid="671">X</p>
 </cell>
-<cell xid="673" props="bot-attach:10; left-attach:7; right-attach:8; top-attach:9">
+<cell xid="673" props="bot-attach:8; left-attach:7; right-attach:8; top-attach:7">
 <p style="Normal" xid="674">X</p>
 </cell>
-<cell xid="676" props="bot-attach:10; left-attach:8; right-attach:9; top-attach:9">
+<cell xid="676" props="bot-attach:8; left-attach:8; right-attach:9; top-attach:7">
 <p style="Normal" xid="677">X</p>
 </cell>
-<cell xid="679" props="bot-attach:10; left-attach:9; right-attach:10; top-attach:9">
+<cell xid="679" props="bot-attach:8; left-attach:9; right-attach:10; top-attach:7">
 <p style="Normal" xid="680">X</p>
 </cell>
-<cell xid="682" props="bot-attach:10; left-attach:10; right-attach:11; top-attach:9">
+<cell xid="682" props="bot-attach:8; left-attach:10; right-attach:11; top-attach:7">
 <p style="Normal" xid="683">X</p>
 </cell>
-<cell xid="685" props="bot-attach:10; left-attach:11; right-attach:12; top-attach:9">
+<cell xid="685" props="bot-attach:8; left-attach:11; right-attach:12; top-attach:7">
 <p style="Normal" xid="686">X</p>
 </cell>
-<cell xid="688" props="bot-attach:10; left-attach:12; right-attach:13; top-attach:9">
+<cell xid="688" props="bot-attach:8; left-attach:12; right-attach:13; top-attach:7">
 <p style="Normal" xid="689">X</p>
 </cell>
-<cell xid="691" props="bot-attach:10; left-attach:13; right-attach:14; top-attach:9">
+<cell xid="691" props="bot-attach:8; left-attach:13; right-attach:14; top-attach:7">
 <p style="Normal" xid="692">X</p>
 </cell>
-<cell xid="694" props="bot-attach:10; left-attach:14; right-attach:15; top-attach:9">
+<cell xid="694" props="bot-attach:8; left-attach:14; right-attach:15; top-attach:7">
 <p style="Normal" xid="695"><c></c><c></c></p>
 </cell>
-<cell xid="697" props="bot-attach:11; left-attach:0; right-attach:1; top-attach:10">
+<cell xid="697" props="bot-attach:9; left-attach:0; right-attach:1; top-attach:8">
 <p style="Normal" xid="698">3.1</p>
 </cell>
-<cell xid="700" props="bot-attach:11; left-attach:1; right-attach:2; top-attach:10">
+<cell xid="700" props="bot-attach:9; left-attach:1; right-attach:2; top-attach:8">
 <p style="Normal" xid="701">1</p>
 </cell>
-<cell xid="703" props="bot-attach:11; left-attach:2; right-attach:3; top-attach:10">
+<cell xid="703" props="bot-attach:9; left-attach:2; right-attach:3; top-attach:8">
 <p style="Normal" xid="704"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Unité</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="706" props="bot-attach:11; left-attach:3; right-attach:4; top-attach:10">
+<cell xid="706" props="bot-attach:9; left-attach:3; right-attach:4; top-attach:8">
 <p style="Normal" xid="707"><c></c><c></c></p>
 </cell>
-<cell xid="709" props="bot-attach:11; left-attach:4; right-attach:5; top-attach:10">
+<cell xid="709" props="bot-attach:9; left-attach:4; right-attach:5; top-attach:8">
 <p style="Normal" xid="710"><c></c><c></c></p>
 </cell>
-<cell xid="712" props="bot-attach:11; left-attach:5; right-attach:6; top-attach:10">
+<cell xid="712" props="bot-attach:9; left-attach:5; right-attach:6; top-attach:8">
 <p style="Normal" xid="713">X</p>
 </cell>
-<cell xid="715" props="bot-attach:11; left-attach:6; right-attach:7; top-attach:10">
+<cell xid="715" props="bot-attach:9; left-attach:6; right-attach:7; top-attach:8">
 <p style="Normal" xid="716"><c></c><c></c></p>
 </cell>
-<cell xid="718" props="bot-attach:11; left-attach:7; right-attach:8; top-attach:10">
+<cell xid="718" props="bot-attach:9; left-attach:7; right-attach:8; top-attach:8">
 <p style="Normal" xid="719"><c></c><c></c></p>
 </cell>
-<cell xid="721" props="bot-attach:11; left-attach:8; right-attach:9; top-attach:10">
+<cell xid="721" props="bot-attach:9; left-attach:8; right-attach:9; top-attach:8">
 <p style="Normal" xid="722"><c></c><c></c></p>
 </cell>
-<cell xid="724" props="bot-attach:11; left-attach:9; right-attach:10; top-attach:10">
+<cell xid="724" props="bot-attach:9; left-attach:9; right-attach:10; top-attach:8">
 <p style="Normal" xid="725"><c></c><c></c></p>
 </cell>
-<cell xid="727" props="bot-attach:11; left-attach:10; right-attach:11; top-attach:10">
+<cell xid="727" props="bot-attach:9; left-attach:10; right-attach:11; top-attach:8">
 <p style="Normal" xid="728"><c></c><c></c></p>
 </cell>
-<cell xid="730" props="bot-attach:11; left-attach:11; right-attach:12; top-attach:10">
+<cell xid="730" props="bot-attach:9; left-attach:11; right-attach:12; top-attach:8">
 <p style="Normal" xid="731"><c></c><c></c></p>
 </cell>
-<cell xid="733" props="bot-attach:11; left-attach:12; right-attach:13; top-attach:10">
+<cell xid="733" props="bot-attach:9; left-attach:12; right-attach:13; top-attach:8">
 <p style="Normal" xid="734"><c></c><c></c></p>
 </cell>
-<cell xid="736" props="bot-attach:11; left-attach:13; right-attach:14; top-attach:10">
+<cell xid="736" props="bot-attach:9; left-attach:13; right-attach:14; top-attach:8">
 <p style="Normal" xid="737"><c></c><c></c></p>
 </cell>
-<cell xid="739" props="bot-attach:11; left-attach:14; right-attach:15; top-attach:10">
+<cell xid="739" props="bot-attach:9; left-attach:14; right-attach:15; top-attach:8">
 <p style="Normal" xid="740"><c></c><c></c></p>
 </cell>
-<cell xid="742" props="bot-attach:12; left-attach:0; right-attach:1; top-attach:11">
+<cell xid="742" props="bot-attach:10; left-attach:0; right-attach:1; top-attach:9">
 <p style="Normal" xid="743">3.2</p>
 </cell>
-<cell xid="745" props="bot-attach:12; left-attach:1; right-attach:2; top-attach:11">
+<cell xid="745" props="bot-attach:10; left-attach:1; right-attach:2; top-attach:9">
 <p style="Normal" xid="746">1</p>
 </cell>
-<cell xid="748" props="bot-attach:12; left-attach:2; right-attach:3; top-attach:11">
+<cell xid="748" props="bot-attach:10; left-attach:2; right-attach:3; top-attach:9">
 <p style="Normal" xid="749"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Terrain</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="751" props="bot-attach:12; left-attach:3; right-attach:4; top-attach:11">
+<cell xid="751" props="bot-attach:10; left-attach:3; right-attach:4; top-attach:9">
 <p style="Normal" xid="752"><c></c><c></c></p>
 </cell>
-<cell xid="754" props="bot-attach:12; left-attach:4; right-attach:5; top-attach:11">
+<cell xid="754" props="bot-attach:10; left-attach:4; right-attach:5; top-attach:9">
 <p style="Normal" xid="755"><c></c><c></c></p>
 </cell>
-<cell xid="757" props="bot-attach:12; left-attach:5; right-attach:6; top-attach:11">
+<cell xid="757" props="bot-attach:10; left-attach:5; right-attach:6; top-attach:9">
 <p style="Normal" xid="758">X</p>
 </cell>
-<cell xid="760" props="bot-attach:12; left-attach:6; right-attach:7; top-attach:11">
+<cell xid="760" props="bot-attach:10; left-attach:6; right-attach:7; top-attach:9">
 <p style="Normal" xid="761"><c></c><c></c></p>
 </cell>
-<cell xid="763" props="bot-attach:12; left-attach:7; right-attach:8; top-attach:11">
+<cell xid="763" props="bot-attach:10; left-attach:7; right-attach:8; top-attach:9">
 <p style="Normal" xid="764"><c></c><c></c></p>
 </cell>
-<cell xid="766" props="bot-attach:12; left-attach:8; right-attach:9; top-attach:11">
+<cell xid="766" props="bot-attach:10; left-attach:8; right-attach:9; top-attach:9">
 <p style="Normal" xid="767"><c></c><c></c></p>
 </cell>
-<cell xid="769" props="bot-attach:12; left-attach:9; right-attach:10; top-attach:11">
+<cell xid="769" props="bot-attach:10; left-attach:9; right-attach:10; top-attach:9">
 <p style="Normal" xid="770"><c></c><c></c></p>
 </cell>
-<cell xid="772" props="bot-attach:12; left-attach:10; right-attach:11; top-attach:11">
+<cell xid="772" props="bot-attach:10; left-attach:10; right-attach:11; top-attach:9">
 <p style="Normal" xid="773"><c></c><c></c></p>
 </cell>
-<cell xid="775" props="bot-attach:12; left-attach:11; right-attach:12; top-attach:11">
+<cell xid="775" props="bot-attach:10; left-attach:11; right-attach:12; top-attach:9">
 <p style="Normal" xid="776"><c></c><c></c></p>
 </cell>
-<cell xid="778" props="bot-attach:12; left-attach:12; right-attach:13; top-attach:11">
+<cell xid="778" props="bot-attach:10; left-attach:12; right-attach:13; top-attach:9">
 <p style="Normal" xid="779"><c></c><c></c></p>
 </cell>
-<cell xid="781" props="bot-attach:12; left-attach:13; right-attach:14; top-attach:11">
+<cell xid="781" props="bot-attach:10; left-attach:13; right-attach:14; top-attach:9">
 <p style="Normal" xid="782"><c></c><c></c></p>
 </cell>
-<cell xid="784" props="bot-attach:12; left-attach:14; right-attach:15; top-attach:11">
+<cell xid="784" props="bot-attach:10; left-attach:14; right-attach:15; top-attach:9">
 <p style="Normal" xid="785"><c></c><c></c></p>
 </cell>
-<cell xid="787" props="bot-attach:13; left-attach:0; right-attach:1; top-attach:12">
+<cell xid="787" props="bot-attach:11; left-attach:0; right-attach:1; top-attach:10">
 <p style="Normal" xid="788">3.3</p>
 </cell>
-<cell xid="790" props="bot-attach:13; left-attach:1; right-attach:2; top-attach:12">
+<cell xid="790" props="bot-attach:11; left-attach:1; right-attach:2; top-attach:10">
 <p style="Normal" xid="791">9</p>
 </cell>
-<cell xid="793" props="bot-attach:13; left-attach:2; right-attach:3; top-attach:12">
+<cell xid="793" props="bot-attach:11; left-attach:2; right-attach:3; top-attach:10">
 <p style="Normal" xid="794"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Jeu</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="796" props="bot-attach:13; left-attach:3; right-attach:4; top-attach:12">
+<cell xid="796" props="bot-attach:11; left-attach:3; right-attach:4; top-attach:10">
 <p style="Normal" xid="797"><c></c><c></c></p>
 </cell>
-<cell xid="799" props="bot-attach:13; left-attach:4; right-attach:5; top-attach:12">
+<cell xid="799" props="bot-attach:11; left-attach:4; right-attach:5; top-attach:10">
 <p style="Normal" xid="800"><c></c><c></c></p>
 </cell>
-<cell xid="802" props="bot-attach:13; left-attach:5; right-attach:6; top-attach:12">
+<cell xid="802" props="bot-attach:11; left-attach:5; right-attach:6; top-attach:10">
 <p style="Normal" xid="803">X</p>
 </cell>
-<cell xid="805" props="bot-attach:13; left-attach:6; right-attach:7; top-attach:12">
+<cell xid="805" props="bot-attach:11; left-attach:6; right-attach:7; top-attach:10">
 <p style="Normal" xid="806">X</p>
 </cell>
-<cell xid="808" props="bot-attach:13; left-attach:7; right-attach:8; top-attach:12">
+<cell xid="808" props="bot-attach:11; left-attach:7; right-attach:8; top-attach:10">
 <p style="Normal" xid="809">X</p>
 </cell>
-<cell xid="811" props="bot-attach:13; left-attach:8; right-attach:9; top-attach:12">
+<cell xid="811" props="bot-attach:11; left-attach:8; right-attach:9; top-attach:10">
 <p style="Normal" xid="812">X</p>
 </cell>
-<cell xid="814" props="bot-attach:13; left-attach:9; right-attach:10; top-attach:12">
+<cell xid="814" props="bot-attach:11; left-attach:9; right-attach:10; top-attach:10">
 <p style="Normal" xid="815">X</p>
 </cell>
-<cell xid="817" props="bot-attach:13; left-attach:10; right-attach:11; top-attach:12">
+<cell xid="817" props="bot-attach:11; left-attach:10; right-attach:11; top-attach:10">
 <p style="Normal" xid="818">X</p>
 </cell>
-<cell xid="820" props="bot-attach:13; left-attach:11; right-attach:12; top-attach:12">
+<cell xid="820" props="bot-attach:11; left-attach:11; right-attach:12; top-attach:10">
 <p style="Normal" xid="821">X</p>
 </cell>
-<cell xid="823" props="bot-attach:13; left-attach:12; right-attach:13; top-attach:12">
+<cell xid="823" props="bot-attach:11; left-attach:12; right-attach:13; top-attach:10">
 <p style="Normal" xid="824">X</p>
 </cell>
-<cell xid="826" props="bot-attach:13; left-attach:13; right-attach:14; top-attach:12">
+<cell xid="826" props="bot-attach:11; left-attach:13; right-attach:14; top-attach:10">
 <p style="Normal" xid="827">X</p>
 </cell>
-<cell xid="829" props="bot-attach:13; left-attach:14; right-attach:15; top-attach:12">
+<cell xid="829" props="bot-attach:11; left-attach:14; right-attach:15; top-attach:10">
 <p style="Normal" xid="830"><c></c><c></c></p>
 </cell>
-<cell xid="832" props="bot-attach:14; left-attach:0; right-attach:1; top-attach:13">
+<cell xid="832" props="bot-attach:12; left-attach:0; right-attach:1; top-attach:11">
 <p style="Normal" xid="833">3.4</p>
 </cell>
-<cell xid="835" props="bot-attach:14; left-attach:1; right-attach:2; top-attach:13">
+<cell xid="835" props="bot-attach:12; left-attach:1; right-attach:2; top-attach:11">
 <p style="Normal" xid="836">1</p>
 </cell>
-<cell xid="838" props="bot-attach:14; left-attach:2; right-attach:3; top-attach:13">
+<cell xid="838" props="bot-attach:12; left-attach:2; right-attach:3; top-attach:11">
 <p style="Normal" xid="839"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module SimulationDés</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="841" props="bot-attach:14; left-attach:3; right-attach:4; top-attach:13">
+<cell xid="841" props="bot-attach:12; left-attach:3; right-attach:4; top-attach:11">
 <p style="Normal" xid="842"><c></c><c></c></p>
 </cell>
-<cell xid="844" props="bot-attach:14; left-attach:4; right-attach:5; top-attach:13">
+<cell xid="844" props="bot-attach:12; left-attach:4; right-attach:5; top-attach:11">
 <p style="Normal" xid="845"><c></c><c></c></p>
 </cell>
-<cell xid="847" props="bot-attach:14; left-attach:5; right-attach:6; top-attach:13">
+<cell xid="847" props="bot-attach:12; left-attach:5; right-attach:6; top-attach:11">
 <p style="Normal" xid="848">X</p>
 </cell>
-<cell xid="850" props="bot-attach:14; left-attach:6; right-attach:7; top-attach:13">
+<cell xid="850" props="bot-attach:12; left-attach:6; right-attach:7; top-attach:11">
 <p style="Normal" xid="851"><c></c><c></c></p>
 </cell>
-<cell xid="853" props="bot-attach:14; left-attach:7; right-attach:8; top-attach:13">
+<cell xid="853" props="bot-attach:12; left-attach:7; right-attach:8; top-attach:11">
 <p style="Normal" xid="854"><c></c><c></c></p>
 </cell>
-<cell xid="856" props="bot-attach:14; left-attach:8; right-attach:9; top-attach:13">
+<cell xid="856" props="bot-attach:12; left-attach:8; right-attach:9; top-attach:11">
 <p style="Normal" xid="857"><c></c><c></c></p>
 </cell>
-<cell xid="859" props="bot-attach:14; left-attach:9; right-attach:10; top-attach:13">
+<cell xid="859" props="bot-attach:12; left-attach:9; right-attach:10; top-attach:11">
 <p style="Normal" xid="860"><c></c><c></c></p>
 </cell>
-<cell xid="862" props="bot-attach:14; left-attach:10; right-attach:11; top-attach:13">
+<cell xid="862" props="bot-attach:12; left-attach:10; right-attach:11; top-attach:11">
 <p style="Normal" xid="863"><c></c><c></c></p>
 </cell>
-<cell xid="865" props="bot-attach:14; left-attach:11; right-attach:12; top-attach:13">
+<cell xid="865" props="bot-attach:12; left-attach:11; right-attach:12; top-attach:11">
 <p style="Normal" xid="866"><c></c><c></c></p>
 </cell>
-<cell xid="868" props="bot-attach:14; left-attach:12; right-attach:13; top-attach:13">
+<cell xid="868" props="bot-attach:12; left-attach:12; right-attach:13; top-attach:11">
 <p style="Normal" xid="869"><c></c><c></c></p>
 </cell>
-<cell xid="871" props="bot-attach:14; left-attach:13; right-attach:14; top-attach:13">
+<cell xid="871" props="bot-attach:12; left-attach:13; right-attach:14; top-attach:11">
 <p style="Normal" xid="872"><c></c><c></c></p>
 </cell>
-<cell xid="874" props="bot-attach:14; left-attach:14; right-attach:15; top-attach:13">
+<cell xid="874" props="bot-attach:12; left-attach:14; right-attach:15; top-attach:11">
 <p style="Normal" xid="875"><c></c><c></c></p>
 </cell>
-<cell xid="877" props="bot-attach:15; left-attach:0; right-attach:1; top-attach:14">
+<cell xid="877" props="bot-attach:13; left-attach:0; right-attach:1; top-attach:12">
 <p style="Normal" xid="878">3.5</p>
 </cell>
-<cell xid="880" props="bot-attach:15; left-attach:1; right-attach:2; top-attach:14">
+<cell xid="880" props="bot-attach:13; left-attach:1; right-attach:2; top-attach:12">
 <p style="Normal" xid="881">2</p>
 </cell>
-<cell xid="883" props="bot-attach:15; left-attach:2; right-attach:3; top-attach:14">
+<cell xid="883" props="bot-attach:13; left-attach:2; right-attach:3; top-attach:12">
 <p style="Normal" xid="884"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Bataille</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="886" props="bot-attach:15; left-attach:3; right-attach:4; top-attach:14">
+<cell xid="886" props="bot-attach:13; left-attach:3; right-attach:4; top-attach:12">
 <p style="Normal" xid="887"><c></c><c></c></p>
 </cell>
-<cell xid="889" props="bot-attach:15; left-attach:4; right-attach:5; top-attach:14">
+<cell xid="889" props="bot-attach:13; left-attach:4; right-attach:5; top-attach:12">
 <p style="Normal" xid="890"><c></c><c></c></p>
 </cell>
-<cell xid="892" props="bot-attach:15; left-attach:5; right-attach:6; top-attach:14">
+<cell xid="892" props="bot-attach:13; left-attach:5; right-attach:6; top-attach:12">
 <p style="Normal" xid="893"><c></c><c></c></p>
 </cell>
-<cell xid="895" props="bot-attach:15; left-attach:6; right-attach:7; top-attach:14">
+<cell xid="895" props="bot-attach:13; left-attach:6; right-attach:7; top-attach:12">
 <p style="Normal" xid="896">X</p>
 </cell>
-<cell xid="898" props="bot-attach:15; left-attach:7; right-attach:8; top-attach:14">
+<cell xid="898" props="bot-attach:13; left-attach:7; right-attach:8; top-attach:12">
 <p style="Normal" xid="899">X</p>
 </cell>
-<cell xid="901" props="bot-attach:15; left-attach:8; right-attach:9; top-attach:14">
+<cell xid="901" props="bot-attach:13; left-attach:8; right-attach:9; top-attach:12">
 <p style="Normal" xid="902"><c></c><c></c></p>
 </cell>
-<cell xid="904" props="bot-attach:15; left-attach:9; right-attach:10; top-attach:14">
+<cell xid="904" props="bot-attach:13; left-attach:9; right-attach:10; top-attach:12">
 <p style="Normal" xid="905"><c></c><c></c></p>
 </cell>
-<cell xid="907" props="bot-attach:15; left-attach:10; right-attach:11; top-attach:14">
+<cell xid="907" props="bot-attach:13; left-attach:10; right-attach:11; top-attach:12">
 <p style="Normal" xid="908"><c></c><c></c></p>
 </cell>
-<cell xid="910" props="bot-attach:15; left-attach:11; right-attach:12; top-attach:14">
+<cell xid="910" props="bot-attach:13; left-attach:11; right-attach:12; top-attach:12">
 <p style="Normal" xid="911"><c></c><c></c></p>
 </cell>
-<cell xid="913" props="bot-attach:15; left-attach:12; right-attach:13; top-attach:14">
+<cell xid="913" props="bot-attach:13; left-attach:12; right-attach:13; top-attach:12">
 <p style="Normal" xid="914"><c></c><c></c></p>
 </cell>
-<cell xid="916" props="bot-attach:15; left-attach:13; right-attach:14; top-attach:14">
+<cell xid="916" props="bot-attach:13; left-attach:13; right-attach:14; top-attach:12">
 <p style="Normal" xid="917"><c></c><c></c></p>
 </cell>
-<cell xid="919" props="bot-attach:15; left-attach:14; right-attach:15; top-attach:14">
+<cell xid="919" props="bot-attach:13; left-attach:14; right-attach:15; top-attach:12">
 <p style="Normal" xid="920"><c></c><c></c></p>
 </cell>
-<cell xid="922" props="bot-attach:16; left-attach:0; right-attach:1; top-attach:15">
+<cell xid="922" props="bot-attach:14; left-attach:0; right-attach:1; top-attach:13">
 <p style="Normal" xid="923">4</p>
 </cell>
-<cell xid="925" props="bot-attach:16; left-attach:1; right-attach:2; top-attach:15">
+<cell xid="925" props="bot-attach:14; left-attach:1; right-attach:2; top-attach:13">
 <p style="Normal" xid="926">3</p>
 </cell>
-<cell xid="928" props="bot-attach:16; left-attach:2; right-attach:3; top-attach:15">
+<cell xid="928" props="bot-attach:14; left-attach:2; right-attach:3; top-attach:13">
 <p style="Normal" xid="929"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Programmation de l’interface de texte</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="931" props="bot-attach:16; left-attach:3; right-attach:4; top-attach:15">
+<cell xid="931" props="bot-attach:14; left-attach:3; right-attach:4; top-attach:13">
 <p style="Normal" xid="932"><c></c><c></c></p>
 </cell>
-<cell xid="934" props="bot-attach:16; left-attach:4; right-attach:5; top-attach:15">
+<cell xid="934" props="bot-attach:14; left-attach:4; right-attach:5; top-attach:13">
 <p style="Normal" xid="935"><c></c><c></c></p>
 </cell>
-<cell xid="937" props="bot-attach:16; left-attach:5; right-attach:6; top-attach:15">
+<cell xid="937" props="bot-attach:14; left-attach:5; right-attach:6; top-attach:13">
 <p style="Normal" xid="938">X</p>
 </cell>
-<cell xid="940" props="bot-attach:16; left-attach:6; right-attach:7; top-attach:15">
+<cell xid="940" props="bot-attach:14; left-attach:6; right-attach:7; top-attach:13">
 <p style="Normal" xid="941">X</p>
 </cell>
-<cell xid="943" props="bot-attach:16; left-attach:7; right-attach:8; top-attach:15">
+<cell xid="943" props="bot-attach:14; left-attach:7; right-attach:8; top-attach:13">
 <p style="Normal" xid="944">X</p>
 </cell>
-<cell xid="946" props="bot-attach:16; left-attach:8; right-attach:9; top-attach:15">
+<cell xid="946" props="bot-attach:14; left-attach:8; right-attach:9; top-attach:13">
 <p style="Normal" xid="947"><c></c><c></c></p>
 </cell>
-<cell xid="949" props="bot-attach:16; left-attach:9; right-attach:10; top-attach:15">
+<cell xid="949" props="bot-attach:14; left-attach:9; right-attach:10; top-attach:13">
 <p style="Normal" xid="950"><c></c><c></c></p>
 </cell>
-<cell xid="952" props="bot-attach:16; left-attach:10; right-attach:11; top-attach:15">
+<cell xid="952" props="bot-attach:14; left-attach:10; right-attach:11; top-attach:13">
 <p style="Normal" xid="953"><c></c><c></c></p>
 </cell>
-<cell xid="955" props="bot-attach:16; left-attach:11; right-attach:12; top-attach:15">
+<cell xid="955" props="bot-attach:14; left-attach:11; right-attach:12; top-attach:13">
 <p style="Normal" xid="956"><c></c><c></c></p>
 </cell>
-<cell xid="958" props="bot-attach:16; left-attach:12; right-attach:13; top-attach:15">
+<cell xid="958" props="bot-attach:14; left-attach:12; right-attach:13; top-attach:13">
 <p style="Normal" xid="959"><c></c><c></c></p>
 </cell>
-<cell xid="961" props="bot-attach:16; left-attach:13; right-attach:14; top-attach:15">
+<cell xid="961" props="bot-attach:14; left-attach:13; right-attach:14; top-attach:13">
 <p style="Normal" xid="962"><c></c><c></c></p>
 </cell>
-<cell xid="964" props="bot-attach:16; left-attach:14; right-attach:15; top-attach:15">
+<cell xid="964" props="bot-attach:14; left-attach:14; right-attach:15; top-attach:13">
 <p style="Normal" xid="965"><c></c><c></c></p>
 </cell>
-<cell xid="967" props="bot-attach:17; left-attach:0; right-attach:1; top-attach:16">
+<cell xid="967" props="bot-attach:15; left-attach:0; right-attach:1; top-attach:14">
 <p style="Normal" xid="968">5</p>
 </cell>
-<cell xid="970" props="bot-attach:17; left-attach:1; right-attach:2; top-attach:16">
+<cell xid="970" props="bot-attach:15; left-attach:1; right-attach:2; top-attach:14">
 <p style="Normal" xid="971">1</p>
 </cell>
-<cell xid="973" props="bot-attach:17; left-attach:2; right-attach:3; top-attach:16">
+<cell xid="973" props="bot-attach:15; left-attach:2; right-attach:3; top-attach:14">
 <p style="Normal" xid="974"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Création de l’interface de jeu</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="976" props="bot-attach:17; left-attach:3; right-attach:4; top-attach:16">
+<cell xid="976" props="bot-attach:15; left-attach:3; right-attach:4; top-attach:14">
 <p style="Normal" xid="977"><c></c><c></c></p>
 </cell>
-<cell xid="979" props="bot-attach:17; left-attach:4; right-attach:5; top-attach:16">
+<cell xid="979" props="bot-attach:15; left-attach:4; right-attach:5; top-attach:14">
 <p style="Normal" xid="980"><c></c><c></c></p>
 </cell>
-<cell xid="982" props="bot-attach:17; left-attach:5; right-attach:6; top-attach:16">
+<cell xid="982" props="bot-attach:15; left-attach:5; right-attach:6; top-attach:14">
 <p style="Normal" xid="983"><c></c><c></c></p>
 </cell>
-<cell xid="985" props="bot-attach:17; left-attach:6; right-attach:7; top-attach:16">
+<cell xid="985" props="bot-attach:15; left-attach:6; right-attach:7; top-attach:14">
 <p style="Normal" xid="986"><c></c><c></c></p>
 </cell>
-<cell xid="988" props="bot-attach:17; left-attach:7; right-attach:8; top-attach:16">
+<cell xid="988" props="bot-attach:15; left-attach:7; right-attach:8; top-attach:14">
 <p style="Normal" xid="989">X</p>
 </cell>
-<cell xid="991" props="bot-attach:17; left-attach:8; right-attach:9; top-attach:16">
+<cell xid="991" props="bot-attach:15; left-attach:8; right-attach:9; top-attach:14">
 <p style="Normal" xid="992"><c></c><c></c></p>
 </cell>
-<cell xid="994" props="bot-attach:17; left-attach:9; right-attach:10; top-attach:16">
+<cell xid="994" props="bot-attach:15; left-attach:9; right-attach:10; top-attach:14">
 <p style="Normal" xid="995"><c></c><c></c></p>
 </cell>
-<cell xid="997" props="bot-attach:17; left-attach:10; right-attach:11; top-attach:16">
+<cell xid="997" props="bot-attach:15; left-attach:10; right-attach:11; top-attach:14">
 <p style="Normal" xid="998"><c></c><c></c></p>
 </cell>
-<cell xid="1000" props="bot-attach:17; left-attach:11; right-attach:12; top-attach:16">
+<cell xid="1000" props="bot-attach:15; left-attach:11; right-attach:12; top-attach:14">
 <p style="Normal" xid="1001"><c></c><c></c></p>
 </cell>
-<cell xid="1003" props="bot-attach:17; left-attach:12; right-attach:13; top-attach:16">
+<cell xid="1003" props="bot-attach:15; left-attach:12; right-attach:13; top-attach:14">
 <p style="Normal" xid="1004"><c></c><c></c></p>
 </cell>
-<cell xid="1006" props="bot-attach:17; left-attach:13; right-attach:14; top-attach:16">
+<cell xid="1006" props="bot-attach:15; left-attach:13; right-attach:14; top-attach:14">
 <p style="Normal" xid="1007"><c></c><c></c></p>
 </cell>
-<cell xid="1009" props="bot-attach:17; left-attach:14; right-attach:15; top-attach:16">
+<cell xid="1009" props="bot-attach:15; left-attach:14; right-attach:15; top-attach:14">
 <p style="Normal" xid="1010"><c></c><c></c></p>
 </cell>
-<cell xid="1012" props="bot-attach:18; left-attach:0; right-attach:1; top-attach:17">
+<cell xid="1012" props="bot-attach:16; left-attach:0; right-attach:1; top-attach:15">
 <p style="Normal" xid="1013">6</p>
 </cell>
-<cell xid="1015" props="bot-attach:18; left-attach:1; right-attach:2; top-attach:17">
+<cell xid="1015" props="bot-attach:16; left-attach:1; right-attach:2; top-attach:15">
 <p style="Normal" xid="1016">3</p>
 </cell>
-<cell xid="1018" props="bot-attach:18; left-attach:2; right-attach:3; top-attach:17">
+<cell xid="1018" props="bot-attach:16; left-attach:2; right-attach:3; top-attach:15">
 <p style="Normal" xid="1019"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Test du jeu (texte)</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="1021" props="bot-attach:18; left-attach:3; right-attach:4; top-attach:17">
+<cell xid="1021" props="bot-attach:16; left-attach:3; right-attach:4; top-attach:15">
 <p style="Normal" xid="1022"><c></c><c></c></p>
 </cell>
-<cell xid="1024" props="bot-attach:18; left-attach:4; right-attach:5; top-attach:17">
+<cell xid="1024" props="bot-attach:16; left-attach:4; right-attach:5; top-attach:15">
 <p style="Normal" xid="1025"><c></c><c></c></p>
 </cell>
-<cell xid="1027" props="bot-attach:18; left-attach:5; right-attach:6; top-attach:17">
+<cell xid="1027" props="bot-attach:16; left-attach:5; right-attach:6; top-attach:15">
 <p style="Normal" xid="1028">X</p>
 </cell>
-<cell xid="1030" props="bot-attach:18; left-attach:6; right-attach:7; top-attach:17">
+<cell xid="1030" props="bot-attach:16; left-attach:6; right-attach:7; top-attach:15">
 <p style="Normal" xid="1031">X</p>
 </cell>
-<cell xid="1033" props="bot-attach:18; left-attach:7; right-attach:8; top-attach:17">
+<cell xid="1033" props="bot-attach:16; left-attach:7; right-attach:8; top-attach:15">
 <p style="Normal" xid="1034">X</p>
 </cell>
-<cell xid="1036" props="bot-attach:18; left-attach:8; right-attach:9; top-attach:17">
+<cell xid="1036" props="bot-attach:16; left-attach:8; right-attach:9; top-attach:15">
 <p style="Normal" xid="1037"><c></c><c></c></p>
 </cell>
-<cell xid="1039" props="bot-attach:18; left-attach:9; right-attach:10; top-attach:17">
+<cell xid="1039" props="bot-attach:16; left-attach:9; right-attach:10; top-attach:15">
 <p style="Normal" xid="1040"><c></c><c></c></p>
 </cell>
-<cell xid="1042" props="bot-attach:18; left-attach:10; right-attach:11; top-attach:17">
+<cell xid="1042" props="bot-attach:16; left-attach:10; right-attach:11; top-attach:15">
 <p style="Normal" xid="1043"><c></c><c></c></p>
 </cell>
-<cell xid="1045" props="bot-attach:18; left-attach:11; right-attach:12; top-attach:17">
+<cell xid="1045" props="bot-attach:16; left-attach:11; right-attach:12; top-attach:15">
 <p style="Normal" xid="1046"><c></c><c></c></p>
 </cell>
-<cell xid="1048" props="bot-attach:18; left-attach:12; right-attach:13; top-attach:17">
+<cell xid="1048" props="bot-attach:16; left-attach:12; right-attach:13; top-attach:15">
 <p style="Normal" xid="1049"><c></c><c></c></p>
 </cell>
-<cell xid="1051" props="bot-attach:18; left-attach:13; right-attach:14; top-attach:17">
+<cell xid="1051" props="bot-attach:16; left-attach:13; right-attach:14; top-attach:15">
 <p style="Normal" xid="1052"><c></c><c></c></p>
 </cell>
-<cell xid="1054" props="bot-attach:18; left-attach:14; right-attach:15; top-attach:17">
+<cell xid="1054" props="bot-attach:16; left-attach:14; right-attach:15; top-attach:15">
 <p style="Normal" xid="1055"><c></c><c></c></p>
 </cell>
-<cell xid="1057" props="bot-attach:19; left-attach:0; right-attach:1; top-attach:18">
+<cell xid="1057" props="bot-attach:17; left-attach:0; right-attach:1; top-attach:16">
 <p style="Normal" xid="1058">7</p>
 </cell>
-<cell xid="1060" props="bot-attach:19; left-attach:1; right-attach:2; top-attach:18">
+<cell xid="1060" props="bot-attach:17; left-attach:1; right-attach:2; top-attach:16">
 <p style="Normal" xid="1061">2</p>
 </cell>
-<cell xid="1063" props="bot-attach:19; left-attach:2; right-attach:3; top-attach:18">
+<cell xid="1063" props="bot-attach:17; left-attach:2; right-attach:3; top-attach:16">
 <p style="Normal" xid="1064"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Développement l’IA</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="1066" props="bot-attach:19; left-attach:3; right-attach:4; top-attach:18">
+<cell xid="1066" props="bot-attach:17; left-attach:3; right-attach:4; top-attach:16">
 <p style="Normal" xid="1067"><c></c><c></c></p>
 </cell>
-<cell xid="1069" props="bot-attach:19; left-attach:4; right-attach:5; top-attach:18">
+<cell xid="1069" props="bot-attach:17; left-attach:4; right-attach:5; top-attach:16">
 <p style="Normal" xid="1070"><c></c><c></c></p>
 </cell>
-<cell xid="1072" props="bot-attach:19; left-attach:5; right-attach:6; top-attach:18">
+<cell xid="1072" props="bot-attach:17; left-attach:5; right-attach:6; top-attach:16">
 <p style="Normal" xid="1073"><c></c><c></c></p>
 </cell>
-<cell xid="1075" props="bot-attach:19; left-attach:6; right-attach:7; top-attach:18">
+<cell xid="1075" props="bot-attach:17; left-attach:6; right-attach:7; top-attach:16">
 <p style="Normal" xid="1076"><c></c><c></c></p>
 </cell>
-<cell xid="1078" props="bot-attach:19; left-attach:7; right-attach:8; top-attach:18">
+<cell xid="1078" props="bot-attach:17; left-attach:7; right-attach:8; top-attach:16">
 <p style="Normal" xid="1079"><c></c><c></c></p>
 </cell>
-<cell xid="1081" props="bot-attach:19; left-attach:8; right-attach:9; top-attach:18">
+<cell xid="1081" props="bot-attach:17; left-attach:8; right-attach:9; top-attach:16">
 <p style="Normal" xid="1082"><c></c><c></c></p>
 </cell>
-<cell xid="1084" props="bot-attach:19; left-attach:9; right-attach:10; top-attach:18">
+<cell xid="1084" props="bot-attach:17; left-attach:9; right-attach:10; top-attach:16">
 <p style="Normal" xid="1085"><c></c><c></c></p>
 </cell>
-<cell xid="1087" props="bot-attach:19; left-attach:10; right-attach:11; top-attach:18">
+<cell xid="1087" props="bot-attach:17; left-attach:10; right-attach:11; top-attach:16">
 <p style="Normal" xid="1088"><c></c><c></c></p>
 </cell>
-<cell xid="1090" props="bot-attach:19; left-attach:11; right-attach:12; top-attach:18">
+<cell xid="1090" props="bot-attach:17; left-attach:11; right-attach:12; top-attach:16">
 <p style="Normal" xid="1091">X</p>
 </cell>
-<cell xid="1093" props="bot-attach:19; left-attach:12; right-attach:13; top-attach:18">
+<cell xid="1093" props="bot-attach:17; left-attach:12; right-attach:13; top-attach:16">
 <p style="Normal" xid="1094">X</p>
 </cell>
-<cell xid="1096" props="bot-attach:19; left-attach:13; right-attach:14; top-attach:18">
+<cell xid="1096" props="bot-attach:17; left-attach:13; right-attach:14; top-attach:16">
 <p style="Normal" xid="1097"><c></c><c></c></p>
 </cell>
-<cell xid="1099" props="bot-attach:19; left-attach:14; right-attach:15; top-attach:18">
+<cell xid="1099" props="bot-attach:17; left-attach:14; right-attach:15; top-attach:16">
 <p style="Normal" xid="1100"><c></c><c></c></p>
 </cell>
-<cell xid="1102" props="bot-attach:20; left-attach:0; right-attach:1; top-attach:19">
+<cell xid="1102" props="bot-attach:18; left-attach:0; right-attach:1; top-attach:17">
 <p style="Normal" xid="1103">8</p>
 </cell>
-<cell xid="1105" props="bot-attach:20; left-attach:1; right-attach:2; top-attach:19">
+<cell xid="1105" props="bot-attach:18; left-attach:1; right-attach:2; top-attach:17">
 <p style="Normal" xid="1106">1</p>
 </cell>
-<cell xid="1108" props="bot-attach:20; left-attach:2; right-attach:3; top-attach:19">
+<cell xid="1108" props="bot-attach:18; left-attach:2; right-attach:3; top-attach:17">
 <p style="Normal" xid="1109"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Constitution base de données images/musiques/sons</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="1111" props="bot-attach:20; left-attach:3; right-attach:4; top-attach:19">
+<cell xid="1111" props="bot-attach:18; left-attach:3; right-attach:4; top-attach:17">
 <p style="Normal" xid="1112"><c></c><c></c></p>
 </cell>
-<cell xid="1114" props="bot-attach:20; left-attach:4; right-attach:5; top-attach:19">
+<cell xid="1114" props="bot-attach:18; left-attach:4; right-attach:5; top-attach:17">
 <p style="Normal" xid="1115"><c></c><c></c></p>
 </cell>
-<cell xid="1117" props="bot-attach:20; left-attach:5; right-attach:6; top-attach:19">
+<cell xid="1117" props="bot-attach:18; left-attach:5; right-attach:6; top-attach:17">
 <p style="Normal" xid="1118"><c></c><c></c></p>
 </cell>
-<cell xid="1120" props="bot-attach:20; left-attach:6; right-attach:7; top-attach:19">
+<cell xid="1120" props="bot-attach:18; left-attach:6; right-attach:7; top-attach:17">
 <p style="Normal" xid="1121"><c></c><c></c></p>
 </cell>
-<cell xid="1123" props="bot-attach:20; left-attach:7; right-attach:8; top-attach:19">
+<cell xid="1123" props="bot-attach:18; left-attach:7; right-attach:8; top-attach:17">
 <p style="Normal" xid="1124"><c></c><c></c></p>
 </cell>
-<cell xid="1126" props="bot-attach:20; left-attach:8; right-attach:9; top-attach:19">
+<cell xid="1126" props="bot-attach:18; left-attach:8; right-attach:9; top-attach:17">
 <p style="Normal" xid="1127"><c></c><c></c></p>
 </cell>
-<cell xid="1129" props="bot-attach:20; left-attach:9; right-attach:10; top-attach:19">
+<cell xid="1129" props="bot-attach:18; left-attach:9; right-attach:10; top-attach:17">
 <p style="Normal" xid="1130"><c></c><c></c></p>
 </cell>
-<cell xid="1132" props="bot-attach:20; left-attach:10; right-attach:11; top-attach:19">
+<cell xid="1132" props="bot-attach:18; left-attach:10; right-attach:11; top-attach:17">
 <p style="Normal" xid="1133"><c></c><c></c></p>
 </cell>
-<cell xid="1135" props="bot-attach:20; left-attach:11; right-attach:12; top-attach:19">
+<cell xid="1135" props="bot-attach:18; left-attach:11; right-attach:12; top-attach:17">
 <p style="Normal" xid="1136"><c></c><c></c></p>
 </cell>
-<cell xid="1138" props="bot-attach:20; left-attach:12; right-attach:13; top-attach:19">
+<cell xid="1138" props="bot-attach:18; left-attach:12; right-attach:13; top-attach:17">
 <p style="Normal" xid="1139">X</p>
 </cell>
-<cell xid="1141" props="bot-attach:20; left-attach:13; right-attach:14; top-attach:19">
+<cell xid="1141" props="bot-attach:18; left-attach:13; right-attach:14; top-attach:17">
 <p style="Normal" xid="1142"><c></c><c></c></p>
 </cell>
-<cell xid="1144" props="bot-attach:20; left-attach:14; right-attach:15; top-attach:19">
+<cell xid="1144" props="bot-attach:18; left-attach:14; right-attach:15; top-attach:17">
 <p style="Normal" xid="1145"><c></c><c></c></p>
 </cell>
-<cell xid="1147" props="bot-attach:21; left-attach:0; right-attach:1; top-attach:20">
+<cell xid="1147" props="bot-attach:19; left-attach:0; right-attach:1; top-attach:18">
 <p style="Normal" xid="1148">9</p>
 </cell>
-<cell xid="1150" props="bot-attach:21; left-attach:1; right-attach:2; top-attach:20">
+<cell xid="1150" props="bot-attach:19; left-attach:1; right-attach:2; top-attach:18">
 <p style="Normal" xid="1151">6</p>
 </cell>
-<cell xid="1153" props="bot-attach:21; left-attach:2; right-attach:3; top-attach:20">
+<cell xid="1153" props="bot-attach:19; left-attach:2; right-attach:3; top-attach:18">
 <p style="Normal" xid="1154"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Programmation de l’interface graphique SDL</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="1156" props="bot-attach:21; left-attach:3; right-attach:4; top-attach:20">
+<cell xid="1156" props="bot-attach:19; left-attach:3; right-attach:4; top-attach:18">
 <p style="Normal" xid="1157"><c></c><c></c></p>
 </cell>
-<cell xid="1159" props="bot-attach:21; left-attach:4; right-attach:5; top-attach:20">
+<cell xid="1159" props="bot-attach:19; left-attach:4; right-attach:5; top-attach:18">
 <p style="Normal" xid="1160"><c></c><c></c></p>
 </cell>
-<cell xid="1162" props="bot-attach:21; left-attach:5; right-attach:6; top-attach:20">
+<cell xid="1162" props="bot-attach:19; left-attach:5; right-attach:6; top-attach:18">
 <p style="Normal" xid="1163"><c></c><c></c></p>
 </cell>
-<cell xid="1165" props="bot-attach:21; left-attach:6; right-attach:7; top-attach:20">
+<cell xid="1165" props="bot-attach:19; left-attach:6; right-attach:7; top-attach:18">
 <p style="Normal" xid="1166"><c></c><c></c></p>
 </cell>
-<cell xid="1168" props="bot-attach:21; left-attach:7; right-attach:8; top-attach:20">
+<cell xid="1168" props="bot-attach:19; left-attach:7; right-attach:8; top-attach:18">
 <p style="Normal" xid="1169"><c></c><c></c></p>
 </cell>
-<cell xid="1171" props="bot-attach:21; left-attach:8; right-attach:9; top-attach:20">
+<cell xid="1171" props="bot-attach:19; left-attach:8; right-attach:9; top-attach:18">
 <p style="Normal" xid="1172">X</p>
 </cell>
-<cell xid="1174" props="bot-attach:21; left-attach:9; right-attach:10; top-attach:20">
+<cell xid="1174" props="bot-attach:19; left-attach:9; right-attach:10; top-attach:18">
 <p style="Normal" xid="1175">X</p>
 </cell>
-<cell xid="1177" props="bot-attach:21; left-attach:10; right-attach:11; top-attach:20">
+<cell xid="1177" props="bot-attach:19; left-attach:10; right-attach:11; top-attach:18">
 <p style="Normal" xid="1178">X</p>
 </cell>
-<cell xid="1180" props="bot-attach:21; left-attach:11; right-attach:12; top-attach:20">
+<cell xid="1180" props="bot-attach:19; left-attach:11; right-attach:12; top-attach:18">
 <p style="Normal" xid="1181">X</p>
 </cell>
-<cell xid="1183" props="bot-attach:21; left-attach:12; right-attach:13; top-attach:20">
+<cell xid="1183" props="bot-attach:19; left-attach:12; right-attach:13; top-attach:18">
 <p style="Normal" xid="1184">X</p>
 </cell>
-<cell xid="1186" props="bot-attach:21; left-attach:13; right-attach:14; top-attach:20">
+<cell xid="1186" props="bot-attach:19; left-attach:13; right-attach:14; top-attach:18">
 <p style="Normal" xid="1187">X</p>
 </cell>
-<cell xid="1189" props="bot-attach:21; left-attach:14; right-attach:15; top-attach:20">
+<cell xid="1189" props="bot-attach:19; left-attach:14; right-attach:15; top-attach:18">
 <p style="Normal" xid="1190"><c></c><c></c></p>
 </cell>
-<cell xid="1192" props="bot-attach:22; left-attach:0; right-attach:1; top-attach:21">
+<cell xid="1192" props="bot-attach:20; left-attach:0; right-attach:1; top-attach:19">
 <p style="Normal" xid="1193">10</p>
 </cell>
-<cell xid="1195" props="bot-attach:22; left-attach:1; right-attach:2; top-attach:21">
+<cell xid="1195" props="bot-attach:20; left-attach:1; right-attach:2; top-attach:19">
 <p style="Normal" xid="1196">7</p>
 </cell>
-<cell xid="1198" props="bot-attach:22; left-attach:2; right-attach:3; top-attach:21">
+<cell xid="1198" props="bot-attach:20; left-attach:2; right-attach:3; top-attach:19">
 <p style="Normal" xid="1199"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Test du jeu (graphique)</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="1201" props="bot-attach:22; left-attach:3; right-attach:4; top-attach:21">
+<cell xid="1201" props="bot-attach:20; left-attach:3; right-attach:4; top-attach:19">
 <p style="Normal" xid="1202"><c></c><c></c></p>
 </cell>
-<cell xid="1204" props="bot-attach:22; left-attach:4; right-attach:5; top-attach:21">
+<cell xid="1204" props="bot-attach:20; left-attach:4; right-attach:5; top-attach:19">
 <p style="Normal" xid="1205"><c></c><c></c></p>
 </cell>
-<cell xid="1207" props="bot-attach:22; left-attach:5; right-attach:6; top-attach:21">
+<cell xid="1207" props="bot-attach:20; left-attach:5; right-attach:6; top-attach:19">
 <p style="Normal" xid="1208"><c></c><c></c></p>
 </cell>
-<cell xid="1210" props="bot-attach:22; left-attach:6; right-attach:7; top-attach:21">
+<cell xid="1210" props="bot-attach:20; left-attach:6; right-attach:7; top-attach:19">
 <p style="Normal" xid="1211"><c></c><c></c></p>
 </cell>
-<cell xid="1213" props="bot-attach:22; left-attach:7; right-attach:8; top-attach:21">
+<cell xid="1213" props="bot-attach:20; left-attach:7; right-attach:8; top-attach:19">
 <p style="Normal" xid="1214"><c></c><c></c></p>
 </cell>
-<cell xid="1216" props="bot-attach:22; left-attach:8; right-attach:9; top-attach:21">
+<cell xid="1216" props="bot-attach:20; left-attach:8; right-attach:9; top-attach:19">
 <p style="Normal" xid="1217">X</p>
 </cell>
-<cell xid="1219" props="bot-attach:22; left-attach:9; right-attach:10; top-attach:21">
+<cell xid="1219" props="bot-attach:20; left-attach:9; right-attach:10; top-attach:19">
 <p style="Normal" xid="1220">X</p>
 </cell>
-<cell xid="1222" props="bot-attach:22; left-attach:10; right-attach:11; top-attach:21">
+<cell xid="1222" props="bot-attach:20; left-attach:10; right-attach:11; top-attach:19">
 <p style="Normal" xid="1223">X</p>
 </cell>
-<cell xid="1225" props="bot-attach:22; left-attach:11; right-attach:12; top-attach:21">
+<cell xid="1225" props="bot-attach:20; left-attach:11; right-attach:12; top-attach:19">
 <p style="Normal" xid="1226">X</p>
 </cell>
-<cell xid="1228" props="bot-attach:22; left-attach:12; right-attach:13; top-attach:21">
+<cell xid="1228" props="bot-attach:20; left-attach:12; right-attach:13; top-attach:19">
 <p style="Normal" xid="1229">X</p>
 </cell>
-<cell xid="1231" props="bot-attach:22; left-attach:13; right-attach:14; top-attach:21">
+<cell xid="1231" props="bot-attach:20; left-attach:13; right-attach:14; top-attach:19">
 <p style="Normal" xid="1232">X</p>
 </cell>
-<cell xid="1234" props="bot-attach:22; left-attach:14; right-attach:15; top-attach:21">
+<cell xid="1234" props="bot-attach:20; left-attach:14; right-attach:15; top-attach:19">
 <p style="Normal" xid="1235">X</p>
 </cell>
-<cell xid="1237" props="bot-attach:23; left-attach:0; right-attach:1; top-attach:22">
+<cell xid="1237" props="bot-attach:21; left-attach:0; right-attach:1; top-attach:20">
 <p style="Normal" xid="1238">11</p>
 </cell>
-<cell xid="1240" props="bot-attach:23; left-attach:1; right-attach:2; top-attach:22">
+<cell xid="1240" props="bot-attach:21; left-attach:1; right-attach:2; top-attach:20">
 <p style="Normal" xid="1241">1</p>
 </cell>
-<cell xid="1243" props="bot-attach:23; left-attach:2; right-attach:3; top-attach:22">
+<cell xid="1243" props="bot-attach:21; left-attach:2; right-attach:3; top-attach:20">
 <p style="Normal" xid="1244"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Préparation soutenance</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
-<cell xid="1246" props="bot-attach:23; left-attach:3; right-attach:4; top-attach:22">
+<cell xid="1246" props="bot-attach:21; left-attach:3; right-attach:4; top-attach:20">
 <p style="Normal" xid="1247"><c></c><c></c></p>
 </cell>
-<cell xid="1249" props="bot-attach:23; left-attach:4; right-attach:5; top-attach:22">
+<cell xid="1249" props="bot-attach:21; left-attach:4; right-attach:5; top-attach:20">
 <p style="Normal" xid="1250"><c></c><c></c></p>
 </cell>
-<cell xid="1252" props="bot-attach:23; left-attach:5; right-attach:6; top-attach:22">
+<cell xid="1252" props="bot-attach:21; left-attach:5; right-attach:6; top-attach:20">
 <p style="Normal" xid="1253"><c></c><c></c></p>
 </cell>
-<cell xid="1255" props="bot-attach:23; left-attach:6; right-attach:7; top-attach:22">
+<cell xid="1255" props="bot-attach:21; left-attach:6; right-attach:7; top-attach:20">
 <p style="Normal" xid="1256"><c></c><c></c></p>
 </cell>
-<cell xid="1258" props="bot-attach:23; left-attach:7; right-attach:8; top-attach:22">
+<cell xid="1258" props="bot-attach:21; left-attach:7; right-attach:8; top-attach:20">
 <p style="Normal" xid="1259"><c></c><c></c></p>
 </cell>
-<cell xid="1261" props="bot-attach:23; left-attach:8; right-attach:9; top-attach:22">
+<cell xid="1261" props="bot-attach:21; left-attach:8; right-attach:9; top-attach:20">
 <p style="Normal" xid="1262"><c></c><c></c></p>
 </cell>
-<cell xid="1264" props="bot-attach:23; left-attach:9; right-attach:10; top-attach:22">
+<cell xid="1264" props="bot-attach:21; left-attach:9; right-attach:10; top-attach:20">
 <p style="Normal" xid="1265"><c></c><c></c></p>
 </cell>
-<cell xid="1267" props="bot-attach:23; left-attach:10; right-attach:11; top-attach:22">
+<cell xid="1267" props="bot-attach:21; left-attach:10; right-attach:11; top-attach:20">
 <p style="Normal" xid="1268"><c></c><c></c></p>
 </cell>
-<cell xid="1270" props="bot-attach:23; left-attach:11; right-attach:12; top-attach:22">
+<cell xid="1270" props="bot-attach:21; left-attach:11; right-attach:12; top-attach:20">
 <p style="Normal" xid="1271"><c></c><c></c></p>
 </cell>
-<cell xid="1273" props="bot-attach:23; left-attach:12; right-attach:13; top-attach:22">
+<cell xid="1273" props="bot-attach:21; left-attach:12; right-attach:13; top-attach:20">
 <p style="Normal" xid="1274"><c></c><c></c></p>
 </cell>
-<cell xid="1276" props="bot-attach:23; left-attach:13; right-attach:14; top-attach:22">
+<cell xid="1276" props="bot-attach:21; left-attach:13; right-attach:14; top-attach:20">
 <p style="Normal" xid="1277"><c></c><c></c></p>
 </cell>
-<cell xid="1279" props="bot-attach:23; left-attach:14; right-attach:15; top-attach:22">
+<cell xid="1279" props="bot-attach:21; left-attach:14; right-attach:15; top-attach:20">
 <p style="Normal" xid="1280">X</p>
 </cell>
-<cell xid="1282" props="bot-attach:24; left-attach:0; right-attach:1; top-attach:23">
+<cell xid="1282" props="bot-attach:22; left-attach:0; right-attach:1; top-attach:21">
 <p style="Normal" xid="1283"><c></c><c></c></p>
 </cell>
-<cell xid="1285" props="bot-attach:24; left-attach:1; right-attach:2; top-attach:23">
+<cell xid="1285" props="bot-attach:22; left-attach:1; right-attach:2; top-attach:21">
 <p style="Normal" xid="1286"><c></c><c></c></p>
 </cell>
-<cell xid="1288" props="bot-attach:24; left-attach:2; right-attach:3; top-attach:23">
+<cell xid="1288" props="bot-attach:22; left-attach:2; right-attach:3; top-attach:21">
 <p style="Normal" xid="1289"><c></c><c></c></p>
 </cell>
-<cell xid="1291" props="bot-attach:24; left-attach:3; right-attach:4; top-attach:23">
+<cell xid="1291" props="bot-attach:22; left-attach:3; right-attach:4; top-attach:21">
 <p style="Normal" xid="1292"><c></c><c></c></p>
 </cell>
-<cell xid="1294" props="bot-attach:24; left-attach:4; right-attach:5; top-attach:23">
+<cell xid="1294" props="bot-attach:22; left-attach:4; right-attach:5; top-attach:21">
 <p style="Normal" xid="1295"><c></c><c></c></p>
 </cell>
-<cell xid="1297" props="bot-attach:24; left-attach:5; right-attach:6; top-attach:23">
+<cell xid="1297" props="bot-attach:22; left-attach:5; right-attach:6; top-attach:21">
 <p style="Normal" xid="1298"><c></c><c></c></p>
 </cell>
-<cell xid="1300" props="bot-attach:24; left-attach:6; right-attach:7; top-attach:23">
+<cell xid="1300" props="bot-attach:22; left-attach:6; right-attach:7; top-attach:21">
 <p style="Normal" xid="1301"><c></c><c></c></p>
 </cell>
-<cell xid="1303" props="bot-attach:24; left-attach:7; right-attach:8; top-attach:23">
+<cell xid="1303" props="bot-attach:22; left-attach:7; right-attach:8; top-attach:21">
 <p style="Normal" xid="1304"><c></c><c></c></p>
 </cell>
-<cell xid="1306" props="bot-attach:24; left-attach:8; right-attach:9; top-attach:23">
+<cell xid="1306" props="bot-attach:22; left-attach:8; right-attach:9; top-attach:21">
 <p style="Normal" xid="1307"><c></c><c></c></p>
 </cell>
-<cell xid="1309" props="bot-attach:24; left-attach:9; right-attach:10; top-attach:23">
+<cell xid="1309" props="bot-attach:22; left-attach:9; right-attach:10; top-attach:21">
 <p style="Normal" xid="1310"><c></c><c></c></p>
 </cell>
-<cell xid="1312" props="bot-attach:24; left-attach:10; right-attach:11; top-attach:23">
+<cell xid="1312" props="bot-attach:22; left-attach:10; right-attach:11; top-attach:21">
 <p style="Normal" xid="1313"><c></c><c></c></p>
 </cell>
-<cell xid="1315" props="bot-attach:24; left-attach:11; right-attach:12; top-attach:23">
+<cell xid="1315" props="bot-attach:22; left-attach:11; right-attach:12; top-attach:21">
 <p style="Normal" xid="1316"><c></c><c></c></p>
 </cell>
-<cell xid="1318" props="bot-attach:24; left-attach:12; right-attach:13; top-attach:23">
+<cell xid="1318" props="bot-attach:22; left-attach:12; right-attach:13; top-attach:21">
 <p style="Normal" xid="1319"><c></c><c></c></p>
 </cell>
-<cell xid="1321" props="bot-attach:24; left-attach:13; right-attach:14; top-attach:23">
+<cell xid="1321" props="bot-attach:22; left-attach:13; right-attach:14; top-attach:21">
 <p style="Normal" xid="1322"><c></c><c></c></p>
 </cell>
-<cell xid="1324" props="bot-attach:24; left-attach:14; right-attach:15; top-attach:23">
+<cell xid="1324" props="bot-attach:22; left-attach:14; right-attach:15; top-attach:21">
 <p style="Normal" xid="1325"><c></c><c></c></p>
 </cell>
-<cell xid="1327" props="bot-attach:25; left-attach:0; right-attach:1; top-attach:24">
+<cell xid="1327" props="bot-attach:23; left-attach:0; right-attach:1; top-attach:22">
 <p style="Normal" xid="1328"><c></c><c></c></p>
 </cell>
-<cell xid="1330" props="bot-attach:25; left-attach:1; right-attach:2; top-attach:24">
+<cell xid="1330" props="bot-attach:23; left-attach:1; right-attach:2; top-attach:22">
 <p style="Normal" xid="1331"><c></c><c></c></p>
 </cell>
-<cell xid="1333" props="bot-attach:25; left-attach:2; right-attach:3; top-attach:24">
+<cell xid="1333" props="bot-attach:23; left-attach:2; right-attach:3; top-attach:22">
 <p style="Normal" xid="1334"><c></c><c></c></p>
 </cell>
-<cell xid="1336" props="bot-attach:25; left-attach:3; right-attach:4; top-attach:24">
+<cell xid="1336" props="bot-attach:23; left-attach:3; right-attach:4; top-attach:22">
 <p style="Normal" xid="1337"><c></c><c></c></p>
 </cell>
-<cell xid="1339" props="bot-attach:25; left-attach:4; right-attach:5; top-attach:24">
+<cell xid="1339" props="bot-attach:23; left-attach:4; right-attach:5; top-attach:22">
 <p style="Normal" xid="1340"><c></c><c></c></p>
 </cell>
-<cell xid="1342" props="bot-attach:25; left-attach:5; right-attach:6; top-attach:24">
+<cell xid="1342" props="bot-attach:23; left-attach:5; right-attach:6; top-attach:22">
 <p style="Normal" xid="1343"><c></c><c></c></p>
 </cell>
-<cell xid="1345" props="bot-attach:25; left-attach:6; right-attach:7; top-attach:24">
+<cell xid="1345" props="bot-attach:23; left-attach:6; right-attach:7; top-attach:22">
 <p style="Normal" xid="1346"><c></c><c></c></p>
 </cell>
-<cell xid="1348" props="bot-attach:25; left-attach:7; right-attach:8; top-attach:24">
+<cell xid="1348" props="bot-attach:23; left-attach:7; right-attach:8; top-attach:22">
 <p style="Normal" xid="1349"><c></c><c></c></p>
 </cell>
-<cell xid="1351" props="bot-attach:25; left-attach:8; right-attach:9; top-attach:24">
+<cell xid="1351" props="bot-attach:23; left-attach:8; right-attach:9; top-attach:22">
 <p style="Normal" xid="1352"><c></c><c></c></p>
 </cell>
-<cell xid="1354" props="bot-attach:25; left-attach:9; right-attach:10; top-attach:24">
+<cell xid="1354" props="bot-attach:23; left-attach:9; right-attach:10; top-attach:22">
 <p style="Normal" xid="1355"><c></c><c></c></p>
 </cell>
-<cell xid="1357" props="bot-attach:25; left-attach:10; right-attach:11; top-attach:24">
+<cell xid="1357" props="bot-attach:23; left-attach:10; right-attach:11; top-attach:22">
 <p style="Normal" xid="1358"><c></c><c></c></p>
 </cell>
-<cell xid="1360" props="bot-attach:25; left-attach:11; right-attach:12; top-attach:24">
+<cell xid="1360" props="bot-attach:23; left-attach:11; right-attach:12; top-attach:22">
 <p style="Normal" xid="1361"><c></c><c></c></p>
 </cell>
-<cell xid="1363" props="bot-attach:25; left-attach:12; right-attach:13; top-attach:24">
+<cell xid="1363" props="bot-attach:23; left-attach:12; right-attach:13; top-attach:22">
 <p style="Normal" xid="1364"><c></c><c></c></p>
 </cell>
-<cell xid="1366" props="bot-attach:25; left-attach:13; right-attach:14; top-attach:24">
+<cell xid="1366" props="bot-attach:23; left-attach:13; right-attach:14; top-attach:22">
 <p style="Normal" xid="1367"><c></c><c></c></p>
 </cell>
-<cell xid="1369" props="bot-attach:25; left-attach:14; right-attach:15; top-attach:24">
+<cell xid="1369" props="bot-attach:23; left-attach:14; right-attach:15; top-attach:22">
 <p style="Normal" xid="1370"><c></c><c></c></p>
 </cell>
-<cell xid="1372" props="bot-attach:26; left-attach:0; right-attach:1; top-attach:25">
+<cell xid="1372" props="bot-attach:24; left-attach:0; right-attach:1; top-attach:23">
 <p style="Normal" xid="1373"><c></c><c></c></p>
 </cell>
-<cell xid="1375" props="bot-attach:26; left-attach:1; right-attach:2; top-attach:25">
+<cell xid="1375" props="bot-attach:24; left-attach:1; right-attach:2; top-attach:23">
 <p style="Normal" xid="1376"><c></c><c></c></p>
 </cell>
-<cell xid="1378" props="bot-attach:26; left-attach:2; right-attach:3; top-attach:25">
+<cell xid="1378" props="bot-attach:24; left-attach:2; right-attach:3; top-attach:23">
 <p style="Normal" xid="1379"><c></c><c></c></p>
 </cell>
-<cell xid="1381" props="bot-attach:26; left-attach:3; right-attach:4; top-attach:25">
+<cell xid="1381" props="bot-attach:24; left-attach:3; right-attach:4; top-attach:23">
 <p style="Normal" xid="1382"><c></c><c></c></p>
 </cell>
-<cell xid="1384" props="bot-attach:26; left-attach:4; right-attach:5; top-attach:25">
+<cell xid="1384" props="bot-attach:24; left-attach:4; right-attach:5; top-attach:23">
 <p style="Normal" xid="1385"><c></c><c></c></p>
 </cell>
-<cell xid="1387" props="bot-attach:26; left-attach:5; right-attach:6; top-attach:25">
+<cell xid="1387" props="bot-attach:24; left-attach:5; right-attach:6; top-attach:23">
 <p style="Normal" xid="1388"><c></c><c></c></p>
 </cell>
-<cell xid="1390" props="bot-attach:26; left-attach:6; right-attach:7; top-attach:25">
+<cell xid="1390" props="bot-attach:24; left-attach:6; right-attach:7; top-attach:23">
 <p style="Normal" xid="1391"><c></c><c></c></p>
 </cell>
-<cell xid="1393" props="bot-attach:26; left-attach:7; right-attach:8; top-attach:25">
+<cell xid="1393" props="bot-attach:24; left-attach:7; right-attach:8; top-attach:23">
 <p style="Normal" xid="1394"><c></c><c></c></p>
 </cell>
-<cell xid="1396" props="bot-attach:26; left-attach:8; right-attach:9; top-attach:25">
+<cell xid="1396" props="bot-attach:24; left-attach:8; right-attach:9; top-attach:23">
 <p style="Normal" xid="1397"><c></c><c></c></p>
 </cell>
-<cell xid="1399" props="bot-attach:26; left-attach:9; right-attach:10; top-attach:25">
+<cell xid="1399" props="bot-attach:24; left-attach:9; right-attach:10; top-attach:23">
 <p style="Normal" xid="1400"><c></c><c></c></p>
 </cell>
-<cell xid="1402" props="bot-attach:26; left-attach:10; right-attach:11; top-attach:25">
+<cell xid="1402" props="bot-attach:24; left-attach:10; right-attach:11; top-attach:23">
 <p style="Normal" xid="1403"><c></c><c></c></p>
 </cell>
-<cell xid="1405" props="bot-attach:26; left-attach:11; right-attach:12; top-attach:25">
+<cell xid="1405" props="bot-attach:24; left-attach:11; right-attach:12; top-attach:23">
 <p style="Normal" xid="1406"><c></c><c></c></p>
 </cell>
-<cell xid="1408" props="bot-attach:26; left-attach:12; right-attach:13; top-attach:25">
+<cell xid="1408" props="bot-attach:24; left-attach:12; right-attach:13; top-attach:23">
 <p style="Normal" xid="1409"><c></c><c></c></p>
 </cell>
-<cell xid="1411" props="bot-attach:26; left-attach:13; right-attach:14; top-attach:25">
+<cell xid="1411" props="bot-attach:24; left-attach:13; right-attach:14; top-attach:23">
 <p style="Normal" xid="1412"><c></c><c></c></p>
 </cell>
-<cell xid="1414" props="bot-attach:26; left-attach:14; right-attach:15; top-attach:25">
+<cell xid="1414" props="bot-attach:24; left-attach:14; right-attach:15; top-attach:23">
 <p style="Normal" xid="1415"><c></c><c></c></p>
 </cell>
-<cell xid="1417" props="bot-attach:27; left-attach:0; right-attach:1; top-attach:26">
+<cell xid="1417" props="bot-attach:25; left-attach:0; right-attach:1; top-attach:24">
 <p style="Normal" xid="1418"><c></c><c></c></p>
 </cell>
-<cell xid="1420" props="bot-attach:27; left-attach:1; right-attach:2; top-attach:26">
+<cell xid="1420" props="bot-attach:25; left-attach:1; right-attach:2; top-attach:24">
 <p style="Normal" xid="1421"><c></c><c></c></p>
 </cell>
-<cell xid="1423" props="bot-attach:27; left-attach:2; right-attach:3; top-attach:26">
+<cell xid="1423" props="bot-attach:25; left-attach:2; right-attach:3; top-attach:24">
 <p style="Normal" xid="1424"><c></c><c></c></p>
 </cell>
-<cell xid="1426" props="bot-attach:27; left-attach:3; right-attach:4; top-attach:26">
+<cell xid="1426" props="bot-attach:25; left-attach:3; right-attach:4; top-attach:24">
 <p style="Normal" xid="1427"><c></c><c></c></p>
 </cell>
-<cell xid="1429" props="bot-attach:27; left-attach:4; right-attach:5; top-attach:26">
+<cell xid="1429" props="bot-attach:25; left-attach:4; right-attach:5; top-attach:24">
 <p style="Normal" xid="1430"><c></c><c></c></p>
 </cell>
-<cell xid="1432" props="bot-attach:27; left-attach:5; right-attach:6; top-attach:26">
+<cell xid="1432" props="bot-attach:25; left-attach:5; right-attach:6; top-attach:24">
 <p style="Normal" xid="1433"><c></c><c></c></p>
 </cell>
-<cell xid="1435" props="bot-attach:27; left-attach:6; right-attach:7; top-attach:26">
+<cell xid="1435" props="bot-attach:25; left-attach:6; right-attach:7; top-attach:24">
 <p style="Normal" xid="1436"><c></c><c></c></p>
 </cell>
-<cell xid="1438" props="bot-attach:27; left-attach:7; right-attach:8; top-attach:26">
+<cell xid="1438" props="bot-attach:25; left-attach:7; right-attach:8; top-attach:24">
 <p style="Normal" xid="1439"><c></c><c></c></p>
 </cell>
-<cell xid="1441" props="bot-attach:27; left-attach:8; right-attach:9; top-attach:26">
+<cell xid="1441" props="bot-attach:25; left-attach:8; right-attach:9; top-attach:24">
 <p style="Normal" xid="1442"><c></c><c></c></p>
 </cell>
-<cell xid="1444" props="bot-attach:27; left-attach:9; right-attach:10; top-attach:26">
+<cell xid="1444" props="bot-attach:25; left-attach:9; right-attach:10; top-attach:24">
 <p style="Normal" xid="1445"><c></c><c></c></p>
 </cell>
-<cell xid="1447" props="bot-attach:27; left-attach:10; right-attach:11; top-attach:26">
+<cell xid="1447" props="bot-attach:25; left-attach:10; right-attach:11; top-attach:24">
 <p style="Normal" xid="1448"><c></c><c></c></p>
 </cell>
-<cell xid="1450" props="bot-attach:27; left-attach:11; right-attach:12; top-attach:26">
+<cell xid="1450" props="bot-attach:25; left-attach:11; right-attach:12; top-attach:24">
 <p style="Normal" xid="1451"><c></c><c></c></p>
 </cell>
-<cell xid="1453" props="bot-attach:27; left-attach:12; right-attach:13; top-attach:26">
+<cell xid="1453" props="bot-attach:25; left-attach:12; right-attach:13; top-attach:24">
 <p style="Normal" xid="1454"><c></c><c></c></p>
 </cell>
-<cell xid="1456" props="bot-attach:27; left-attach:13; right-attach:14; top-attach:26">
+<cell xid="1456" props="bot-attach:25; left-attach:13; right-attach:14; top-attach:24">
 <p style="Normal" xid="1457"><c></c><c></c></p>
 </cell>
-<cell xid="1459" props="bot-attach:27; left-attach:14; right-attach:15; top-attach:26">
+<cell xid="1459" props="bot-attach:25; left-attach:14; right-attach:15; top-attach:24">
 <p style="Normal" xid="1460"><c></c><c></c></p>
 </cell>
-<cell xid="1462" props="bot-attach:28; left-attach:0; right-attach:1; top-attach:27">
+<cell xid="1462" props="bot-attach:26; left-attach:0; right-attach:1; top-attach:25">
 <p style="Normal" xid="1463"><c></c><c></c></p>
 </cell>
-<cell xid="1465" props="bot-attach:28; left-attach:1; right-attach:2; top-attach:27">
+<cell xid="1465" props="bot-attach:26; left-attach:1; right-attach:2; top-attach:25">
 <p style="Normal" xid="1466"><c></c><c></c></p>
 </cell>
-<cell xid="1468" props="bot-attach:28; left-attach:2; right-attach:3; top-attach:27">
+<cell xid="1468" props="bot-attach:26; left-attach:2; right-attach:3; top-attach:25">
 <p style="Normal" xid="1469"><c></c><c></c></p>
 </cell>
-<cell xid="1471" props="bot-attach:28; left-attach:3; right-attach:4; top-attach:27">
+<cell xid="1471" props="bot-attach:26; left-attach:3; right-attach:4; top-attach:25">
 <p style="Normal" xid="1472"><c></c><c></c></p>
 </cell>
-<cell xid="1474" props="bot-attach:28; left-attach:4; right-attach:5; top-attach:27">
+<cell xid="1474" props="bot-attach:26; left-attach:4; right-attach:5; top-attach:25">
 <p style="Normal" xid="1475"><c></c><c></c></p>
 </cell>
-<cell xid="1477" props="bot-attach:28; left-attach:5; right-attach:6; top-attach:27">
+<cell xid="1477" props="bot-attach:26; left-attach:5; right-attach:6; top-attach:25">
 <p style="Normal" xid="1478"><c></c><c></c></p>
 </cell>
-<cell xid="1480" props="bot-attach:28; left-attach:6; right-attach:7; top-attach:27">
+<cell xid="1480" props="bot-attach:26; left-attach:6; right-attach:7; top-attach:25">
 <p style="Normal" xid="1481"><c></c><c></c></p>
 </cell>
-<cell xid="1483" props="bot-attach:28; left-attach:7; right-attach:8; top-attach:27">
+<cell xid="1483" props="bot-attach:26; left-attach:7; right-attach:8; top-attach:25">
 <p style="Normal" xid="1484"><c></c><c></c></p>
 </cell>
-<cell xid="1486" props="bot-attach:28; left-attach:8; right-attach:9; top-attach:27">
+<cell xid="1486" props="bot-attach:26; left-attach:8; right-attach:9; top-attach:25">
 <p style="Normal" xid="1487"><c></c><c></c></p>
 </cell>
-<cell xid="1489" props="bot-attach:28; left-attach:9; right-attach:10; top-attach:27">
+<cell xid="1489" props="bot-attach:26; left-attach:9; right-attach:10; top-attach:25">
 <p style="Normal" xid="1490"><c></c><c></c></p>
 </cell>
-<cell xid="1492" props="bot-attach:28; left-attach:10; right-attach:11; top-attach:27">
+<cell xid="1492" props="bot-attach:26; left-attach:10; right-attach:11; top-attach:25">
 <p style="Normal" xid="1493"><c></c><c></c></p>
 </cell>
-<cell xid="1495" props="bot-attach:28; left-attach:11; right-attach:12; top-attach:27">
+<cell xid="1495" props="bot-attach:26; left-attach:11; right-attach:12; top-attach:25">
 <p style="Normal" xid="1496"><c></c><c></c></p>
 </cell>
-<cell xid="1498" props="bot-attach:28; left-attach:12; right-attach:13; top-attach:27">
+<cell xid="1498" props="bot-attach:26; left-attach:12; right-attach:13; top-attach:25">
 <p style="Normal" xid="1499"><c></c><c></c></p>
 </cell>
-<cell xid="1501" props="bot-attach:28; left-attach:13; right-attach:14; top-attach:27">
+<cell xid="1501" props="bot-attach:26; left-attach:13; right-attach:14; top-attach:25">
 <p style="Normal" xid="1502"><c></c><c></c></p>
 </cell>
-<cell xid="1504" props="bot-attach:28; left-attach:14; right-attach:15; top-attach:27">
+<cell xid="1504" props="bot-attach:26; left-attach:14; right-attach:15; top-attach:25">
 <p style="Normal" xid="1505"><c></c><c></c></p>
 </cell>
-<cell xid="1507" props="bot-attach:29; left-attach:0; right-attach:1; top-attach:28">
+<cell xid="1507" props="bot-attach:27; left-attach:0; right-attach:1; top-attach:26">
 <p style="Normal" xid="1508"><c></c><c></c></p>
 </cell>
-<cell xid="1510" props="bot-attach:29; left-attach:1; right-attach:2; top-attach:28">
+<cell xid="1510" props="bot-attach:27; left-attach:1; right-attach:2; top-attach:26">
 <p style="Normal" xid="1511"><c></c><c></c></p>
 </cell>
-<cell xid="1513" props="bot-attach:29; left-attach:2; right-attach:3; top-attach:28">
+<cell xid="1513" props="bot-attach:27; left-attach:2; right-attach:3; top-attach:26">
 <p style="Normal" xid="1514"><c></c><c></c></p>
 </cell>
-<cell xid="1516" props="bot-attach:29; left-attach:3; right-attach:4; top-attach:28">
+<cell xid="1516" props="bot-attach:27; left-attach:3; right-attach:4; top-attach:26">
 <p style="Normal" xid="1517"><c></c><c></c></p>
 </cell>
-<cell xid="1519" props="bot-attach:29; left-attach:4; right-attach:5; top-attach:28">
+<cell xid="1519" props="bot-attach:27; left-attach:4; right-attach:5; top-attach:26">
 <p style="Normal" xid="1520"><c></c><c></c></p>
 </cell>
-<cell xid="1522" props="bot-attach:29; left-attach:5; right-attach:6; top-attach:28">
+<cell xid="1522" props="bot-attach:27; left-attach:5; right-attach:6; top-attach:26">
 <p style="Normal" xid="1523"><c></c><c></c></p>
 </cell>
-<cell xid="1525" props="bot-attach:29; left-attach:6; right-attach:7; top-attach:28">
+<cell xid="1525" props="bot-attach:27; left-attach:6; right-attach:7; top-attach:26">
 <p style="Normal" xid="1526"><c></c><c></c></p>
 </cell>
-<cell xid="1528" props="bot-attach:29; left-attach:7; right-attach:8; top-attach:28">
+<cell xid="1528" props="bot-attach:27; left-attach:7; right-attach:8; top-attach:26">
 <p style="Normal" xid="1529"><c></c><c></c></p>
 </cell>
-<cell xid="1531" props="bot-attach:29; left-attach:8; right-attach:9; top-attach:28">
+<cell xid="1531" props="bot-attach:27; left-attach:8; right-attach:9; top-attach:26">
 <p style="Normal" xid="1532"><c></c><c></c></p>
 </cell>
-<cell xid="1534" props="bot-attach:29; left-attach:9; right-attach:10; top-attach:28">
+<cell xid="1534" props="bot-attach:27; left-attach:9; right-attach:10; top-attach:26">
 <p style="Normal" xid="1535"><c></c><c></c></p>
 </cell>
-<cell xid="1537" props="bot-attach:29; left-attach:10; right-attach:11; top-attach:28">
+<cell xid="1537" props="bot-attach:27; left-attach:10; right-attach:11; top-attach:26">
 <p style="Normal" xid="1538"><c></c><c></c></p>
 </cell>
-<cell xid="1540" props="bot-attach:29; left-attach:11; right-attach:12; top-attach:28">
+<cell xid="1540" props="bot-attach:27; left-attach:11; right-attach:12; top-attach:26">
 <p style="Normal" xid="1541"><c></c><c></c></p>
 </cell>
-<cell xid="1543" props="bot-attach:29; left-attach:12; right-attach:13; top-attach:28">
+<cell xid="1543" props="bot-attach:27; left-attach:12; right-attach:13; top-attach:26">
 <p style="Normal" xid="1544"><c></c><c></c></p>
 </cell>
-<cell xid="1546" props="bot-attach:29; left-attach:13; right-attach:14; top-attach:28">
+<cell xid="1546" props="bot-attach:27; left-attach:13; right-attach:14; top-attach:26">
 <p style="Normal" xid="1547"><c></c><c></c></p>
 </cell>
-<cell xid="1549" props="bot-attach:29; left-attach:14; right-attach:15; top-attach:28">
+<cell xid="1549" props="bot-attach:27; left-attach:14; right-attach:15; top-attach:26">
 <p style="Normal" xid="1550"><c></c><c></c></p>
 </cell>
-<cell xid="1552" props="bot-attach:30; left-attach:0; right-attach:1; top-attach:29">
+<cell xid="1552" props="bot-attach:28; left-attach:0; right-attach:1; top-attach:27">
 <p style="Normal" xid="1553"><c></c><c></c></p>
 </cell>
-<cell xid="1555" props="bot-attach:30; left-attach:1; right-attach:2; top-attach:29">
+<cell xid="1555" props="bot-attach:28; left-attach:1; right-attach:2; top-attach:27">
 <p style="Normal" xid="1556"><c></c><c></c></p>
 </cell>
-<cell xid="1558" props="bot-attach:30; left-attach:2; right-attach:3; top-attach:29">
+<cell xid="1558" props="bot-attach:28; left-attach:2; right-attach:3; top-attach:27">
 <p style="Normal" xid="1559"><c></c><c></c></p>
 </cell>
-<cell xid="1561" props="bot-attach:30; left-attach:3; right-attach:4; top-attach:29">
+<cell xid="1561" props="bot-attach:28; left-attach:3; right-attach:4; top-attach:27">
 <p style="Normal" xid="1562"><c></c><c></c></p>
 </cell>
-<cell xid="1564" props="bot-attach:30; left-attach:4; right-attach:5; top-attach:29">
+<cell xid="1564" props="bot-attach:28; left-attach:4; right-attach:5; top-attach:27">
 <p style="Normal" xid="1565"><c></c><c></c></p>
 </cell>
-<cell xid="1567" props="bot-attach:30; left-attach:5; right-attach:6; top-attach:29">
+<cell xid="1567" props="bot-attach:28; left-attach:5; right-attach:6; top-attach:27">
 <p style="Normal" xid="1568"><c></c><c></c></p>
 </cell>
-<cell xid="1570" props="bot-attach:30; left-attach:6; right-attach:7; top-attach:29">
+<cell xid="1570" props="bot-attach:28; left-attach:6; right-attach:7; top-attach:27">
 <p style="Normal" xid="1571"><c></c><c></c></p>
 </cell>
-<cell xid="1573" props="bot-attach:30; left-attach:7; right-attach:8; top-attach:29">
+<cell xid="1573" props="bot-attach:28; left-attach:7; right-attach:8; top-attach:27">
 <p style="Normal" xid="1574"><c></c><c></c></p>
 </cell>
-<cell xid="1576" props="bot-attach:30; left-attach:8; right-attach:9; top-attach:29">
+<cell xid="1576" props="bot-attach:28; left-attach:8; right-attach:9; top-attach:27">
 <p style="Normal" xid="1577"><c></c><c></c></p>
 </cell>
-<cell xid="1579" props="bot-attach:30; left-attach:9; right-attach:10; top-attach:29">
+<cell xid="1579" props="bot-attach:28; left-attach:9; right-attach:10; top-attach:27">
 <p style="Normal" xid="1580"><c></c><c></c></p>
 </cell>
-<cell xid="1582" props="bot-attach:30; left-attach:10; right-attach:11; top-attach:29">
+<cell xid="1582" props="bot-attach:28; left-attach:10; right-attach:11; top-attach:27">
 <p style="Normal" xid="1583"><c></c><c></c></p>
 </cell>
-<cell xid="1585" props="bot-attach:30; left-attach:11; right-attach:12; top-attach:29">
+<cell xid="1585" props="bot-attach:28; left-attach:11; right-attach:12; top-attach:27">
 <p style="Normal" xid="1586"><c></c><c></c></p>
 </cell>
-<cell xid="1588" props="bot-attach:30; left-attach:12; right-attach:13; top-attach:29">
+<cell xid="1588" props="bot-attach:28; left-attach:12; right-attach:13; top-attach:27">
 <p style="Normal" xid="1589"><c></c><c></c></p>
 </cell>
-<cell xid="1591" props="bot-attach:30; left-attach:13; right-attach:14; top-attach:29">
+<cell xid="1591" props="bot-attach:28; left-attach:13; right-attach:14; top-attach:27">
 <p style="Normal" xid="1592"><c></c><c></c></p>
 </cell>
-<cell xid="1594" props="bot-attach:30; left-attach:14; right-attach:15; top-attach:29">
+<cell xid="1594" props="bot-attach:28; left-attach:14; right-attach:15; top-attach:27">
 <p style="Normal" xid="1595"><c></c><c></c></p>
 </cell>
 </table>
