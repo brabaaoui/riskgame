@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="1734" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="1776" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Tue Mar 10 11:56:29 2015
+<m key="abiword.date_last_changed">Tue Mar 17 09:03:26 2015
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.creator">KAAN GAUTIER p1422250</m>
@@ -19,32 +19,40 @@
 </metadata>
 <rdf>
 </rdf>
-<history version="15" edit-time="13157" last-saved="1425984989" uid="790457c4-c6f5-11e4-96db-fa95d34236c1">
+<history version="17" edit-time="16368" last-saved="1426579406" uid="790457c4-c6f5-11e4-96db-fa95d34236c1">
 <version id="15" started="1425971883" uid="1ade917c-c714-11e4-96db-fa95d34236c1" auto="0" top-xid="4"/>
+<version id="17" started="1426578837" uid="175640fa-cc7c-11e4-8509-e1645cffeaf7" auto="0" top-xid="1774"/>
 </history>
 <styles>
-<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; bgcolor:transparent; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-bottom:0pt; font-weight:normal; line-height:1.0; text-align:left; font-variant:normal; text-decoration:none; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
 </styles>
 <pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
 <section xid="3" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
-<p style="Normal" xid="4"><c>Cahier des charges</c></p>
-<p style="Normal" xid="1"><c></c></p>
-<p style="Normal" xid="2"><c>1) Présentation du projet</c></p>
-<p style="Normal" xid="207"><c></c></p>
-<p style="Normal" xid="11"><c>Contexte : projet LIF7</c></p>
-<p style="Normal" xid="12"><c>Jeu de stratégie au tour par tour type Risk</c></p>
-<p style="Normal" xid="13"><c>Mode de jeu : Joueur vs Ordinateur (IA)</c></p>
-<p style="Normal" xid="16"><c>(Bonus : mode Joueur vs Joueur)</c></p>
-<p style="Normal" xid="17"><c>Durée : 30-45 minutes par partie</c></p>
-<p style="Normal" xid="19"><c>Plateau de jeu : carte du monde simplifiée (20aine de pays)</c></p>
-<p style="Normal" xid="20"><c>Système de batailles gagnées aux dés (probabilités)</c></p>
-<p style="Normal" xid="21"><c>Victoire : </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">posséder tous le plateau (mode 1), posséder certains pays (mode 2)</c></p>
-<p style="Normal" xid="204"><c></c></p>
-<p style="Normal" xid="205"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">2) Description de la demande</c></p>
-<p style="Normal" xid="206"><c></c></p>
-<p style="Normal" xid="22"><c>Unités : 3 types : soldat, char, avion</c></p>
-<p style="Normal" xid="23"><c>Pays (terrains) : Plaine, forêt, montagne -&gt; affecte la puissance  des unités</c></p>
-<p style="Normal" xid="24"><c></c></p>
+<p style="Normal" xid="4" props="text-align:center"><c props="font-weight:bold; font-size:20pt">Cahier des charges</c><c></c></p>
+<p style="Normal" xid="1"><c></c><c></c></p>
+<p style="Normal" xid="2"><c props="text-decoration:underline; font-size:16pt">1) Présentation du projet</c><c></c></p>
+<p style="Normal" xid="207"><c></c><c></c></p>
+<p style="Normal" xid="11" props="text-align:justify">	Le groupe d’étudiants de l’Université Lyon 1 <c props="color:ff0000">/*nom du projet*/</c> est en charge du développement d’un jeu de stratégie au tour par tour basé sur les principes de jeu du Risk, dans le cadre du projet LIF7. Le groupe est composé de 3 étudiants responsables à plein temps du développement du produit.</p>
+<p style="Normal" xid="1751" props="text-align:justify"><c></c></p>
+<p style="Normal" xid="1752" props="text-align:justify">	L’équipe devra définir le concept du jeu, ses règles, ses graphiques et sa programmation en langage C sous Linux. Le cahier des charges suivant présentera successivement  une description complète du produit attendu (règles de jeu, fonctionnement, etc.), la liste des tâches à effectuer dans le cadre du projet sous la forme d’un diagramme de Gantt et un diagramme des modules.</p>
+<p style="Normal" xid="1753"><c></c></p>
+<p style="Normal" xid="1756"><c></c></p>
+<p style="Normal" xid="1757"><c props="font-family:Times New Roman; font-size:16pt; color:000000; text-decoration:underline ; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">2) Description du produit</c></p>
+<p style="Normal" xid="1755"><c></c></p>
+<p style="Normal" xid="13">	<c props="font-weight:normal; font-size:14pt; font-style:italic">2.1) Principe du jeu</c></p>
+<p style="Normal" xid="1758"><c></c></p>
+<p style="Normal" xid="1759" props="text-align:justify">	Le jeu <c props="font-family:Times New Roman; font-size:12pt; color:ff0000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">/*nom du projet*/</c> sera jouable en mode Joueur VS Ordinateur au tour par tour et disposera donc d’une intelligence artificielle (IA). Une version Joueur VS Joueur pourrait être disponible en bonus du projet.</p>
+<p style="Normal" xid="1760" props="text-align:justify"><c></c></p>
+<p style="Normal" xid="1761" props="text-align:justify">L’interface du jeu sera composée d’un carte représentant une vingtaine de territoires. Chaque joueur commence en possédant la moitié de la carte (signifié par une couleur). Le but pour gagner est de posséder tous les territoires du plateau de jeu. Un mode de jeu bonus permettant de gagner si l’on possède certains pays au hasard sera éventuellement disponible.</p>
+<p style="Normal" xid="1762"><c></c></p>
+<p style="Normal" xid="1767" props="text-align:justify">Chaque joueur dispose d’une armée installée sur chacun des territoires qu’il possède. Ils auront la possibilité de renforcer leur armée à chaque tour en dépensant leurs ressources. A chaque tour, ils pourront aussi décider de lancer une ou plusieurs attaques : le joueur attaquant choisit son armée sur un territoire qu’il possède et désigne les unités qu’il veut affronter sur un territoire ennemi voisin. Le déroulement des batailles reposera sur les probabilités avec un système de lancé de dés pour désigner le vainqueur en fonction de la puissance des armées.</p>
+<p style="Normal" xid="1768"><c></c></p>
+<p style="Normal" xid="1763">La durée approximative d’une partie sera de 30 à 45 minutes.</p>
+<p style="Normal" xid="205"><c props="font-family:Times New Roman; text-decoration:underline; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<p style="Normal" xid="22"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">	</c><c props="font-family:Times New Roman; font-size:14pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:italic; lang:fr-FR">2.2) Les armées</c></p>
+<p style="Normal" xid="1769"><c></c></p>
+<p style="Normal" xid="1771" props="text-align:justify">	Dans le jeu , 3 types d’unités seront disponibles : les soldats, les chars et les avions. Chaque type possède une puissance différente qui se traduit par un « nombre de dés ». Ces trois types sont évalués comme suit :</p>
+<p style="Normal" xid="23"></p>
 <table xid="27" props="list-tag:1">
 <cell xid="28" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
 <p style="Normal" xid="29">Stats de base</p>
@@ -83,170 +91,180 @@
 <p style="Normal" xid="1662">100</p>
 </cell>
 </table>
-<p style="Normal" xid="5"><c></c></p>
+<p style="Normal" xid="5" props="text-align:justify"><c></c>Ainsi, une joueur possédant sur un de ses terrains une armée composée de 5 soldats, 2 chars et 1 avion pourra lors d’un bataille lancer jusqu’à 5*1 + 2*2 + 1*3 = 12 dés. Le résultat de l’addition de ces 12 dés donnera la puissance le l’armée lors de cette attaque (ou défense).</p>
+<p style="Normal" xid="1775"><c></c>Le joueur ne pourra dépasser un certain nombre total d’unités (soldats + chars + avions) sur un même terrain (environ 25-30).</p>
+<p style="Normal" xid="1772"><c></c></p>
+<p style="Normal" xid="1773"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Pays (terrains) : Plaine, forêt, montagne -&gt; affecte la puissance  des unités</c></p>
+<p style="Normal" xid="1748"><c></c></p>
 <table xid="66" props="table-row-heights:0.62cm/0.50cm/0.50cm/0.62cm/; list-tag:1">
 <cell xid="67" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
 <p xid="68">Plaine</p>
 </cell>
 <cell xid="70" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
-<p style="Normal" xid="71" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Puissance</c></p>
+<p style="Normal" xid="71" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Puissance</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="76" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
-<p style="Normal" xid="77" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Soldat</c></p>
+<p style="Normal" xid="77" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Soldat</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="79" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
-<p style="Normal" xid="80" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 0  %</c></p>
+<p style="Normal" xid="80" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 0  %</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="85" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
-<p style="Normal" xid="86" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Char</c></p>
+<p style="Normal" xid="86" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Char</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="88" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
-<p style="Normal" xid="89" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 0 %</c></p>
+<p style="Normal" xid="89" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 0 %</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="94" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
-<p style="Normal" xid="95" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Avion</c></p>
+<p style="Normal" xid="95" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Avion</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="97" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
-<p style="Normal" xid="98" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 25 %</c></p>
+<p style="Normal" xid="98" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 25 %</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 </table>
-<p xid="104"></p>
+<p xid="104"><c></c></p>
 <table xid="106" props="list-tag:1">
 <cell xid="107" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
 <p xid="108">Forêt</p>
 </cell>
 <cell xid="110" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
-<p style="Normal" xid="111" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Puissance</c></p>
+<p style="Normal" xid="111" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Puissance</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="116" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
-<p style="Normal" xid="117" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Soldat</c></p>
+<p style="Normal" xid="117" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Soldat</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="119" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
-<p style="Normal" xid="120" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 25 %</c></p>
+<p style="Normal" xid="120" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 25 %</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="125" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
-<p style="Normal" xid="126" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Char</c></p>
+<p style="Normal" xid="126" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Char</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="128" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
-<p style="Normal" xid="129" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 0 %</c></p>
+<p style="Normal" xid="129" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 0 %</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="134" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
-<p style="Normal" xid="135" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Avion</c></p>
+<p style="Normal" xid="135" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Avion</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="137" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
-<p style="Normal" xid="138" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>+ 0</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> %</c></p>
+<p style="Normal" xid="138" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in">+ 0<c></c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> %</c></p>
 </cell>
 </table>
-<p xid="144"></p>
+<p xid="144"><c></c></p>
 <table xid="146" props="list-tag:1">
 <cell xid="147" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
 <p xid="148">Montagne</p>
 </cell>
 <cell xid="150" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
-<p style="Normal" xid="151" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Puissance</c></p>
+<p style="Normal" xid="151" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Puissance</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="156" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
-<p style="Normal" xid="157" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Soldat</c></p>
+<p style="Normal" xid="157" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Soldat</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="159" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
-<p style="Normal" xid="160" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 0 %</c></p>
+<p style="Normal" xid="160" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 0 %</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="165" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
-<p style="Normal" xid="166" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Char</c></p>
+<p style="Normal" xid="166" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Char</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="168" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
-<p style="Normal" xid="169" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 25 %</c></p>
+<p style="Normal" xid="169" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 25 %</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="174" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
-<p style="Normal" xid="175" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Avion</c></p>
+<p style="Normal" xid="175" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Avion</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 <cell xid="177" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
-<p style="Normal" xid="178" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 0 %</c></p>
+<p style="Normal" xid="178" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">+ 0 %</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
 </cell>
 </table>
-<p xid="184"></p>
+<p xid="184"><c></c></p>
 <p xid="185">Bonus de terrain : +10 % de puissance  globale pour 3 tours		Coût : 100</p>
-<p xid="1706">		     <c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">+10 % de puissance  globale pour 5 tours</c><c>		Coût : 180</c></p>
-<p xid="1707"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">		     +10 % de puissance  globale pour 10 tours	Coût : 300</c></p>
-<p xid="188"><c></c></p>
+<p xid="1706">		     <c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">+10 % de puissance  globale pour 5 tours</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c>		Coût : 180</p>
+<p xid="1707"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">		     +10 % de puissance  globale pour 10 tours	Coût : 300</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<p xid="188"><c></c><c></c></p>
 <p xid="190">Déroulement d’une partie :</p>
+<p xid="1764"><c></c></p>
+<p xid="1765"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Le jeu s’ouvre sur la présentation du plateau de jeu. Celui-ci sera composé d’une carte représentant une vingtaine de territoires (appelés « Terrains »).</c></p>
+<p xid="1766"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 <p xid="189"> - Initialisation de la carte : </p>
 <p xid="195">	0) Lancé de dés pour déterminer au hasard qui commence</p>
 <p xid="192">	1) chaque joueur choisit un terrain chacun son tour  // un soldat est placé automatiquement sur chaque pays puis le joueur réparti comme il veut le reste de ses troupes</p>
-<p xid="193">	2) <c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">une fois que tout le plateau est occupé</c><c>, le joueur utilise ses ressources (argent) pour renforcer ses territoires. Chaque joueur reçoit un certain nombre d’unités qu’il disperse comme il le veut sur ses territoires.</c></p>
-<p xid="194"><c>	3) Quand les 2 joueurs ont placé leurs unités, le premier tour du J1 commence :</c></p>
-<p xid="196"><c>		3.1) Il dépense ses ressources pour acheter des unités et les place</c></p>
-<p xid="197"><c>		3.2) Il fait ses attaques</c></p>
-<p xid="198"><c>		3.3) Fortification (territoires conquis + 1 déplacement)</c></p>
-<p xid="200"><c>	4) Premier tour du J2</c></p>
-<p xid="201"><c>	5) Etc... jusqu’à victoire</c></p>
-<p xid="203"><c>A chaque début de tour, le joueur reçoit une somme d’argent en fonction du nombre de territoires qu’il possède + bonus s’il a un continent en entier</c></p>
-<p xid="202"></p>
+<p xid="193">	2) <c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">une fois que tout le plateau est occupé</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c>, le joueur utilise ses ressources (argent) pour renforcer ses territoires. Chaque joueur reçoit un certain nombre d’unités qu’il disperse comme il le veut sur ses territoires.</p>
+<p xid="194">	3) Quand les 2 joueurs ont placé leurs unités, le premier tour du J1 commence :<c></c></p>
+<p xid="196">		3.1) Il dépense ses ressources pour acheter des unités et les place<c></c></p>
+<p xid="197">		3.2) Il fait ses attaques<c></c></p>
+<p xid="198">		3.3) Fortification (territoires conquis + 1 déplacement)<c></c></p>
+<p xid="200">	4) Premier tour du J2<c></c></p>
+<p xid="201">	5) Etc... jusqu’à victoire<c></c></p>
+<p xid="203">A chaque début de tour, le joueur reçoit une somme d’argent en fonction du nombre de territoires qu’il possède + bonus s’il a un continent en entier<c></c></p>
+<p xid="202"><c></c></p>
 <p xid="1664">Nombre de pays : 20</p>
 <p xid="1665"><c></c>Argent au départ : 300 (50 par pays)</p>
 <p xid="1666">Argent récupéré chaque tour : 100 + 30 par pays normal // bonus de 5 par tour pour pays avec accès à la mer</p>
 <p xid="1667">Bonus continent (4 au total) : 20/pays/continent</p>
 <p xid="1705">Un pays ne peut attaquer un autre pays que si celui-ci est frontalier où s’il dispose d’un «accès à la mer» commun avec lui.</p>
-<p xid="191"><c></c></p>
+<p xid="191"><c></c><c></c></p>
 <p xid="1668">Algorithme de bataille :</p>
-<p xid="1733"><c></c></p>
-<p xid="1729"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">PregimentAbase = PsoldatA + PcharA + PavionA</c></p>
-<p xid="1732"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">P</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Bbase = PsoldatB + PcharB + PavionB</c></p>
-<p xid="1730" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
-<p xid="1709">En plaine : P<c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c>A = PsoldatA + PcharA + (PavionA +25%)</p>
-<p xid="1719">	      <c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">PregimentB = PsoldatB + PcharB + (PavionB +25%)</c></p>
-<p xid="1715"><c></c></p>
-<p xid="1716">En forêt : <c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">PregimentA = (PsoldatA + 25%) + PcharA + PavionA</c></p>
-<p xid="1720" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">	    P</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">B = </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">(PsoldatB + 25%)</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> + PcharB + PavionB</c></p>
-<p xid="1717" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
-<p xid="1718">En montagne : <c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">PregimentA = PsoldatA + (PcharA + 25%) + PavionA</c></p>
-<p xid="1721" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">	            P</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">B = PsoldatB + </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">(PcharB + 25%)</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> + PavionB</c></p>
-<p xid="1722" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
-<p xid="1723" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Bonus de défense terrain : P</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> = P</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> x 1,1</c></p>
-<p xid="1724" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
-<p xid="1725" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">L’attaquant décide le nombre d’unités avec lesquelles il attaque et les unités de défense qu’il veut affronter.</c></p>
-<p xid="1726" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Si P</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">A &gt; P</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">B, alors le </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> B est vaincu</c></p>
-<p xid="1727" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Si B ne possède plus de soldats sur le territoire, il est acquis par A qui décide les unités qu’il veut transférer sur ce territoire</c></p>
-<p xid="1728" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">A peut décider d’attaquer à nouveau le même territoire avec les troupes qu’il lui reste sur le sien.</c></p>
-<p style="Normal" xid="1699" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
-<p style="Normal" xid="1700" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c><c>3) Contraintes</c></p>
-<p style="Normal" xid="9"><c></c></p>
-<p style="Normal" xid="208"><c>Date de livraison : 02 juin 2015</c></p>
-<p style="Normal" xid="210"><c>Langage utilisé : C</c></p>
+<p xid="1733"><c></c><c></c></p>
+<p xid="1729"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">PregimentAbase = PsoldatA + PcharA + PavionA</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<p xid="1732"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">P</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Bbase = PsoldatB + PcharB + PavionB</c></p>
+<p xid="1730" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c><c></c></p>
+<p xid="1709">En plaine : P<c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c>A = PsoldatA + PcharA + (PavionA +25%)</p>
+<p xid="1719">	      <c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">PregimentB = PsoldatB + PcharB + (PavionB +25%)</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<p xid="1715"><c></c><c></c></p>
+<p xid="1716">En forêt : <c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">PregimentA = (PsoldatA + 25%) + PcharA + PavionA</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<p xid="1720" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">	    P</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">B = </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">(PsoldatB + 25%)</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> + PcharB + PavionB</c></p>
+<p xid="1717" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c><c></c></p>
+<p xid="1718">En montagne : <c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">PregimentA = PsoldatA + (PcharA + 25%) + PavionA</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
+<p xid="1721" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">	            P</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">B = PsoldatB + </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">(PcharB + 25%)</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> + PavionB</c></p>
+<p xid="1722" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><c></c></p>
+<p xid="1723" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Bonus de défense terrain : P</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> = P</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> x 1,1</c></p>
+<p xid="1724" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><c></c></p>
+<p xid="1725" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">L’attaquant décide le nombre d’unités avec lesquelles il attaque et les unités de défense qu’il veut affronter.</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p xid="1726" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Si P</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">A &gt; P</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">B, alors le </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">regiment</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"> B est vaincu</c></p>
+<p xid="1727" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Si B ne possède plus de soldats sur le territoire, il est acquis par A qui décide les unités qu’il veut transférer sur ce territoire</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p xid="1728" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">A peut décider d’attaquer à nouveau le même territoire avec les troupes qu’il lui reste sur le sien.</c><c props="font-family:Times New Roman; font-size:12pt; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="1699" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c><c></c></p>
+<p style="Normal" xid="1700" props="font-family:Times New Roman; font-size:12pt; color:000000; lang:fr-FR; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c><c props="text-decoration:underline; font-size:16pt">3) Contraintes</c></p>
+<p style="Normal" xid="9"><c></c><c></c></p>
+<p style="Normal" xid="208">Date de livraison : 02 juin 2015<c></c></p>
+<p style="Normal" xid="210">Langage utilisé : C<c></c></p>
+<p style="Normal" xid="1736" props="text-align:left; dom-dir:ltr">Le code respectera le coding standard suivant : code indenté, variable ayant du sens, etc. </p>
+<p style="Normal" xid="1735">La librairie utilisée sera SDL et une première version du jeu sera disponible en version texte.</p>
+<p style="Normal" xid="1745" props="text-align:left; dom-dir:ltr">L'équipe de développement utilisera les outils de debug : gdb, valgrind.</p>
 <p style="Normal" xid="211">Gestion de version faite sur Git</p>
 <p style="Normal" xid="212">Documentation du code avec Doxygen</p>
+<p style="Normal" xid="1743" props="text-align:left; dom-dir:ltr">Un diagramme des modules permettra d'avoir une vision de haut niveau de l'implantation. </p>
 <p style="Normal" xid="213">Coût : 3 mois de développement par 3 étudiants</p>
-<p style="Normal" xid="209"><c></c></p>
-<p style="Normal" xid="10"><c>4) Déroulement du projet</c></p>
-<p style="Normal" xid="214"><c></c></p>
-<p style="Normal" xid="215"><c>Liste des tâches :</c></p>
-<p style="Normal" xid="219"><c> 1- Réalisation du cahier des charges</c></p>
-<p style="Normal" xid="221"><c> 2- Conception du diagramme des modules</c></p>
-<p style="Normal" xid="222"><c> 3- Création de la carte de jeu</c></p>
-<p style="Normal" xid="223"><c> 4- Écriture des règles du jeu</c></p>
-<p style="Normal" xid="224"><c> 5- Développement l’IA</c></p>
-<p style="Normal" xid="225"><c> 6- Développement le système de lancer de dés</c></p>
-<p style="Normal" xid="226"><c> 7- Définition des règles de batailles</c></p>
+<p style="Normal" xid="209"><c></c><c></c></p>
+<p style="Normal" xid="10"><c props="text-decoration:underline; font-size:16pt">4) Déroulement du projet</c><c></c></p>
+<p style="Normal" xid="214"><c></c><c></c></p>
+<p style="Normal" xid="215">Liste des tâches :<c></c></p>
+<p style="Normal" xid="219"> 1- Réalisation du cahier des charges<c></c></p>
+<p style="Normal" xid="221"> 2- Conception du diagramme des modules<c></c></p>
+<p style="Normal" xid="222"> 3- Création de la carte de jeu<c></c></p>
+<p style="Normal" xid="223"> 4- Écriture des règles du jeu<c></c></p>
+<p style="Normal" xid="224"> 5- Développement l’IA<c></c></p>
+<p style="Normal" xid="225"> 6- Développement le système de lancer de dés<c></c></p>
+<p style="Normal" xid="226"> 7- Définition des règles de batailles<c></c></p>
 <p style="Normal" xid="238">	7.1- Algorithme de calcul des bonus/malus</p>
 <p style="Normal" xid="239">	7.2- Algorithme de calcul des puissances d’attaque/défense</p>
-<p style="Normal" xid="227"><c> 8- Programmation des modules de jeu</c></p>
-<p style="Normal" xid="230"><c>	8.1- Module Unité</c></p>
-<p style="Normal" xid="231"><c>	8.2- Module Terrain</c></p>
-<p style="Normal" xid="232"><c>	8.3- Module Jeu</c></p>
-<p style="Normal" xid="233"><c>	8.4- Module SimulationDés</c></p>
-<p style="Normal" xid="234"><c>	8.5- Module Bataille</c></p>
-<p style="Normal" xid="228"><c> 9- Programmation de l’interface graphique SDL</c></p>
-<p style="Normal" xid="229"><c> 10- Constitution base de données images/musiques/sons</c></p>
-<p style="Normal" xid="236"><c> 11- Préparation soutenance</c></p>
+<p style="Normal" xid="227"> 8- Programmation des modules de jeu<c></c></p>
+<p style="Normal" xid="230">	8.1- Module Unité<c></c></p>
+<p style="Normal" xid="231">	8.2- Module Terrain<c></c></p>
+<p style="Normal" xid="232">	8.3- Module Jeu<c></c></p>
+<p style="Normal" xid="233">	8.4- Module SimulationDés<c></c></p>
+<p style="Normal" xid="234">	8.5- Module Bataille<c></c></p>
+<p style="Normal" xid="228"> 9- Programmation de l’interface graphique SDL<c></c></p>
+<p style="Normal" xid="229"> 10- Constitution base de données images/musiques/sons<c></c></p>
+<p style="Normal" xid="236"> 11- Préparation soutenance<c></c></p>
 <p style="Normal" xid="240"> 12- Test du jeu</p>
-<p style="Normal" xid="237"><c> 13- Création de l’interface de jeu</c></p>
-<p style="Normal" xid="242"><c> 14- Programmation de l’interface de texte</c></p>
-<p style="Normal" xid="216"><c></c></p>
-<p style="Normal" xid="217"><c></c></p>
-<p style="Normal" xid="218"><c><pbr/></c></p>
-<p style="Normal" xid="243"><c></c><c>Gantt :</c></p>
-<p style="Normal" xid="244"><c></c></p>
-<table xid="246" props="table-column-leftpos:-2.00cm; table-column-props:1.25cm/1.25cm/7.49cm/0.75cm/0.75cm/0.62cm/0.62cm/0.75cm/0.62cm/0.75cm/0.62cm/0.75cm/0.87cm/0.87cm/1.62cm/">
+<p style="Normal" xid="237"> 13- Création de l’interface de jeu<c></c></p>
+<p style="Normal" xid="242"> 14- Programmation de l’interface de texte<c></c></p>
+<p style="Normal" xid="216"><c></c><c></c></p>
+<p style="Normal" xid="217"><c></c><c></c></p>
+<p style="Normal" xid="218"><pbr/><c></c>Gantt :</p>
+<p style="Normal" xid="244"><c></c><c></c></p>
+<table xid="246" props="table-column-props:1.25cm/1.25cm/7.49cm/0.75cm/0.75cm/0.62cm/0.62cm/0.75cm/0.62cm/0.75cm/0.62cm/0.75cm/0.87cm/0.87cm/1.62cm/; table-row-heights:0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/1.00cm/1.00cm/0.50cm/0.50cm/0.50cm/0.50cm/0.62cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/1.00cm/1.00cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.62cm/; table-column-leftpos:-2.00cm">
 <cell xid="247" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
 <p style="Normal" xid="248">Tâche</p>
 </cell>
@@ -254,7 +272,7 @@
 <p style="Normal" xid="251">Durée</p>
 </cell>
 <cell xid="253" props="bot-attach:1; left-attach:2; right-attach:3; top-attach:0">
-<p style="Normal" xid="254"><c></c></p>
+<p style="Normal" xid="254"><c></c><c></c></p>
 </cell>
 <cell xid="256" props="bot-attach:1; left-attach:3; right-attach:4; top-attach:0">
 <p style="Normal" xid="257">S1</p>
@@ -299,7 +317,7 @@
 <p style="Normal" xid="296">2</p>
 </cell>
 <cell xid="298" props="bot-attach:2; left-attach:2; right-attach:3; top-attach:1">
-<p style="Normal" xid="299"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Réalisation du cahier des charges</c></p>
+<p style="Normal" xid="299"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Réalisation du cahier des charges</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="301" props="bot-attach:2; left-attach:3; right-attach:4; top-attach:1">
 <p style="Normal" xid="302">X</p>
@@ -308,34 +326,34 @@
 <p style="Normal" xid="305">X</p>
 </cell>
 <cell xid="307" props="bot-attach:2; left-attach:5; right-attach:6; top-attach:1">
-<p style="Normal" xid="308"><c></c></p>
+<p style="Normal" xid="308"><c></c><c></c></p>
 </cell>
 <cell xid="310" props="bot-attach:2; left-attach:6; right-attach:7; top-attach:1">
-<p style="Normal" xid="311"><c></c></p>
+<p style="Normal" xid="311"><c></c><c></c></p>
 </cell>
 <cell xid="313" props="bot-attach:2; left-attach:7; right-attach:8; top-attach:1">
-<p style="Normal" xid="314"><c></c></p>
+<p style="Normal" xid="314"><c></c><c></c></p>
 </cell>
 <cell xid="316" props="bot-attach:2; left-attach:8; right-attach:9; top-attach:1">
-<p style="Normal" xid="317"><c></c></p>
+<p style="Normal" xid="317"><c></c><c></c></p>
 </cell>
 <cell xid="319" props="bot-attach:2; left-attach:9; right-attach:10; top-attach:1">
-<p style="Normal" xid="320"><c></c></p>
+<p style="Normal" xid="320"><c></c><c></c></p>
 </cell>
 <cell xid="322" props="bot-attach:2; left-attach:10; right-attach:11; top-attach:1">
-<p style="Normal" xid="323"><c></c></p>
+<p style="Normal" xid="323"><c></c><c></c></p>
 </cell>
 <cell xid="325" props="bot-attach:2; left-attach:11; right-attach:12; top-attach:1">
-<p style="Normal" xid="326"><c></c></p>
+<p style="Normal" xid="326"><c></c><c></c></p>
 </cell>
 <cell xid="328" props="bot-attach:2; left-attach:12; right-attach:13; top-attach:1">
-<p style="Normal" xid="329"><c></c></p>
+<p style="Normal" xid="329"><c></c><c></c></p>
 </cell>
 <cell xid="331" props="bot-attach:2; left-attach:13; right-attach:14; top-attach:1">
-<p style="Normal" xid="332"><c></c></p>
+<p style="Normal" xid="332"><c></c><c></c></p>
 </cell>
 <cell xid="334" props="bot-attach:2; left-attach:14; right-attach:15; top-attach:1">
-<p style="Normal" xid="335"><c></c></p>
+<p style="Normal" xid="335"><c></c><c></c></p>
 </cell>
 <cell xid="337" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
 <p style="Normal" xid="338">1.1</p>
@@ -344,7 +362,7 @@
 <p style="Normal" xid="341">2</p>
 </cell>
 <cell xid="343" props="bot-attach:3; left-attach:2; right-attach:3; top-attach:2">
-<p style="Normal" xid="344"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Écriture des règles du jeu</c></p>
+<p style="Normal" xid="344"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Écriture des règles du jeu</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="346" props="bot-attach:3; left-attach:3; right-attach:4; top-attach:2">
 <p style="Normal" xid="347">X</p>
@@ -353,34 +371,34 @@
 <p style="Normal" xid="350">X</p>
 </cell>
 <cell xid="352" props="bot-attach:3; left-attach:5; right-attach:6; top-attach:2">
-<p style="Normal" xid="353"><c></c></p>
+<p style="Normal" xid="353"><c></c><c></c></p>
 </cell>
 <cell xid="355" props="bot-attach:3; left-attach:6; right-attach:7; top-attach:2">
-<p style="Normal" xid="356"><c></c></p>
+<p style="Normal" xid="356"><c></c><c></c></p>
 </cell>
 <cell xid="358" props="bot-attach:3; left-attach:7; right-attach:8; top-attach:2">
-<p style="Normal" xid="359"><c></c></p>
+<p style="Normal" xid="359"><c></c><c></c></p>
 </cell>
 <cell xid="361" props="bot-attach:3; left-attach:8; right-attach:9; top-attach:2">
-<p style="Normal" xid="362"><c></c></p>
+<p style="Normal" xid="362"><c></c><c></c></p>
 </cell>
 <cell xid="364" props="bot-attach:3; left-attach:9; right-attach:10; top-attach:2">
-<p style="Normal" xid="365"><c></c></p>
+<p style="Normal" xid="365"><c></c><c></c></p>
 </cell>
 <cell xid="367" props="bot-attach:3; left-attach:10; right-attach:11; top-attach:2">
-<p style="Normal" xid="368"><c></c></p>
+<p style="Normal" xid="368"><c></c><c></c></p>
 </cell>
 <cell xid="370" props="bot-attach:3; left-attach:11; right-attach:12; top-attach:2">
-<p style="Normal" xid="371"><c></c></p>
+<p style="Normal" xid="371"><c></c><c></c></p>
 </cell>
 <cell xid="373" props="bot-attach:3; left-attach:12; right-attach:13; top-attach:2">
-<p style="Normal" xid="374"><c></c></p>
+<p style="Normal" xid="374"><c></c><c></c></p>
 </cell>
 <cell xid="376" props="bot-attach:3; left-attach:13; right-attach:14; top-attach:2">
-<p style="Normal" xid="377"><c></c></p>
+<p style="Normal" xid="377"><c></c><c></c></p>
 </cell>
 <cell xid="379" props="bot-attach:3; left-attach:14; right-attach:15; top-attach:2">
-<p style="Normal" xid="380"><c></c></p>
+<p style="Normal" xid="380"><c></c><c></c></p>
 </cell>
 <cell xid="382" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
 <p style="Normal" xid="383">1.2</p>
@@ -389,7 +407,7 @@
 <p style="Normal" xid="386">2</p>
 </cell>
 <cell xid="388" props="bot-attach:4; left-attach:2; right-attach:3; top-attach:3">
-<p style="Normal" xid="389"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Conception du diagramme des modules</c></p>
+<p style="Normal" xid="389"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Conception du diagramme des modules</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="391" props="bot-attach:4; left-attach:3; right-attach:4; top-attach:3">
 <p style="Normal" xid="392">X</p>
@@ -398,34 +416,34 @@
 <p style="Normal" xid="395">X</p>
 </cell>
 <cell xid="397" props="bot-attach:4; left-attach:5; right-attach:6; top-attach:3">
-<p style="Normal" xid="398"><c></c></p>
+<p style="Normal" xid="398"><c></c><c></c></p>
 </cell>
 <cell xid="400" props="bot-attach:4; left-attach:6; right-attach:7; top-attach:3">
-<p style="Normal" xid="401"><c></c></p>
+<p style="Normal" xid="401"><c></c><c></c></p>
 </cell>
 <cell xid="403" props="bot-attach:4; left-attach:7; right-attach:8; top-attach:3">
-<p style="Normal" xid="404"><c></c></p>
+<p style="Normal" xid="404"><c></c><c></c></p>
 </cell>
 <cell xid="406" props="bot-attach:4; left-attach:8; right-attach:9; top-attach:3">
-<p style="Normal" xid="407"><c></c></p>
+<p style="Normal" xid="407"><c></c><c></c></p>
 </cell>
 <cell xid="409" props="bot-attach:4; left-attach:9; right-attach:10; top-attach:3">
-<p style="Normal" xid="410"><c></c></p>
+<p style="Normal" xid="410"><c></c><c></c></p>
 </cell>
 <cell xid="412" props="bot-attach:4; left-attach:10; right-attach:11; top-attach:3">
-<p style="Normal" xid="413"><c></c></p>
+<p style="Normal" xid="413"><c></c><c></c></p>
 </cell>
 <cell xid="415" props="bot-attach:4; left-attach:11; right-attach:12; top-attach:3">
-<p style="Normal" xid="416"><c></c></p>
+<p style="Normal" xid="416"><c></c><c></c></p>
 </cell>
 <cell xid="418" props="bot-attach:4; left-attach:12; right-attach:13; top-attach:3">
-<p style="Normal" xid="419"><c></c></p>
+<p style="Normal" xid="419"><c></c><c></c></p>
 </cell>
 <cell xid="421" props="bot-attach:4; left-attach:13; right-attach:14; top-attach:3">
-<p style="Normal" xid="422"><c></c></p>
+<p style="Normal" xid="422"><c></c><c></c></p>
 </cell>
 <cell xid="424" props="bot-attach:4; left-attach:14; right-attach:15; top-attach:3">
-<p style="Normal" xid="425"><c></c></p>
+<p style="Normal" xid="425"><c></c><c></c></p>
 </cell>
 <cell xid="427" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
 <p style="Normal" xid="428">2</p>
@@ -434,43 +452,43 @@
 <p style="Normal" xid="431">1</p>
 </cell>
 <cell xid="433" props="bot-attach:5; left-attach:2; right-attach:3; top-attach:4">
-<p style="Normal" xid="434"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Création de la carte de jeu</c></p>
+<p style="Normal" xid="434"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Création de la carte de jeu</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="436" props="bot-attach:5; left-attach:3; right-attach:4; top-attach:4">
-<p style="Normal" xid="437"><c></c></p>
+<p style="Normal" xid="437"><c></c><c></c></p>
 </cell>
 <cell xid="439" props="bot-attach:5; left-attach:4; right-attach:5; top-attach:4">
 <p style="Normal" xid="440">X</p>
 </cell>
 <cell xid="442" props="bot-attach:5; left-attach:5; right-attach:6; top-attach:4">
-<p style="Normal" xid="443"><c></c></p>
+<p style="Normal" xid="443"><c></c><c></c></p>
 </cell>
 <cell xid="445" props="bot-attach:5; left-attach:6; right-attach:7; top-attach:4">
-<p style="Normal" xid="446"><c></c></p>
+<p style="Normal" xid="446"><c></c><c></c></p>
 </cell>
 <cell xid="448" props="bot-attach:5; left-attach:7; right-attach:8; top-attach:4">
-<p style="Normal" xid="449"><c></c></p>
+<p style="Normal" xid="449"><c></c><c></c></p>
 </cell>
 <cell xid="451" props="bot-attach:5; left-attach:8; right-attach:9; top-attach:4">
-<p style="Normal" xid="452"><c></c></p>
+<p style="Normal" xid="452"><c></c><c></c></p>
 </cell>
 <cell xid="454" props="bot-attach:5; left-attach:9; right-attach:10; top-attach:4">
-<p style="Normal" xid="455"><c></c></p>
+<p style="Normal" xid="455"><c></c><c></c></p>
 </cell>
 <cell xid="457" props="bot-attach:5; left-attach:10; right-attach:11; top-attach:4">
-<p style="Normal" xid="458"><c></c></p>
+<p style="Normal" xid="458"><c></c><c></c></p>
 </cell>
 <cell xid="460" props="bot-attach:5; left-attach:11; right-attach:12; top-attach:4">
-<p style="Normal" xid="461"><c></c></p>
+<p style="Normal" xid="461"><c></c><c></c></p>
 </cell>
 <cell xid="463" props="bot-attach:5; left-attach:12; right-attach:13; top-attach:4">
-<p style="Normal" xid="464"><c></c></p>
+<p style="Normal" xid="464"><c></c><c></c></p>
 </cell>
 <cell xid="466" props="bot-attach:5; left-attach:13; right-attach:14; top-attach:4">
-<p style="Normal" xid="467"><c></c></p>
+<p style="Normal" xid="467"><c></c><c></c></p>
 </cell>
 <cell xid="469" props="bot-attach:5; left-attach:14; right-attach:15; top-attach:4">
-<p style="Normal" xid="470"><c></c></p>
+<p style="Normal" xid="470"><c></c><c></c></p>
 </cell>
 <cell xid="472" props="bot-attach:6; left-attach:0; right-attach:1; top-attach:5">
 <p style="Normal" xid="473">1.3</p>
@@ -479,43 +497,43 @@
 <p style="Normal" xid="476">1</p>
 </cell>
 <cell xid="478" props="bot-attach:6; left-attach:2; right-attach:3; top-attach:5">
-<p style="Normal" xid="479"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Définition des règles de batailles</c></p>
+<p style="Normal" xid="479"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Définition des règles de batailles</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="481" props="bot-attach:6; left-attach:3; right-attach:4; top-attach:5">
-<p style="Normal" xid="482"><c></c></p>
+<p style="Normal" xid="482"><c></c><c></c></p>
 </cell>
 <cell xid="484" props="bot-attach:6; left-attach:4; right-attach:5; top-attach:5">
 <p style="Normal" xid="485">X</p>
 </cell>
 <cell xid="487" props="bot-attach:6; left-attach:5; right-attach:6; top-attach:5">
-<p style="Normal" xid="488"><c></c></p>
+<p style="Normal" xid="488"><c></c><c></c></p>
 </cell>
 <cell xid="490" props="bot-attach:6; left-attach:6; right-attach:7; top-attach:5">
-<p style="Normal" xid="491"><c></c></p>
+<p style="Normal" xid="491"><c></c><c></c></p>
 </cell>
 <cell xid="493" props="bot-attach:6; left-attach:7; right-attach:8; top-attach:5">
-<p style="Normal" xid="494"><c></c></p>
+<p style="Normal" xid="494"><c></c><c></c></p>
 </cell>
 <cell xid="496" props="bot-attach:6; left-attach:8; right-attach:9; top-attach:5">
-<p style="Normal" xid="497"><c></c></p>
+<p style="Normal" xid="497"><c></c><c></c></p>
 </cell>
 <cell xid="499" props="bot-attach:6; left-attach:9; right-attach:10; top-attach:5">
-<p style="Normal" xid="500"><c></c></p>
+<p style="Normal" xid="500"><c></c><c></c></p>
 </cell>
 <cell xid="502" props="bot-attach:6; left-attach:10; right-attach:11; top-attach:5">
-<p style="Normal" xid="503"><c></c></p>
+<p style="Normal" xid="503"><c></c><c></c></p>
 </cell>
 <cell xid="505" props="bot-attach:6; left-attach:11; right-attach:12; top-attach:5">
-<p style="Normal" xid="506"><c></c></p>
+<p style="Normal" xid="506"><c></c><c></c></p>
 </cell>
 <cell xid="508" props="bot-attach:6; left-attach:12; right-attach:13; top-attach:5">
-<p style="Normal" xid="509"><c></c></p>
+<p style="Normal" xid="509"><c></c><c></c></p>
 </cell>
 <cell xid="511" props="bot-attach:6; left-attach:13; right-attach:14; top-attach:5">
-<p style="Normal" xid="512"><c></c></p>
+<p style="Normal" xid="512"><c></c><c></c></p>
 </cell>
 <cell xid="514" props="bot-attach:6; left-attach:14; right-attach:15; top-attach:5">
-<p style="Normal" xid="515"><c></c></p>
+<p style="Normal" xid="515"><c></c><c></c></p>
 </cell>
 <cell xid="517" props="bot-attach:7; left-attach:0; right-attach:1; top-attach:6">
 <p style="Normal" xid="518">1.3.1</p>
@@ -524,7 +542,7 @@
 <p style="Normal" xid="521">2</p>
 </cell>
 <cell xid="523" props="bot-attach:7; left-attach:2; right-attach:3; top-attach:6">
-<p style="Normal" xid="524"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Algorithme de calcul des bonus/malus</c></p>
+<p style="Normal" xid="524"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Algorithme de calcul des bonus/malus</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="526" props="bot-attach:7; left-attach:3; right-attach:4; top-attach:6">
 <p style="Normal" xid="527">X</p>
@@ -533,34 +551,34 @@
 <p style="Normal" xid="530">X</p>
 </cell>
 <cell xid="532" props="bot-attach:7; left-attach:5; right-attach:6; top-attach:6">
-<p style="Normal" xid="533"></p>
+<p style="Normal" xid="533"><c></c></p>
 </cell>
 <cell xid="535" props="bot-attach:7; left-attach:6; right-attach:7; top-attach:6">
-<p style="Normal" xid="536"><c></c></p>
+<p style="Normal" xid="536"><c></c><c></c></p>
 </cell>
 <cell xid="538" props="bot-attach:7; left-attach:7; right-attach:8; top-attach:6">
-<p style="Normal" xid="539"><c></c></p>
+<p style="Normal" xid="539"><c></c><c></c></p>
 </cell>
 <cell xid="541" props="bot-attach:7; left-attach:8; right-attach:9; top-attach:6">
-<p style="Normal" xid="542"><c></c></p>
+<p style="Normal" xid="542"><c></c><c></c></p>
 </cell>
 <cell xid="544" props="bot-attach:7; left-attach:9; right-attach:10; top-attach:6">
-<p style="Normal" xid="545"><c></c></p>
+<p style="Normal" xid="545"><c></c><c></c></p>
 </cell>
 <cell xid="547" props="bot-attach:7; left-attach:10; right-attach:11; top-attach:6">
-<p style="Normal" xid="548"><c></c></p>
+<p style="Normal" xid="548"><c></c><c></c></p>
 </cell>
 <cell xid="550" props="bot-attach:7; left-attach:11; right-attach:12; top-attach:6">
-<p style="Normal" xid="551"><c></c></p>
+<p style="Normal" xid="551"><c></c><c></c></p>
 </cell>
 <cell xid="553" props="bot-attach:7; left-attach:12; right-attach:13; top-attach:6">
-<p style="Normal" xid="554"><c></c></p>
+<p style="Normal" xid="554"><c></c><c></c></p>
 </cell>
 <cell xid="556" props="bot-attach:7; left-attach:13; right-attach:14; top-attach:6">
-<p style="Normal" xid="557"><c></c></p>
+<p style="Normal" xid="557"><c></c><c></c></p>
 </cell>
 <cell xid="559" props="bot-attach:7; left-attach:14; right-attach:15; top-attach:6">
-<p style="Normal" xid="560"><c></c></p>
+<p style="Normal" xid="560"><c></c><c></c></p>
 </cell>
 <cell xid="562" props="bot-attach:8; left-attach:0; right-attach:1; top-attach:7">
 <p style="Normal" xid="563">1.3.2</p>
@@ -569,7 +587,7 @@
 <p style="Normal" xid="566">2</p>
 </cell>
 <cell xid="568" props="bot-attach:8; left-attach:2; right-attach:3; top-attach:7">
-<p style="Normal" xid="569"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Algorithme de calcul des puissances d’attaque/défense</c></p>
+<p style="Normal" xid="569"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Algorithme de calcul des puissances d’attaque/défense</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="571" props="bot-attach:8; left-attach:3; right-attach:4; top-attach:7">
 <p style="Normal" xid="572">X</p>
@@ -578,34 +596,34 @@
 <p style="Normal" xid="575">X</p>
 </cell>
 <cell xid="577" props="bot-attach:8; left-attach:5; right-attach:6; top-attach:7">
-<p style="Normal" xid="578"></p>
+<p style="Normal" xid="578"><c></c></p>
 </cell>
 <cell xid="580" props="bot-attach:8; left-attach:6; right-attach:7; top-attach:7">
-<p style="Normal" xid="581"><c></c></p>
+<p style="Normal" xid="581"><c></c><c></c></p>
 </cell>
 <cell xid="583" props="bot-attach:8; left-attach:7; right-attach:8; top-attach:7">
-<p style="Normal" xid="584"><c></c></p>
+<p style="Normal" xid="584"><c></c><c></c></p>
 </cell>
 <cell xid="586" props="bot-attach:8; left-attach:8; right-attach:9; top-attach:7">
-<p style="Normal" xid="587"><c></c></p>
+<p style="Normal" xid="587"><c></c><c></c></p>
 </cell>
 <cell xid="589" props="bot-attach:8; left-attach:9; right-attach:10; top-attach:7">
-<p style="Normal" xid="590"><c></c></p>
+<p style="Normal" xid="590"><c></c><c></c></p>
 </cell>
 <cell xid="592" props="bot-attach:8; left-attach:10; right-attach:11; top-attach:7">
-<p style="Normal" xid="593"><c></c></p>
+<p style="Normal" xid="593"><c></c><c></c></p>
 </cell>
 <cell xid="595" props="bot-attach:8; left-attach:11; right-attach:12; top-attach:7">
-<p style="Normal" xid="596"><c></c></p>
+<p style="Normal" xid="596"><c></c><c></c></p>
 </cell>
 <cell xid="598" props="bot-attach:8; left-attach:12; right-attach:13; top-attach:7">
-<p style="Normal" xid="599"><c></c></p>
+<p style="Normal" xid="599"><c></c><c></c></p>
 </cell>
 <cell xid="601" props="bot-attach:8; left-attach:13; right-attach:14; top-attach:7">
-<p style="Normal" xid="602"><c></c></p>
+<p style="Normal" xid="602"><c></c><c></c></p>
 </cell>
 <cell xid="604" props="bot-attach:8; left-attach:14; right-attach:15; top-attach:7">
-<p style="Normal" xid="605"><c></c></p>
+<p style="Normal" xid="605"><c></c><c></c></p>
 </cell>
 <cell xid="607" props="bot-attach:9; left-attach:0; right-attach:1; top-attach:8">
 <p style="Normal" xid="608">1.4</p>
@@ -614,7 +632,7 @@
 <p style="Normal" xid="611">2</p>
 </cell>
 <cell xid="613" props="bot-attach:9; left-attach:2; right-attach:3; top-attach:8">
-<p style="Normal" xid="614"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Développement le système de lancer de dés</c></p>
+<p style="Normal" xid="614"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Développement le système de lancer de dés</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="616" props="bot-attach:9; left-attach:3; right-attach:4; top-attach:8">
 <p style="Normal" xid="617">X</p>
@@ -623,34 +641,34 @@
 <p style="Normal" xid="620">X</p>
 </cell>
 <cell xid="622" props="bot-attach:9; left-attach:5; right-attach:6; top-attach:8">
-<p style="Normal" xid="623"></p>
+<p style="Normal" xid="623"><c></c></p>
 </cell>
 <cell xid="625" props="bot-attach:9; left-attach:6; right-attach:7; top-attach:8">
-<p style="Normal" xid="626"><c></c></p>
+<p style="Normal" xid="626"><c></c><c></c></p>
 </cell>
 <cell xid="628" props="bot-attach:9; left-attach:7; right-attach:8; top-attach:8">
-<p style="Normal" xid="629"><c></c></p>
+<p style="Normal" xid="629"><c></c><c></c></p>
 </cell>
 <cell xid="631" props="bot-attach:9; left-attach:8; right-attach:9; top-attach:8">
-<p style="Normal" xid="632"><c></c></p>
+<p style="Normal" xid="632"><c></c><c></c></p>
 </cell>
 <cell xid="634" props="bot-attach:9; left-attach:9; right-attach:10; top-attach:8">
-<p style="Normal" xid="635"><c></c></p>
+<p style="Normal" xid="635"><c></c><c></c></p>
 </cell>
 <cell xid="637" props="bot-attach:9; left-attach:10; right-attach:11; top-attach:8">
-<p style="Normal" xid="638"><c></c></p>
+<p style="Normal" xid="638"><c></c><c></c></p>
 </cell>
 <cell xid="640" props="bot-attach:9; left-attach:11; right-attach:12; top-attach:8">
-<p style="Normal" xid="641"><c></c></p>
+<p style="Normal" xid="641"><c></c><c></c></p>
 </cell>
 <cell xid="643" props="bot-attach:9; left-attach:12; right-attach:13; top-attach:8">
-<p style="Normal" xid="644"><c></c></p>
+<p style="Normal" xid="644"><c></c><c></c></p>
 </cell>
 <cell xid="646" props="bot-attach:9; left-attach:13; right-attach:14; top-attach:8">
-<p style="Normal" xid="647"><c></c></p>
+<p style="Normal" xid="647"><c></c><c></c></p>
 </cell>
 <cell xid="649" props="bot-attach:9; left-attach:14; right-attach:15; top-attach:8">
-<p style="Normal" xid="650"><c></c></p>
+<p style="Normal" xid="650"><c></c><c></c></p>
 </cell>
 <cell xid="652" props="bot-attach:10; left-attach:0; right-attach:1; top-attach:9">
 <p style="Normal" xid="653">3</p>
@@ -659,13 +677,13 @@
 <p style="Normal" xid="656">9</p>
 </cell>
 <cell xid="658" props="bot-attach:10; left-attach:2; right-attach:3; top-attach:9">
-<p style="Normal" xid="659" props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Programmation des modules de jeu</c></p>
+<p style="Normal" xid="659" props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Programmation des modules de jeu</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="661" props="bot-attach:10; left-attach:3; right-attach:4; top-attach:9">
-<p style="Normal" xid="662"><c></c></p>
+<p style="Normal" xid="662"><c></c><c></c></p>
 </cell>
 <cell xid="664" props="bot-attach:10; left-attach:4; right-attach:5; top-attach:9">
-<p style="Normal" xid="665"><c></c></p>
+<p style="Normal" xid="665"><c></c><c></c></p>
 </cell>
 <cell xid="667" props="bot-attach:10; left-attach:5; right-attach:6; top-attach:9">
 <p style="Normal" xid="668">X</p>
@@ -695,7 +713,7 @@
 <p style="Normal" xid="692">X</p>
 </cell>
 <cell xid="694" props="bot-attach:10; left-attach:14; right-attach:15; top-attach:9">
-<p style="Normal" xid="695"><c></c></p>
+<p style="Normal" xid="695"><c></c><c></c></p>
 </cell>
 <cell xid="697" props="bot-attach:11; left-attach:0; right-attach:1; top-attach:10">
 <p style="Normal" xid="698">3.1</p>
@@ -704,43 +722,43 @@
 <p style="Normal" xid="701">1</p>
 </cell>
 <cell xid="703" props="bot-attach:11; left-attach:2; right-attach:3; top-attach:10">
-<p style="Normal" xid="704"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Unité</c></p>
+<p style="Normal" xid="704"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Unité</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="706" props="bot-attach:11; left-attach:3; right-attach:4; top-attach:10">
-<p style="Normal" xid="707"><c></c></p>
+<p style="Normal" xid="707"><c></c><c></c></p>
 </cell>
 <cell xid="709" props="bot-attach:11; left-attach:4; right-attach:5; top-attach:10">
-<p style="Normal" xid="710"><c></c></p>
+<p style="Normal" xid="710"><c></c><c></c></p>
 </cell>
 <cell xid="712" props="bot-attach:11; left-attach:5; right-attach:6; top-attach:10">
 <p style="Normal" xid="713">X</p>
 </cell>
 <cell xid="715" props="bot-attach:11; left-attach:6; right-attach:7; top-attach:10">
-<p style="Normal" xid="716"><c></c></p>
+<p style="Normal" xid="716"><c></c><c></c></p>
 </cell>
 <cell xid="718" props="bot-attach:11; left-attach:7; right-attach:8; top-attach:10">
-<p style="Normal" xid="719"><c></c></p>
+<p style="Normal" xid="719"><c></c><c></c></p>
 </cell>
 <cell xid="721" props="bot-attach:11; left-attach:8; right-attach:9; top-attach:10">
-<p style="Normal" xid="722"><c></c></p>
+<p style="Normal" xid="722"><c></c><c></c></p>
 </cell>
 <cell xid="724" props="bot-attach:11; left-attach:9; right-attach:10; top-attach:10">
-<p style="Normal" xid="725"><c></c></p>
+<p style="Normal" xid="725"><c></c><c></c></p>
 </cell>
 <cell xid="727" props="bot-attach:11; left-attach:10; right-attach:11; top-attach:10">
-<p style="Normal" xid="728"><c></c></p>
+<p style="Normal" xid="728"><c></c><c></c></p>
 </cell>
 <cell xid="730" props="bot-attach:11; left-attach:11; right-attach:12; top-attach:10">
-<p style="Normal" xid="731"><c></c></p>
+<p style="Normal" xid="731"><c></c><c></c></p>
 </cell>
 <cell xid="733" props="bot-attach:11; left-attach:12; right-attach:13; top-attach:10">
-<p style="Normal" xid="734"><c></c></p>
+<p style="Normal" xid="734"><c></c><c></c></p>
 </cell>
 <cell xid="736" props="bot-attach:11; left-attach:13; right-attach:14; top-attach:10">
-<p style="Normal" xid="737"><c></c></p>
+<p style="Normal" xid="737"><c></c><c></c></p>
 </cell>
 <cell xid="739" props="bot-attach:11; left-attach:14; right-attach:15; top-attach:10">
-<p style="Normal" xid="740"><c></c></p>
+<p style="Normal" xid="740"><c></c><c></c></p>
 </cell>
 <cell xid="742" props="bot-attach:12; left-attach:0; right-attach:1; top-attach:11">
 <p style="Normal" xid="743">3.2</p>
@@ -749,43 +767,43 @@
 <p style="Normal" xid="746">1</p>
 </cell>
 <cell xid="748" props="bot-attach:12; left-attach:2; right-attach:3; top-attach:11">
-<p style="Normal" xid="749"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Terrain</c></p>
+<p style="Normal" xid="749"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Terrain</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="751" props="bot-attach:12; left-attach:3; right-attach:4; top-attach:11">
-<p style="Normal" xid="752"><c></c></p>
+<p style="Normal" xid="752"><c></c><c></c></p>
 </cell>
 <cell xid="754" props="bot-attach:12; left-attach:4; right-attach:5; top-attach:11">
-<p style="Normal" xid="755"><c></c></p>
+<p style="Normal" xid="755"><c></c><c></c></p>
 </cell>
 <cell xid="757" props="bot-attach:12; left-attach:5; right-attach:6; top-attach:11">
 <p style="Normal" xid="758">X</p>
 </cell>
 <cell xid="760" props="bot-attach:12; left-attach:6; right-attach:7; top-attach:11">
-<p style="Normal" xid="761"><c></c></p>
+<p style="Normal" xid="761"><c></c><c></c></p>
 </cell>
 <cell xid="763" props="bot-attach:12; left-attach:7; right-attach:8; top-attach:11">
-<p style="Normal" xid="764"><c></c></p>
+<p style="Normal" xid="764"><c></c><c></c></p>
 </cell>
 <cell xid="766" props="bot-attach:12; left-attach:8; right-attach:9; top-attach:11">
-<p style="Normal" xid="767"><c></c></p>
+<p style="Normal" xid="767"><c></c><c></c></p>
 </cell>
 <cell xid="769" props="bot-attach:12; left-attach:9; right-attach:10; top-attach:11">
-<p style="Normal" xid="770"><c></c></p>
+<p style="Normal" xid="770"><c></c><c></c></p>
 </cell>
 <cell xid="772" props="bot-attach:12; left-attach:10; right-attach:11; top-attach:11">
-<p style="Normal" xid="773"><c></c></p>
+<p style="Normal" xid="773"><c></c><c></c></p>
 </cell>
 <cell xid="775" props="bot-attach:12; left-attach:11; right-attach:12; top-attach:11">
-<p style="Normal" xid="776"><c></c></p>
+<p style="Normal" xid="776"><c></c><c></c></p>
 </cell>
 <cell xid="778" props="bot-attach:12; left-attach:12; right-attach:13; top-attach:11">
-<p style="Normal" xid="779"><c></c></p>
+<p style="Normal" xid="779"><c></c><c></c></p>
 </cell>
 <cell xid="781" props="bot-attach:12; left-attach:13; right-attach:14; top-attach:11">
-<p style="Normal" xid="782"><c></c></p>
+<p style="Normal" xid="782"><c></c><c></c></p>
 </cell>
 <cell xid="784" props="bot-attach:12; left-attach:14; right-attach:15; top-attach:11">
-<p style="Normal" xid="785"><c></c></p>
+<p style="Normal" xid="785"><c></c><c></c></p>
 </cell>
 <cell xid="787" props="bot-attach:13; left-attach:0; right-attach:1; top-attach:12">
 <p style="Normal" xid="788">3.3</p>
@@ -794,13 +812,13 @@
 <p style="Normal" xid="791">9</p>
 </cell>
 <cell xid="793" props="bot-attach:13; left-attach:2; right-attach:3; top-attach:12">
-<p style="Normal" xid="794"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Jeu</c></p>
+<p style="Normal" xid="794"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Jeu</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="796" props="bot-attach:13; left-attach:3; right-attach:4; top-attach:12">
-<p style="Normal" xid="797"><c></c></p>
+<p style="Normal" xid="797"><c></c><c></c></p>
 </cell>
 <cell xid="799" props="bot-attach:13; left-attach:4; right-attach:5; top-attach:12">
-<p style="Normal" xid="800"><c></c></p>
+<p style="Normal" xid="800"><c></c><c></c></p>
 </cell>
 <cell xid="802" props="bot-attach:13; left-attach:5; right-attach:6; top-attach:12">
 <p style="Normal" xid="803">X</p>
@@ -830,7 +848,7 @@
 <p style="Normal" xid="827">X</p>
 </cell>
 <cell xid="829" props="bot-attach:13; left-attach:14; right-attach:15; top-attach:12">
-<p style="Normal" xid="830"><c></c></p>
+<p style="Normal" xid="830"><c></c><c></c></p>
 </cell>
 <cell xid="832" props="bot-attach:14; left-attach:0; right-attach:1; top-attach:13">
 <p style="Normal" xid="833">3.4</p>
@@ -839,43 +857,43 @@
 <p style="Normal" xid="836">1</p>
 </cell>
 <cell xid="838" props="bot-attach:14; left-attach:2; right-attach:3; top-attach:13">
-<p style="Normal" xid="839"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module SimulationDés</c></p>
+<p style="Normal" xid="839"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module SimulationDés</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="841" props="bot-attach:14; left-attach:3; right-attach:4; top-attach:13">
-<p style="Normal" xid="842"><c></c></p>
+<p style="Normal" xid="842"><c></c><c></c></p>
 </cell>
 <cell xid="844" props="bot-attach:14; left-attach:4; right-attach:5; top-attach:13">
-<p style="Normal" xid="845"><c></c></p>
+<p style="Normal" xid="845"><c></c><c></c></p>
 </cell>
 <cell xid="847" props="bot-attach:14; left-attach:5; right-attach:6; top-attach:13">
 <p style="Normal" xid="848">X</p>
 </cell>
 <cell xid="850" props="bot-attach:14; left-attach:6; right-attach:7; top-attach:13">
-<p style="Normal" xid="851"><c></c></p>
+<p style="Normal" xid="851"><c></c><c></c></p>
 </cell>
 <cell xid="853" props="bot-attach:14; left-attach:7; right-attach:8; top-attach:13">
-<p style="Normal" xid="854"><c></c></p>
+<p style="Normal" xid="854"><c></c><c></c></p>
 </cell>
 <cell xid="856" props="bot-attach:14; left-attach:8; right-attach:9; top-attach:13">
-<p style="Normal" xid="857"><c></c></p>
+<p style="Normal" xid="857"><c></c><c></c></p>
 </cell>
 <cell xid="859" props="bot-attach:14; left-attach:9; right-attach:10; top-attach:13">
-<p style="Normal" xid="860"><c></c></p>
+<p style="Normal" xid="860"><c></c><c></c></p>
 </cell>
 <cell xid="862" props="bot-attach:14; left-attach:10; right-attach:11; top-attach:13">
-<p style="Normal" xid="863"><c></c></p>
+<p style="Normal" xid="863"><c></c><c></c></p>
 </cell>
 <cell xid="865" props="bot-attach:14; left-attach:11; right-attach:12; top-attach:13">
-<p style="Normal" xid="866"><c></c></p>
+<p style="Normal" xid="866"><c></c><c></c></p>
 </cell>
 <cell xid="868" props="bot-attach:14; left-attach:12; right-attach:13; top-attach:13">
-<p style="Normal" xid="869"><c></c></p>
+<p style="Normal" xid="869"><c></c><c></c></p>
 </cell>
 <cell xid="871" props="bot-attach:14; left-attach:13; right-attach:14; top-attach:13">
-<p style="Normal" xid="872"><c></c></p>
+<p style="Normal" xid="872"><c></c><c></c></p>
 </cell>
 <cell xid="874" props="bot-attach:14; left-attach:14; right-attach:15; top-attach:13">
-<p style="Normal" xid="875"><c></c></p>
+<p style="Normal" xid="875"><c></c><c></c></p>
 </cell>
 <cell xid="877" props="bot-attach:15; left-attach:0; right-attach:1; top-attach:14">
 <p style="Normal" xid="878">3.5</p>
@@ -884,16 +902,16 @@
 <p style="Normal" xid="881">2</p>
 </cell>
 <cell xid="883" props="bot-attach:15; left-attach:2; right-attach:3; top-attach:14">
-<p style="Normal" xid="884"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Bataille</c></p>
+<p style="Normal" xid="884"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Module Bataille</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="886" props="bot-attach:15; left-attach:3; right-attach:4; top-attach:14">
-<p style="Normal" xid="887"><c></c></p>
+<p style="Normal" xid="887"><c></c><c></c></p>
 </cell>
 <cell xid="889" props="bot-attach:15; left-attach:4; right-attach:5; top-attach:14">
-<p style="Normal" xid="890"><c></c></p>
+<p style="Normal" xid="890"><c></c><c></c></p>
 </cell>
 <cell xid="892" props="bot-attach:15; left-attach:5; right-attach:6; top-attach:14">
-<p style="Normal" xid="893"><c></c></p>
+<p style="Normal" xid="893"><c></c><c></c></p>
 </cell>
 <cell xid="895" props="bot-attach:15; left-attach:6; right-attach:7; top-attach:14">
 <p style="Normal" xid="896">X</p>
@@ -902,25 +920,25 @@
 <p style="Normal" xid="899">X</p>
 </cell>
 <cell xid="901" props="bot-attach:15; left-attach:8; right-attach:9; top-attach:14">
-<p style="Normal" xid="902"><c></c></p>
+<p style="Normal" xid="902"><c></c><c></c></p>
 </cell>
 <cell xid="904" props="bot-attach:15; left-attach:9; right-attach:10; top-attach:14">
-<p style="Normal" xid="905"><c></c></p>
+<p style="Normal" xid="905"><c></c><c></c></p>
 </cell>
 <cell xid="907" props="bot-attach:15; left-attach:10; right-attach:11; top-attach:14">
-<p style="Normal" xid="908"><c></c></p>
+<p style="Normal" xid="908"><c></c><c></c></p>
 </cell>
 <cell xid="910" props="bot-attach:15; left-attach:11; right-attach:12; top-attach:14">
-<p style="Normal" xid="911"><c></c></p>
+<p style="Normal" xid="911"><c></c><c></c></p>
 </cell>
 <cell xid="913" props="bot-attach:15; left-attach:12; right-attach:13; top-attach:14">
-<p style="Normal" xid="914"><c></c></p>
+<p style="Normal" xid="914"><c></c><c></c></p>
 </cell>
 <cell xid="916" props="bot-attach:15; left-attach:13; right-attach:14; top-attach:14">
-<p style="Normal" xid="917"><c></c></p>
+<p style="Normal" xid="917"><c></c><c></c></p>
 </cell>
 <cell xid="919" props="bot-attach:15; left-attach:14; right-attach:15; top-attach:14">
-<p style="Normal" xid="920"><c></c></p>
+<p style="Normal" xid="920"><c></c><c></c></p>
 </cell>
 <cell xid="922" props="bot-attach:16; left-attach:0; right-attach:1; top-attach:15">
 <p style="Normal" xid="923">4</p>
@@ -929,13 +947,13 @@
 <p style="Normal" xid="926">3</p>
 </cell>
 <cell xid="928" props="bot-attach:16; left-attach:2; right-attach:3; top-attach:15">
-<p style="Normal" xid="929"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Programmation de l’interface de texte</c></p>
+<p style="Normal" xid="929"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Programmation de l’interface de texte</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="931" props="bot-attach:16; left-attach:3; right-attach:4; top-attach:15">
-<p style="Normal" xid="932"><c></c></p>
+<p style="Normal" xid="932"><c></c><c></c></p>
 </cell>
 <cell xid="934" props="bot-attach:16; left-attach:4; right-attach:5; top-attach:15">
-<p style="Normal" xid="935"><c></c></p>
+<p style="Normal" xid="935"><c></c><c></c></p>
 </cell>
 <cell xid="937" props="bot-attach:16; left-attach:5; right-attach:6; top-attach:15">
 <p style="Normal" xid="938">X</p>
@@ -947,25 +965,25 @@
 <p style="Normal" xid="944">X</p>
 </cell>
 <cell xid="946" props="bot-attach:16; left-attach:8; right-attach:9; top-attach:15">
-<p style="Normal" xid="947"><c></c></p>
+<p style="Normal" xid="947"><c></c><c></c></p>
 </cell>
 <cell xid="949" props="bot-attach:16; left-attach:9; right-attach:10; top-attach:15">
-<p style="Normal" xid="950"><c></c></p>
+<p style="Normal" xid="950"><c></c><c></c></p>
 </cell>
 <cell xid="952" props="bot-attach:16; left-attach:10; right-attach:11; top-attach:15">
-<p style="Normal" xid="953"><c></c></p>
+<p style="Normal" xid="953"><c></c><c></c></p>
 </cell>
 <cell xid="955" props="bot-attach:16; left-attach:11; right-attach:12; top-attach:15">
-<p style="Normal" xid="956"><c></c></p>
+<p style="Normal" xid="956"><c></c><c></c></p>
 </cell>
 <cell xid="958" props="bot-attach:16; left-attach:12; right-attach:13; top-attach:15">
-<p style="Normal" xid="959"><c></c></p>
+<p style="Normal" xid="959"><c></c><c></c></p>
 </cell>
 <cell xid="961" props="bot-attach:16; left-attach:13; right-attach:14; top-attach:15">
-<p style="Normal" xid="962"><c></c></p>
+<p style="Normal" xid="962"><c></c><c></c></p>
 </cell>
 <cell xid="964" props="bot-attach:16; left-attach:14; right-attach:15; top-attach:15">
-<p style="Normal" xid="965"><c></c></p>
+<p style="Normal" xid="965"><c></c><c></c></p>
 </cell>
 <cell xid="967" props="bot-attach:17; left-attach:0; right-attach:1; top-attach:16">
 <p style="Normal" xid="968">5</p>
@@ -974,43 +992,43 @@
 <p style="Normal" xid="971">1</p>
 </cell>
 <cell xid="973" props="bot-attach:17; left-attach:2; right-attach:3; top-attach:16">
-<p style="Normal" xid="974"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Création de l’interface de jeu</c></p>
+<p style="Normal" xid="974"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Création de l’interface de jeu</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="976" props="bot-attach:17; left-attach:3; right-attach:4; top-attach:16">
-<p style="Normal" xid="977"><c></c></p>
+<p style="Normal" xid="977"><c></c><c></c></p>
 </cell>
 <cell xid="979" props="bot-attach:17; left-attach:4; right-attach:5; top-attach:16">
-<p style="Normal" xid="980"><c></c></p>
+<p style="Normal" xid="980"><c></c><c></c></p>
 </cell>
 <cell xid="982" props="bot-attach:17; left-attach:5; right-attach:6; top-attach:16">
-<p style="Normal" xid="983"><c></c></p>
+<p style="Normal" xid="983"><c></c><c></c></p>
 </cell>
 <cell xid="985" props="bot-attach:17; left-attach:6; right-attach:7; top-attach:16">
-<p style="Normal" xid="986"><c></c></p>
+<p style="Normal" xid="986"><c></c><c></c></p>
 </cell>
 <cell xid="988" props="bot-attach:17; left-attach:7; right-attach:8; top-attach:16">
 <p style="Normal" xid="989">X</p>
 </cell>
 <cell xid="991" props="bot-attach:17; left-attach:8; right-attach:9; top-attach:16">
-<p style="Normal" xid="992"><c></c></p>
+<p style="Normal" xid="992"><c></c><c></c></p>
 </cell>
 <cell xid="994" props="bot-attach:17; left-attach:9; right-attach:10; top-attach:16">
-<p style="Normal" xid="995"><c></c></p>
+<p style="Normal" xid="995"><c></c><c></c></p>
 </cell>
 <cell xid="997" props="bot-attach:17; left-attach:10; right-attach:11; top-attach:16">
-<p style="Normal" xid="998"><c></c></p>
+<p style="Normal" xid="998"><c></c><c></c></p>
 </cell>
 <cell xid="1000" props="bot-attach:17; left-attach:11; right-attach:12; top-attach:16">
-<p style="Normal" xid="1001"><c></c></p>
+<p style="Normal" xid="1001"><c></c><c></c></p>
 </cell>
 <cell xid="1003" props="bot-attach:17; left-attach:12; right-attach:13; top-attach:16">
-<p style="Normal" xid="1004"><c></c></p>
+<p style="Normal" xid="1004"><c></c><c></c></p>
 </cell>
 <cell xid="1006" props="bot-attach:17; left-attach:13; right-attach:14; top-attach:16">
-<p style="Normal" xid="1007"><c></c></p>
+<p style="Normal" xid="1007"><c></c><c></c></p>
 </cell>
 <cell xid="1009" props="bot-attach:17; left-attach:14; right-attach:15; top-attach:16">
-<p style="Normal" xid="1010"><c></c></p>
+<p style="Normal" xid="1010"><c></c><c></c></p>
 </cell>
 <cell xid="1012" props="bot-attach:18; left-attach:0; right-attach:1; top-attach:17">
 <p style="Normal" xid="1013">6</p>
@@ -1019,13 +1037,13 @@
 <p style="Normal" xid="1016">3</p>
 </cell>
 <cell xid="1018" props="bot-attach:18; left-attach:2; right-attach:3; top-attach:17">
-<p style="Normal" xid="1019"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Test du jeu (texte)</c></p>
+<p style="Normal" xid="1019"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Test du jeu (texte)</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="1021" props="bot-attach:18; left-attach:3; right-attach:4; top-attach:17">
-<p style="Normal" xid="1022"><c></c></p>
+<p style="Normal" xid="1022"><c></c><c></c></p>
 </cell>
 <cell xid="1024" props="bot-attach:18; left-attach:4; right-attach:5; top-attach:17">
-<p style="Normal" xid="1025"><c></c></p>
+<p style="Normal" xid="1025"><c></c><c></c></p>
 </cell>
 <cell xid="1027" props="bot-attach:18; left-attach:5; right-attach:6; top-attach:17">
 <p style="Normal" xid="1028">X</p>
@@ -1037,25 +1055,25 @@
 <p style="Normal" xid="1034">X</p>
 </cell>
 <cell xid="1036" props="bot-attach:18; left-attach:8; right-attach:9; top-attach:17">
-<p style="Normal" xid="1037"><c></c></p>
+<p style="Normal" xid="1037"><c></c><c></c></p>
 </cell>
 <cell xid="1039" props="bot-attach:18; left-attach:9; right-attach:10; top-attach:17">
-<p style="Normal" xid="1040"><c></c></p>
+<p style="Normal" xid="1040"><c></c><c></c></p>
 </cell>
 <cell xid="1042" props="bot-attach:18; left-attach:10; right-attach:11; top-attach:17">
-<p style="Normal" xid="1043"><c></c></p>
+<p style="Normal" xid="1043"><c></c><c></c></p>
 </cell>
 <cell xid="1045" props="bot-attach:18; left-attach:11; right-attach:12; top-attach:17">
-<p style="Normal" xid="1046"><c></c></p>
+<p style="Normal" xid="1046"><c></c><c></c></p>
 </cell>
 <cell xid="1048" props="bot-attach:18; left-attach:12; right-attach:13; top-attach:17">
-<p style="Normal" xid="1049"><c></c></p>
+<p style="Normal" xid="1049"><c></c><c></c></p>
 </cell>
 <cell xid="1051" props="bot-attach:18; left-attach:13; right-attach:14; top-attach:17">
-<p style="Normal" xid="1052"><c></c></p>
+<p style="Normal" xid="1052"><c></c><c></c></p>
 </cell>
 <cell xid="1054" props="bot-attach:18; left-attach:14; right-attach:15; top-attach:17">
-<p style="Normal" xid="1055"><c></c></p>
+<p style="Normal" xid="1055"><c></c><c></c></p>
 </cell>
 <cell xid="1057" props="bot-attach:19; left-attach:0; right-attach:1; top-attach:18">
 <p style="Normal" xid="1058">7</p>
@@ -1064,31 +1082,31 @@
 <p style="Normal" xid="1061">2</p>
 </cell>
 <cell xid="1063" props="bot-attach:19; left-attach:2; right-attach:3; top-attach:18">
-<p style="Normal" xid="1064"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Développement l’IA</c></p>
+<p style="Normal" xid="1064"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Développement l’IA</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="1066" props="bot-attach:19; left-attach:3; right-attach:4; top-attach:18">
-<p style="Normal" xid="1067"><c></c></p>
+<p style="Normal" xid="1067"><c></c><c></c></p>
 </cell>
 <cell xid="1069" props="bot-attach:19; left-attach:4; right-attach:5; top-attach:18">
-<p style="Normal" xid="1070"><c></c></p>
+<p style="Normal" xid="1070"><c></c><c></c></p>
 </cell>
 <cell xid="1072" props="bot-attach:19; left-attach:5; right-attach:6; top-attach:18">
-<p style="Normal" xid="1073"><c></c></p>
+<p style="Normal" xid="1073"><c></c><c></c></p>
 </cell>
 <cell xid="1075" props="bot-attach:19; left-attach:6; right-attach:7; top-attach:18">
-<p style="Normal" xid="1076"><c></c></p>
+<p style="Normal" xid="1076"><c></c><c></c></p>
 </cell>
 <cell xid="1078" props="bot-attach:19; left-attach:7; right-attach:8; top-attach:18">
-<p style="Normal" xid="1079"><c></c></p>
+<p style="Normal" xid="1079"><c></c><c></c></p>
 </cell>
 <cell xid="1081" props="bot-attach:19; left-attach:8; right-attach:9; top-attach:18">
-<p style="Normal" xid="1082"><c></c></p>
+<p style="Normal" xid="1082"><c></c><c></c></p>
 </cell>
 <cell xid="1084" props="bot-attach:19; left-attach:9; right-attach:10; top-attach:18">
-<p style="Normal" xid="1085"><c></c></p>
+<p style="Normal" xid="1085"><c></c><c></c></p>
 </cell>
 <cell xid="1087" props="bot-attach:19; left-attach:10; right-attach:11; top-attach:18">
-<p style="Normal" xid="1088"><c></c></p>
+<p style="Normal" xid="1088"><c></c><c></c></p>
 </cell>
 <cell xid="1090" props="bot-attach:19; left-attach:11; right-attach:12; top-attach:18">
 <p style="Normal" xid="1091">X</p>
@@ -1097,10 +1115,10 @@
 <p style="Normal" xid="1094">X</p>
 </cell>
 <cell xid="1096" props="bot-attach:19; left-attach:13; right-attach:14; top-attach:18">
-<p style="Normal" xid="1097"></p>
+<p style="Normal" xid="1097"><c></c></p>
 </cell>
 <cell xid="1099" props="bot-attach:19; left-attach:14; right-attach:15; top-attach:18">
-<p style="Normal" xid="1100"><c></c></p>
+<p style="Normal" xid="1100"><c></c><c></c></p>
 </cell>
 <cell xid="1102" props="bot-attach:20; left-attach:0; right-attach:1; top-attach:19">
 <p style="Normal" xid="1103">8</p>
@@ -1109,43 +1127,43 @@
 <p style="Normal" xid="1106">1</p>
 </cell>
 <cell xid="1108" props="bot-attach:20; left-attach:2; right-attach:3; top-attach:19">
-<p style="Normal" xid="1109"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Constitution base de données images/musiques/sons</c></p>
+<p style="Normal" xid="1109"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Constitution base de données images/musiques/sons</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="1111" props="bot-attach:20; left-attach:3; right-attach:4; top-attach:19">
-<p style="Normal" xid="1112"><c></c></p>
+<p style="Normal" xid="1112"><c></c><c></c></p>
 </cell>
 <cell xid="1114" props="bot-attach:20; left-attach:4; right-attach:5; top-attach:19">
-<p style="Normal" xid="1115"><c></c></p>
+<p style="Normal" xid="1115"><c></c><c></c></p>
 </cell>
 <cell xid="1117" props="bot-attach:20; left-attach:5; right-attach:6; top-attach:19">
-<p style="Normal" xid="1118"><c></c></p>
+<p style="Normal" xid="1118"><c></c><c></c></p>
 </cell>
 <cell xid="1120" props="bot-attach:20; left-attach:6; right-attach:7; top-attach:19">
-<p style="Normal" xid="1121"><c></c></p>
+<p style="Normal" xid="1121"><c></c><c></c></p>
 </cell>
 <cell xid="1123" props="bot-attach:20; left-attach:7; right-attach:8; top-attach:19">
-<p style="Normal" xid="1124"><c></c></p>
+<p style="Normal" xid="1124"><c></c><c></c></p>
 </cell>
 <cell xid="1126" props="bot-attach:20; left-attach:8; right-attach:9; top-attach:19">
-<p style="Normal" xid="1127"><c></c></p>
+<p style="Normal" xid="1127"><c></c><c></c></p>
 </cell>
 <cell xid="1129" props="bot-attach:20; left-attach:9; right-attach:10; top-attach:19">
-<p style="Normal" xid="1130"><c></c></p>
+<p style="Normal" xid="1130"><c></c><c></c></p>
 </cell>
 <cell xid="1132" props="bot-attach:20; left-attach:10; right-attach:11; top-attach:19">
-<p style="Normal" xid="1133"><c></c></p>
+<p style="Normal" xid="1133"><c></c><c></c></p>
 </cell>
 <cell xid="1135" props="bot-attach:20; left-attach:11; right-attach:12; top-attach:19">
-<p style="Normal" xid="1136"><c></c></p>
+<p style="Normal" xid="1136"><c></c><c></c></p>
 </cell>
 <cell xid="1138" props="bot-attach:20; left-attach:12; right-attach:13; top-attach:19">
 <p style="Normal" xid="1139">X</p>
 </cell>
 <cell xid="1141" props="bot-attach:20; left-attach:13; right-attach:14; top-attach:19">
-<p style="Normal" xid="1142"><c></c></p>
+<p style="Normal" xid="1142"><c></c><c></c></p>
 </cell>
 <cell xid="1144" props="bot-attach:20; left-attach:14; right-attach:15; top-attach:19">
-<p style="Normal" xid="1145"><c></c></p>
+<p style="Normal" xid="1145"><c></c><c></c></p>
 </cell>
 <cell xid="1147" props="bot-attach:21; left-attach:0; right-attach:1; top-attach:20">
 <p style="Normal" xid="1148">9</p>
@@ -1154,22 +1172,22 @@
 <p style="Normal" xid="1151">6</p>
 </cell>
 <cell xid="1153" props="bot-attach:21; left-attach:2; right-attach:3; top-attach:20">
-<p style="Normal" xid="1154"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Programmation de l’interface graphique SDL</c></p>
+<p style="Normal" xid="1154"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Programmation de l’interface graphique SDL</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="1156" props="bot-attach:21; left-attach:3; right-attach:4; top-attach:20">
-<p style="Normal" xid="1157"><c></c></p>
+<p style="Normal" xid="1157"><c></c><c></c></p>
 </cell>
 <cell xid="1159" props="bot-attach:21; left-attach:4; right-attach:5; top-attach:20">
-<p style="Normal" xid="1160"><c></c></p>
+<p style="Normal" xid="1160"><c></c><c></c></p>
 </cell>
 <cell xid="1162" props="bot-attach:21; left-attach:5; right-attach:6; top-attach:20">
-<p style="Normal" xid="1163"><c></c></p>
+<p style="Normal" xid="1163"><c></c><c></c></p>
 </cell>
 <cell xid="1165" props="bot-attach:21; left-attach:6; right-attach:7; top-attach:20">
-<p style="Normal" xid="1166"><c></c></p>
+<p style="Normal" xid="1166"><c></c><c></c></p>
 </cell>
 <cell xid="1168" props="bot-attach:21; left-attach:7; right-attach:8; top-attach:20">
-<p style="Normal" xid="1169"><c></c></p>
+<p style="Normal" xid="1169"><c></c><c></c></p>
 </cell>
 <cell xid="1171" props="bot-attach:21; left-attach:8; right-attach:9; top-attach:20">
 <p style="Normal" xid="1172">X</p>
@@ -1190,7 +1208,7 @@
 <p style="Normal" xid="1187">X</p>
 </cell>
 <cell xid="1189" props="bot-attach:21; left-attach:14; right-attach:15; top-attach:20">
-<p style="Normal" xid="1190"><c></c></p>
+<p style="Normal" xid="1190"><c></c><c></c></p>
 </cell>
 <cell xid="1192" props="bot-attach:22; left-attach:0; right-attach:1; top-attach:21">
 <p style="Normal" xid="1193">10</p>
@@ -1199,22 +1217,22 @@
 <p style="Normal" xid="1196">7</p>
 </cell>
 <cell xid="1198" props="bot-attach:22; left-attach:2; right-attach:3; top-attach:21">
-<p style="Normal" xid="1199"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Test du jeu (graphique)</c></p>
+<p style="Normal" xid="1199"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Test du jeu (graphique)</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="1201" props="bot-attach:22; left-attach:3; right-attach:4; top-attach:21">
-<p style="Normal" xid="1202"><c></c></p>
+<p style="Normal" xid="1202"><c></c><c></c></p>
 </cell>
 <cell xid="1204" props="bot-attach:22; left-attach:4; right-attach:5; top-attach:21">
-<p style="Normal" xid="1205"><c></c></p>
+<p style="Normal" xid="1205"><c></c><c></c></p>
 </cell>
 <cell xid="1207" props="bot-attach:22; left-attach:5; right-attach:6; top-attach:21">
-<p style="Normal" xid="1208"><c></c></p>
+<p style="Normal" xid="1208"><c></c><c></c></p>
 </cell>
 <cell xid="1210" props="bot-attach:22; left-attach:6; right-attach:7; top-attach:21">
-<p style="Normal" xid="1211"><c></c></p>
+<p style="Normal" xid="1211"><c></c><c></c></p>
 </cell>
 <cell xid="1213" props="bot-attach:22; left-attach:7; right-attach:8; top-attach:21">
-<p style="Normal" xid="1214"><c></c></p>
+<p style="Normal" xid="1214"><c></c><c></c></p>
 </cell>
 <cell xid="1216" props="bot-attach:22; left-attach:8; right-attach:9; top-attach:21">
 <p style="Normal" xid="1217">X</p>
@@ -1244,358 +1262,358 @@
 <p style="Normal" xid="1241">1</p>
 </cell>
 <cell xid="1243" props="bot-attach:23; left-attach:2; right-attach:3; top-attach:22">
-<p style="Normal" xid="1244"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Préparation soutenance</c></p>
+<p style="Normal" xid="1244"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">Préparation soutenance</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR"></c></p>
 </cell>
 <cell xid="1246" props="bot-attach:23; left-attach:3; right-attach:4; top-attach:22">
-<p style="Normal" xid="1247"><c></c></p>
+<p style="Normal" xid="1247"><c></c><c></c></p>
 </cell>
 <cell xid="1249" props="bot-attach:23; left-attach:4; right-attach:5; top-attach:22">
-<p style="Normal" xid="1250"><c></c></p>
+<p style="Normal" xid="1250"><c></c><c></c></p>
 </cell>
 <cell xid="1252" props="bot-attach:23; left-attach:5; right-attach:6; top-attach:22">
-<p style="Normal" xid="1253"><c></c></p>
+<p style="Normal" xid="1253"><c></c><c></c></p>
 </cell>
 <cell xid="1255" props="bot-attach:23; left-attach:6; right-attach:7; top-attach:22">
-<p style="Normal" xid="1256"><c></c></p>
+<p style="Normal" xid="1256"><c></c><c></c></p>
 </cell>
 <cell xid="1258" props="bot-attach:23; left-attach:7; right-attach:8; top-attach:22">
-<p style="Normal" xid="1259"><c></c></p>
+<p style="Normal" xid="1259"><c></c><c></c></p>
 </cell>
 <cell xid="1261" props="bot-attach:23; left-attach:8; right-attach:9; top-attach:22">
-<p style="Normal" xid="1262"></p>
+<p style="Normal" xid="1262"><c></c></p>
 </cell>
 <cell xid="1264" props="bot-attach:23; left-attach:9; right-attach:10; top-attach:22">
-<p style="Normal" xid="1265"></p>
+<p style="Normal" xid="1265"><c></c></p>
 </cell>
 <cell xid="1267" props="bot-attach:23; left-attach:10; right-attach:11; top-attach:22">
-<p style="Normal" xid="1268"></p>
+<p style="Normal" xid="1268"><c></c></p>
 </cell>
 <cell xid="1270" props="bot-attach:23; left-attach:11; right-attach:12; top-attach:22">
-<p style="Normal" xid="1271"></p>
+<p style="Normal" xid="1271"><c></c></p>
 </cell>
 <cell xid="1273" props="bot-attach:23; left-attach:12; right-attach:13; top-attach:22">
-<p style="Normal" xid="1274"></p>
+<p style="Normal" xid="1274"><c></c></p>
 </cell>
 <cell xid="1276" props="bot-attach:23; left-attach:13; right-attach:14; top-attach:22">
-<p style="Normal" xid="1277"></p>
+<p style="Normal" xid="1277"><c></c></p>
 </cell>
 <cell xid="1279" props="bot-attach:23; left-attach:14; right-attach:15; top-attach:22">
 <p style="Normal" xid="1280">X</p>
 </cell>
 <cell xid="1282" props="bot-attach:24; left-attach:0; right-attach:1; top-attach:23">
-<p style="Normal" xid="1283"><c></c></p>
+<p style="Normal" xid="1283"><c></c><c></c></p>
 </cell>
 <cell xid="1285" props="bot-attach:24; left-attach:1; right-attach:2; top-attach:23">
-<p style="Normal" xid="1286"><c></c></p>
+<p style="Normal" xid="1286"><c></c><c></c></p>
 </cell>
 <cell xid="1288" props="bot-attach:24; left-attach:2; right-attach:3; top-attach:23">
-<p style="Normal" xid="1289"><c></c></p>
+<p style="Normal" xid="1289"><c></c><c></c></p>
 </cell>
 <cell xid="1291" props="bot-attach:24; left-attach:3; right-attach:4; top-attach:23">
-<p style="Normal" xid="1292"><c></c></p>
+<p style="Normal" xid="1292"><c></c><c></c></p>
 </cell>
 <cell xid="1294" props="bot-attach:24; left-attach:4; right-attach:5; top-attach:23">
-<p style="Normal" xid="1295"><c></c></p>
+<p style="Normal" xid="1295"><c></c><c></c></p>
 </cell>
 <cell xid="1297" props="bot-attach:24; left-attach:5; right-attach:6; top-attach:23">
-<p style="Normal" xid="1298"><c></c></p>
+<p style="Normal" xid="1298"><c></c><c></c></p>
 </cell>
 <cell xid="1300" props="bot-attach:24; left-attach:6; right-attach:7; top-attach:23">
-<p style="Normal" xid="1301"><c></c></p>
+<p style="Normal" xid="1301"><c></c><c></c></p>
 </cell>
 <cell xid="1303" props="bot-attach:24; left-attach:7; right-attach:8; top-attach:23">
-<p style="Normal" xid="1304"><c></c></p>
+<p style="Normal" xid="1304"><c></c><c></c></p>
 </cell>
 <cell xid="1306" props="bot-attach:24; left-attach:8; right-attach:9; top-attach:23">
-<p style="Normal" xid="1307"><c></c></p>
+<p style="Normal" xid="1307"><c></c><c></c></p>
 </cell>
 <cell xid="1309" props="bot-attach:24; left-attach:9; right-attach:10; top-attach:23">
-<p style="Normal" xid="1310"><c></c></p>
+<p style="Normal" xid="1310"><c></c><c></c></p>
 </cell>
 <cell xid="1312" props="bot-attach:24; left-attach:10; right-attach:11; top-attach:23">
-<p style="Normal" xid="1313"><c></c></p>
+<p style="Normal" xid="1313"><c></c><c></c></p>
 </cell>
 <cell xid="1315" props="bot-attach:24; left-attach:11; right-attach:12; top-attach:23">
-<p style="Normal" xid="1316"><c></c></p>
+<p style="Normal" xid="1316"><c></c><c></c></p>
 </cell>
 <cell xid="1318" props="bot-attach:24; left-attach:12; right-attach:13; top-attach:23">
-<p style="Normal" xid="1319"><c></c></p>
+<p style="Normal" xid="1319"><c></c><c></c></p>
 </cell>
 <cell xid="1321" props="bot-attach:24; left-attach:13; right-attach:14; top-attach:23">
-<p style="Normal" xid="1322"><c></c></p>
+<p style="Normal" xid="1322"><c></c><c></c></p>
 </cell>
 <cell xid="1324" props="bot-attach:24; left-attach:14; right-attach:15; top-attach:23">
-<p style="Normal" xid="1325"><c></c></p>
+<p style="Normal" xid="1325"><c></c><c></c></p>
 </cell>
 <cell xid="1327" props="bot-attach:25; left-attach:0; right-attach:1; top-attach:24">
-<p style="Normal" xid="1328"><c></c></p>
+<p style="Normal" xid="1328"><c></c><c></c></p>
 </cell>
 <cell xid="1330" props="bot-attach:25; left-attach:1; right-attach:2; top-attach:24">
-<p style="Normal" xid="1331"><c></c></p>
+<p style="Normal" xid="1331"><c></c><c></c></p>
 </cell>
 <cell xid="1333" props="bot-attach:25; left-attach:2; right-attach:3; top-attach:24">
-<p style="Normal" xid="1334"><c></c></p>
+<p style="Normal" xid="1334"><c></c><c></c></p>
 </cell>
 <cell xid="1336" props="bot-attach:25; left-attach:3; right-attach:4; top-attach:24">
-<p style="Normal" xid="1337"><c></c></p>
+<p style="Normal" xid="1337"><c></c><c></c></p>
 </cell>
 <cell xid="1339" props="bot-attach:25; left-attach:4; right-attach:5; top-attach:24">
-<p style="Normal" xid="1340"><c></c></p>
+<p style="Normal" xid="1340"><c></c><c></c></p>
 </cell>
 <cell xid="1342" props="bot-attach:25; left-attach:5; right-attach:6; top-attach:24">
-<p style="Normal" xid="1343"><c></c></p>
+<p style="Normal" xid="1343"><c></c><c></c></p>
 </cell>
 <cell xid="1345" props="bot-attach:25; left-attach:6; right-attach:7; top-attach:24">
-<p style="Normal" xid="1346"><c></c></p>
+<p style="Normal" xid="1346"><c></c><c></c></p>
 </cell>
 <cell xid="1348" props="bot-attach:25; left-attach:7; right-attach:8; top-attach:24">
-<p style="Normal" xid="1349"><c></c></p>
+<p style="Normal" xid="1349"><c></c><c></c></p>
 </cell>
 <cell xid="1351" props="bot-attach:25; left-attach:8; right-attach:9; top-attach:24">
-<p style="Normal" xid="1352"><c></c></p>
+<p style="Normal" xid="1352"><c></c><c></c></p>
 </cell>
 <cell xid="1354" props="bot-attach:25; left-attach:9; right-attach:10; top-attach:24">
-<p style="Normal" xid="1355"><c></c></p>
+<p style="Normal" xid="1355"><c></c><c></c></p>
 </cell>
 <cell xid="1357" props="bot-attach:25; left-attach:10; right-attach:11; top-attach:24">
-<p style="Normal" xid="1358"><c></c></p>
+<p style="Normal" xid="1358"><c></c><c></c></p>
 </cell>
 <cell xid="1360" props="bot-attach:25; left-attach:11; right-attach:12; top-attach:24">
-<p style="Normal" xid="1361"><c></c></p>
+<p style="Normal" xid="1361"><c></c><c></c></p>
 </cell>
 <cell xid="1363" props="bot-attach:25; left-attach:12; right-attach:13; top-attach:24">
-<p style="Normal" xid="1364"><c></c></p>
+<p style="Normal" xid="1364"><c></c><c></c></p>
 </cell>
 <cell xid="1366" props="bot-attach:25; left-attach:13; right-attach:14; top-attach:24">
-<p style="Normal" xid="1367"><c></c></p>
+<p style="Normal" xid="1367"><c></c><c></c></p>
 </cell>
 <cell xid="1369" props="bot-attach:25; left-attach:14; right-attach:15; top-attach:24">
-<p style="Normal" xid="1370"><c></c></p>
+<p style="Normal" xid="1370"><c></c><c></c></p>
 </cell>
 <cell xid="1372" props="bot-attach:26; left-attach:0; right-attach:1; top-attach:25">
-<p style="Normal" xid="1373"><c></c></p>
+<p style="Normal" xid="1373"><c></c><c></c></p>
 </cell>
 <cell xid="1375" props="bot-attach:26; left-attach:1; right-attach:2; top-attach:25">
-<p style="Normal" xid="1376"><c></c></p>
+<p style="Normal" xid="1376"><c></c><c></c></p>
 </cell>
 <cell xid="1378" props="bot-attach:26; left-attach:2; right-attach:3; top-attach:25">
-<p style="Normal" xid="1379"><c></c></p>
+<p style="Normal" xid="1379"><c></c><c></c></p>
 </cell>
 <cell xid="1381" props="bot-attach:26; left-attach:3; right-attach:4; top-attach:25">
-<p style="Normal" xid="1382"><c></c></p>
+<p style="Normal" xid="1382"><c></c><c></c></p>
 </cell>
 <cell xid="1384" props="bot-attach:26; left-attach:4; right-attach:5; top-attach:25">
-<p style="Normal" xid="1385"><c></c></p>
+<p style="Normal" xid="1385"><c></c><c></c></p>
 </cell>
 <cell xid="1387" props="bot-attach:26; left-attach:5; right-attach:6; top-attach:25">
-<p style="Normal" xid="1388"><c></c></p>
+<p style="Normal" xid="1388"><c></c><c></c></p>
 </cell>
 <cell xid="1390" props="bot-attach:26; left-attach:6; right-attach:7; top-attach:25">
-<p style="Normal" xid="1391"><c></c></p>
+<p style="Normal" xid="1391"><c></c><c></c></p>
 </cell>
 <cell xid="1393" props="bot-attach:26; left-attach:7; right-attach:8; top-attach:25">
-<p style="Normal" xid="1394"><c></c></p>
+<p style="Normal" xid="1394"><c></c><c></c></p>
 </cell>
 <cell xid="1396" props="bot-attach:26; left-attach:8; right-attach:9; top-attach:25">
-<p style="Normal" xid="1397"><c></c></p>
+<p style="Normal" xid="1397"><c></c><c></c></p>
 </cell>
 <cell xid="1399" props="bot-attach:26; left-attach:9; right-attach:10; top-attach:25">
-<p style="Normal" xid="1400"><c></c></p>
+<p style="Normal" xid="1400"><c></c><c></c></p>
 </cell>
 <cell xid="1402" props="bot-attach:26; left-attach:10; right-attach:11; top-attach:25">
-<p style="Normal" xid="1403"><c></c></p>
+<p style="Normal" xid="1403"><c></c><c></c></p>
 </cell>
 <cell xid="1405" props="bot-attach:26; left-attach:11; right-attach:12; top-attach:25">
-<p style="Normal" xid="1406"><c></c></p>
+<p style="Normal" xid="1406"><c></c><c></c></p>
 </cell>
 <cell xid="1408" props="bot-attach:26; left-attach:12; right-attach:13; top-attach:25">
-<p style="Normal" xid="1409"><c></c></p>
+<p style="Normal" xid="1409"><c></c><c></c></p>
 </cell>
 <cell xid="1411" props="bot-attach:26; left-attach:13; right-attach:14; top-attach:25">
-<p style="Normal" xid="1412"><c></c></p>
+<p style="Normal" xid="1412"><c></c><c></c></p>
 </cell>
 <cell xid="1414" props="bot-attach:26; left-attach:14; right-attach:15; top-attach:25">
-<p style="Normal" xid="1415"><c></c></p>
+<p style="Normal" xid="1415"><c></c><c></c></p>
 </cell>
 <cell xid="1417" props="bot-attach:27; left-attach:0; right-attach:1; top-attach:26">
-<p style="Normal" xid="1418"><c></c></p>
+<p style="Normal" xid="1418"><c></c><c></c></p>
 </cell>
 <cell xid="1420" props="bot-attach:27; left-attach:1; right-attach:2; top-attach:26">
-<p style="Normal" xid="1421"><c></c></p>
+<p style="Normal" xid="1421"><c></c><c></c></p>
 </cell>
 <cell xid="1423" props="bot-attach:27; left-attach:2; right-attach:3; top-attach:26">
-<p style="Normal" xid="1424"><c></c></p>
+<p style="Normal" xid="1424"><c></c><c></c></p>
 </cell>
 <cell xid="1426" props="bot-attach:27; left-attach:3; right-attach:4; top-attach:26">
-<p style="Normal" xid="1427"><c></c></p>
+<p style="Normal" xid="1427"><c></c><c></c></p>
 </cell>
 <cell xid="1429" props="bot-attach:27; left-attach:4; right-attach:5; top-attach:26">
-<p style="Normal" xid="1430"><c></c></p>
+<p style="Normal" xid="1430"><c></c><c></c></p>
 </cell>
 <cell xid="1432" props="bot-attach:27; left-attach:5; right-attach:6; top-attach:26">
-<p style="Normal" xid="1433"><c></c></p>
+<p style="Normal" xid="1433"><c></c><c></c></p>
 </cell>
 <cell xid="1435" props="bot-attach:27; left-attach:6; right-attach:7; top-attach:26">
-<p style="Normal" xid="1436"><c></c></p>
+<p style="Normal" xid="1436"><c></c><c></c></p>
 </cell>
 <cell xid="1438" props="bot-attach:27; left-attach:7; right-attach:8; top-attach:26">
-<p style="Normal" xid="1439"><c></c></p>
+<p style="Normal" xid="1439"><c></c><c></c></p>
 </cell>
 <cell xid="1441" props="bot-attach:27; left-attach:8; right-attach:9; top-attach:26">
-<p style="Normal" xid="1442"><c></c></p>
+<p style="Normal" xid="1442"><c></c><c></c></p>
 </cell>
 <cell xid="1444" props="bot-attach:27; left-attach:9; right-attach:10; top-attach:26">
-<p style="Normal" xid="1445"><c></c></p>
+<p style="Normal" xid="1445"><c></c><c></c></p>
 </cell>
 <cell xid="1447" props="bot-attach:27; left-attach:10; right-attach:11; top-attach:26">
-<p style="Normal" xid="1448"><c></c></p>
+<p style="Normal" xid="1448"><c></c><c></c></p>
 </cell>
 <cell xid="1450" props="bot-attach:27; left-attach:11; right-attach:12; top-attach:26">
-<p style="Normal" xid="1451"><c></c></p>
+<p style="Normal" xid="1451"><c></c><c></c></p>
 </cell>
 <cell xid="1453" props="bot-attach:27; left-attach:12; right-attach:13; top-attach:26">
-<p style="Normal" xid="1454"><c></c></p>
+<p style="Normal" xid="1454"><c></c><c></c></p>
 </cell>
 <cell xid="1456" props="bot-attach:27; left-attach:13; right-attach:14; top-attach:26">
-<p style="Normal" xid="1457"><c></c></p>
+<p style="Normal" xid="1457"><c></c><c></c></p>
 </cell>
 <cell xid="1459" props="bot-attach:27; left-attach:14; right-attach:15; top-attach:26">
-<p style="Normal" xid="1460"><c></c></p>
+<p style="Normal" xid="1460"><c></c><c></c></p>
 </cell>
 <cell xid="1462" props="bot-attach:28; left-attach:0; right-attach:1; top-attach:27">
-<p style="Normal" xid="1463"><c></c></p>
+<p style="Normal" xid="1463"><c></c><c></c></p>
 </cell>
 <cell xid="1465" props="bot-attach:28; left-attach:1; right-attach:2; top-attach:27">
-<p style="Normal" xid="1466"><c></c></p>
+<p style="Normal" xid="1466"><c></c><c></c></p>
 </cell>
 <cell xid="1468" props="bot-attach:28; left-attach:2; right-attach:3; top-attach:27">
-<p style="Normal" xid="1469"><c></c></p>
+<p style="Normal" xid="1469"><c></c><c></c></p>
 </cell>
 <cell xid="1471" props="bot-attach:28; left-attach:3; right-attach:4; top-attach:27">
-<p style="Normal" xid="1472"><c></c></p>
+<p style="Normal" xid="1472"><c></c><c></c></p>
 </cell>
 <cell xid="1474" props="bot-attach:28; left-attach:4; right-attach:5; top-attach:27">
-<p style="Normal" xid="1475"><c></c></p>
+<p style="Normal" xid="1475"><c></c><c></c></p>
 </cell>
 <cell xid="1477" props="bot-attach:28; left-attach:5; right-attach:6; top-attach:27">
-<p style="Normal" xid="1478"><c></c></p>
+<p style="Normal" xid="1478"><c></c><c></c></p>
 </cell>
 <cell xid="1480" props="bot-attach:28; left-attach:6; right-attach:7; top-attach:27">
-<p style="Normal" xid="1481"><c></c></p>
+<p style="Normal" xid="1481"><c></c><c></c></p>
 </cell>
 <cell xid="1483" props="bot-attach:28; left-attach:7; right-attach:8; top-attach:27">
-<p style="Normal" xid="1484"><c></c></p>
+<p style="Normal" xid="1484"><c></c><c></c></p>
 </cell>
 <cell xid="1486" props="bot-attach:28; left-attach:8; right-attach:9; top-attach:27">
-<p style="Normal" xid="1487"><c></c></p>
+<p style="Normal" xid="1487"><c></c><c></c></p>
 </cell>
 <cell xid="1489" props="bot-attach:28; left-attach:9; right-attach:10; top-attach:27">
-<p style="Normal" xid="1490"><c></c></p>
+<p style="Normal" xid="1490"><c></c><c></c></p>
 </cell>
 <cell xid="1492" props="bot-attach:28; left-attach:10; right-attach:11; top-attach:27">
-<p style="Normal" xid="1493"><c></c></p>
+<p style="Normal" xid="1493"><c></c><c></c></p>
 </cell>
 <cell xid="1495" props="bot-attach:28; left-attach:11; right-attach:12; top-attach:27">
-<p style="Normal" xid="1496"><c></c></p>
+<p style="Normal" xid="1496"><c></c><c></c></p>
 </cell>
 <cell xid="1498" props="bot-attach:28; left-attach:12; right-attach:13; top-attach:27">
-<p style="Normal" xid="1499"><c></c></p>
+<p style="Normal" xid="1499"><c></c><c></c></p>
 </cell>
 <cell xid="1501" props="bot-attach:28; left-attach:13; right-attach:14; top-attach:27">
-<p style="Normal" xid="1502"><c></c></p>
+<p style="Normal" xid="1502"><c></c><c></c></p>
 </cell>
 <cell xid="1504" props="bot-attach:28; left-attach:14; right-attach:15; top-attach:27">
-<p style="Normal" xid="1505"><c></c></p>
+<p style="Normal" xid="1505"><c></c><c></c></p>
 </cell>
 <cell xid="1507" props="bot-attach:29; left-attach:0; right-attach:1; top-attach:28">
-<p style="Normal" xid="1508"><c></c></p>
+<p style="Normal" xid="1508"><c></c><c></c></p>
 </cell>
 <cell xid="1510" props="bot-attach:29; left-attach:1; right-attach:2; top-attach:28">
-<p style="Normal" xid="1511"><c></c></p>
+<p style="Normal" xid="1511"><c></c><c></c></p>
 </cell>
 <cell xid="1513" props="bot-attach:29; left-attach:2; right-attach:3; top-attach:28">
-<p style="Normal" xid="1514"><c></c></p>
+<p style="Normal" xid="1514"><c></c><c></c></p>
 </cell>
 <cell xid="1516" props="bot-attach:29; left-attach:3; right-attach:4; top-attach:28">
-<p style="Normal" xid="1517"><c></c></p>
+<p style="Normal" xid="1517"><c></c><c></c></p>
 </cell>
 <cell xid="1519" props="bot-attach:29; left-attach:4; right-attach:5; top-attach:28">
-<p style="Normal" xid="1520"><c></c></p>
+<p style="Normal" xid="1520"><c></c><c></c></p>
 </cell>
 <cell xid="1522" props="bot-attach:29; left-attach:5; right-attach:6; top-attach:28">
-<p style="Normal" xid="1523"><c></c></p>
+<p style="Normal" xid="1523"><c></c><c></c></p>
 </cell>
 <cell xid="1525" props="bot-attach:29; left-attach:6; right-attach:7; top-attach:28">
-<p style="Normal" xid="1526"><c></c></p>
+<p style="Normal" xid="1526"><c></c><c></c></p>
 </cell>
 <cell xid="1528" props="bot-attach:29; left-attach:7; right-attach:8; top-attach:28">
-<p style="Normal" xid="1529"><c></c></p>
+<p style="Normal" xid="1529"><c></c><c></c></p>
 </cell>
 <cell xid="1531" props="bot-attach:29; left-attach:8; right-attach:9; top-attach:28">
-<p style="Normal" xid="1532"><c></c></p>
+<p style="Normal" xid="1532"><c></c><c></c></p>
 </cell>
 <cell xid="1534" props="bot-attach:29; left-attach:9; right-attach:10; top-attach:28">
-<p style="Normal" xid="1535"><c></c></p>
+<p style="Normal" xid="1535"><c></c><c></c></p>
 </cell>
 <cell xid="1537" props="bot-attach:29; left-attach:10; right-attach:11; top-attach:28">
-<p style="Normal" xid="1538"><c></c></p>
+<p style="Normal" xid="1538"><c></c><c></c></p>
 </cell>
 <cell xid="1540" props="bot-attach:29; left-attach:11; right-attach:12; top-attach:28">
-<p style="Normal" xid="1541"><c></c></p>
+<p style="Normal" xid="1541"><c></c><c></c></p>
 </cell>
 <cell xid="1543" props="bot-attach:29; left-attach:12; right-attach:13; top-attach:28">
-<p style="Normal" xid="1544"><c></c></p>
+<p style="Normal" xid="1544"><c></c><c></c></p>
 </cell>
 <cell xid="1546" props="bot-attach:29; left-attach:13; right-attach:14; top-attach:28">
-<p style="Normal" xid="1547"><c></c></p>
+<p style="Normal" xid="1547"><c></c><c></c></p>
 </cell>
 <cell xid="1549" props="bot-attach:29; left-attach:14; right-attach:15; top-attach:28">
-<p style="Normal" xid="1550"><c></c></p>
+<p style="Normal" xid="1550"><c></c><c></c></p>
 </cell>
 <cell xid="1552" props="bot-attach:30; left-attach:0; right-attach:1; top-attach:29">
-<p style="Normal" xid="1553"><c></c></p>
+<p style="Normal" xid="1553"><c></c><c></c></p>
 </cell>
 <cell xid="1555" props="bot-attach:30; left-attach:1; right-attach:2; top-attach:29">
-<p style="Normal" xid="1556"><c></c></p>
+<p style="Normal" xid="1556"><c></c><c></c></p>
 </cell>
 <cell xid="1558" props="bot-attach:30; left-attach:2; right-attach:3; top-attach:29">
-<p style="Normal" xid="1559"><c></c></p>
+<p style="Normal" xid="1559"><c></c><c></c></p>
 </cell>
 <cell xid="1561" props="bot-attach:30; left-attach:3; right-attach:4; top-attach:29">
-<p style="Normal" xid="1562"><c></c></p>
+<p style="Normal" xid="1562"><c></c><c></c></p>
 </cell>
 <cell xid="1564" props="bot-attach:30; left-attach:4; right-attach:5; top-attach:29">
-<p style="Normal" xid="1565"><c></c></p>
+<p style="Normal" xid="1565"><c></c><c></c></p>
 </cell>
 <cell xid="1567" props="bot-attach:30; left-attach:5; right-attach:6; top-attach:29">
-<p style="Normal" xid="1568"><c></c></p>
+<p style="Normal" xid="1568"><c></c><c></c></p>
 </cell>
 <cell xid="1570" props="bot-attach:30; left-attach:6; right-attach:7; top-attach:29">
-<p style="Normal" xid="1571"><c></c></p>
+<p style="Normal" xid="1571"><c></c><c></c></p>
 </cell>
 <cell xid="1573" props="bot-attach:30; left-attach:7; right-attach:8; top-attach:29">
-<p style="Normal" xid="1574"><c></c></p>
+<p style="Normal" xid="1574"><c></c><c></c></p>
 </cell>
 <cell xid="1576" props="bot-attach:30; left-attach:8; right-attach:9; top-attach:29">
-<p style="Normal" xid="1577"><c></c></p>
+<p style="Normal" xid="1577"><c></c><c></c></p>
 </cell>
 <cell xid="1579" props="bot-attach:30; left-attach:9; right-attach:10; top-attach:29">
-<p style="Normal" xid="1580"><c></c></p>
+<p style="Normal" xid="1580"><c></c><c></c></p>
 </cell>
 <cell xid="1582" props="bot-attach:30; left-attach:10; right-attach:11; top-attach:29">
-<p style="Normal" xid="1583"><c></c></p>
+<p style="Normal" xid="1583"><c></c><c></c></p>
 </cell>
 <cell xid="1585" props="bot-attach:30; left-attach:11; right-attach:12; top-attach:29">
-<p style="Normal" xid="1586"><c></c></p>
+<p style="Normal" xid="1586"><c></c><c></c></p>
 </cell>
 <cell xid="1588" props="bot-attach:30; left-attach:12; right-attach:13; top-attach:29">
-<p style="Normal" xid="1589"><c></c></p>
+<p style="Normal" xid="1589"><c></c><c></c></p>
 </cell>
 <cell xid="1591" props="bot-attach:30; left-attach:13; right-attach:14; top-attach:29">
-<p style="Normal" xid="1592"><c></c></p>
+<p style="Normal" xid="1592"><c></c><c></c></p>
 </cell>
 <cell xid="1594" props="bot-attach:30; left-attach:14; right-attach:15; top-attach:29">
-<p style="Normal" xid="1595"><c></c></p>
+<p style="Normal" xid="1595"><c></c><c></c></p>
 </cell>
 </table>
 <p style="Normal" xid="245"><c></c></p>
